@@ -1,0 +1,108 @@
+<segment size="12 10 16" template="night_s">
+	<box size="0.5 0.0625 0.5" pos="-7.5 0.0625 -1.5" hidden="0" template="night"/>
+	<decal pos="0.5 -5.57883 -2.375" hidden="1" tile="18" size="1 5" blend="0" color="1 1 1 .25"/>
+	<box size="0.5 0.125 0.5" pos="-7.5 0.125 -2.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="6.5 0.0625 -2.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="7.5 0.125 -2.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="8.5 0.0625 -2.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-8.5 0.0625 -2.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-6.5 0.0625 -2.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-10.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-3.5 0.0625 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-4.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="9.5 0.0625 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="8.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-9.5 0.0625 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="7.5 0.1875 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-6.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="-7.5 0.1875 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-8.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="4.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-5.5 0.0625 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="6.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="5.5 0.0625 -3.5" hidden="0" template="night"/>
+	<box size="7.0 4.0 2.0" pos="9.0 -4.0 -2.0" hidden="0" template="night"/>
+	<box size="7.0 4.0 2.0" pos="-9.0 -4.0 -2.0" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="10.5 0.125 -3.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="3.5 0.0625 -3.5" hidden="0" template="night"/>
+	<box size="0.5 2.375 0.5" pos="1.0 -6.625 -3.75" hidden="0" template="night"/>
+	<box size="0.5 2.5 0.5" pos="-1.0 -7.5 -4.0" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="2.5 0.0625 -4.125" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 0.0625 -4.125" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-3.5 0.125 -4.5" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.5" pos="3.5 -4.0 -4.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="3.5 0.125 -4.5" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.5" pos="-3.5 -4.0 -4.5" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.5625" pos="2.5 -4.0 -4.5625" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.25" pos="2.5 0.125 -4.875" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.25" pos="-2.5 0.125 -4.875" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.5625" pos="-2.5 -4.0 -4.5625" hidden="0" template="night"/>
+	<box size="0.5 1.75 0.5" pos="1.0 -5.25 -5.375" hidden="0" template="night"/>
+	<decal pos="-0.25 -4.32883 -6.125" hidden="1" tile="18" size="1 5" blend="0" color="1 1 1 .25"/>
+	<box size="1.0 2.0 0.5" pos="-0.5 -5.0 -7.625" hidden="1" template="night"/>
+	<obstacle pos="10.6 4.50979 -8.5" hidden="0" template="night_glass" type="dna" rot="0 0 1.57"/>
+	<obstacle pos="-10.6 4.50979 -8.5" hidden="0" template="night_glass" type="dna" rot="0 0 1.57"/>
+	<obstacle pos="2.5 -3.47722 -8.625" hidden="0" type="elevatorgrid" param1="color=.3 .32 .35" template="cave2" param0="thickness=6" param2="rows=1" param3="cols=6" param4="amplitude=.5" param5="frequency=.25" param6="separation=0"/>
+	<obstacle pos="-2.5 -3.47722 -8.625" hidden="0" type="elevatorgrid" param1="color=.3 .32 .35" template="cave2" param0="thickness=6" param2="rows=1" param3="cols=6" param4="amplitude=.5" param5="frequency=.25" param6="separation=0"/>
+	<box size="5.5 4.4375 0.5" pos="16.5 13.0625 -8.5" hidden="0" template="night"/>
+	<box size="5.5 4.4375 0.5" pos="16.5 -3.5625 -8.5" hidden="0" template="night"/>
+	<box size="0.5 4.5 0.5" pos="-10.5 13.0 -8.5" hidden="0" template="night"/>
+	<box size="5.5 4.4375 0.5" pos="-16.5 -3.5625 -8.5" hidden="0" template="night"/>
+	<box size="5.5 4.4375 0.5" pos="-16.5 13.0625 -8.5" hidden="0" template="night"/>
+	<box size="0.5 4.5 0.5" pos="-10.5 -3.5 -8.5" hidden="0" template="night"/>
+	<box size="0.5 4.5 0.5" pos="10.5 13.0 -8.5" hidden="0" template="night"/>
+	<box size="0.5 4.5 0.5" pos="10.5 -3.5 -8.5" hidden="0" template="night"/>
+	<box size="0.5 1.5 0.5" pos="1.0 -5.875 -9.25" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="3.5 -0.9375 -9.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-3.5 -0.9375 -9.5" hidden="0" template="night"/>
+	<box size="0.5 1.5 0.5" pos="-1.0 -5.5 -9.625" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-3.5 -0.875 -10.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="3.5 -0.875 -10.5" hidden="0" template="night"/>
+	<obstacle pos="2.5 0.52278 -11.125" hidden="0" type="scoretop" template="night_st" param1="static=0" param2="raycast=true"/>
+	<obstacle pos="-2.5 0.52278 -11.125" hidden="0" type="scoretop" template="night_st" param1="static=0" param2="raycast=true"/>
+	<box size="0.5 1.75 0.5" pos="1.0 -5.25 -10.875" hidden="0" template="night"/>
+	<box size="0.5 2.25 0.5" pos="0.0 -4.75 -11.125" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.125" pos="-5.5 -4.0 -11.875" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.0625" pos="-7.5 -4.0 -11.9375" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.1875" pos="-10.5 -4.0 -11.8125" hidden="0" template="night"/>
+	<box size="0.5 3.5 4.0" pos="3.5 -4.5 -8.0" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.375" pos="7.5 -4.0 -11.625" hidden="0" template="night"/>
+	<box size="0.5 2.375 0.5" pos="-1.0 -4.625 -11.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="3.5 -0.8125 -11.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="-3.5 -0.8125 -11.5" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.1875" pos="9.5 -4.0 -11.8125" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.0625" pos="4.5 -4.0 -11.9375" hidden="0" template="night"/>
+	<box size="0.5 3.5 4.0" pos="-3.5 -4.5 -8.0" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.25" pos="-4.5 -4.0 -11.75" hidden="0" template="night"/>
+	<box size="0.5 4.0 0.25" pos="6.5 -4.0 -11.75" hidden="0" template="night"/>
+	<box size="0.5 2.5 0.5" pos="1.0 -4.5 -12.5" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.125" pos="2.5 0.5 -12.875" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 0.5 -12.875" hidden="0" template="night"/>
+	<box size="0.5 2.625 0.5" pos="0.5 -3.875 -13.25" hidden="0" template="night"/>
+	<box size="0.5 2.75 0.5" pos="-0.5 -4.25 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="5.5 0.0625 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="4.5 0.125 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="3.5 0.1875 -13.5" hidden="0" template="night"/>
+	<box size="0.5 2.75 0.5" pos="1.5 -3.75 -13.5" hidden="0" template="night"/>
+	<box size="0.5 1.75 0.5" pos="2.5 1.75 -13.5" hidden="0" template="night"/>
+	<box size="0.5 1.75 0.5" pos="-2.5 1.75 -13.5" hidden="0" template="night"/>
+	<box size="3.0 0.5 0.5" pos="0.0 4.0 -13.5" hidden="0" template="night"/>
+	<box size="0.5 2.75 0.5" pos="-1.5 -3.5 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="-4.5 0.0625 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.1875 0.5" pos="-3.5 0.1875 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="2.5 4.625 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-2.5 4.625 -13.5" hidden="0" template="night"/>
+	<box size="0.5 0.0625 0.5" pos="-5.5 0.0625 -13.5" hidden="0" template="night"/>
+	<obstacle pos="0.0 0.0 -14.25" hidden="0" type="sweeper" template="night_glass" mode="4" param2="width=1.5" param3="speed=0.7" param4="height=4" param1="offset=1"/>
+	<obstacle pos="0.0 0.0 -14.5" hidden="0" type="sweeper" template="night_glass" param1="offset=-2.5" param2="width=1.5" param3="speed=0.7" param4="height=4" mode="3"/>
+	<obstacle pos="0.0 0.0 -14.75" hidden="0" type="sweeper" template="night_glass" mode="4" param2="width=1.5" param3="speed=0.7" param4="height=4"/>
+	<box size="3.0 2.375 0.5" pos="1.0 -2.75 -14.5" hidden="0" template="night"/>
+	<box size="3.0 0.25 0.5" pos="0.0 4.25 -14.5" hidden="1" template="night"/>
+	<box size="0.5 0.125 0.5" pos="2.5 4.625 -15.5" hidden="0" template="night"/>
+	<box size="3.0 0.5 0.5" pos="0.0 4.0 -15.5" hidden="0" template="night"/>
+	<box size="0.5 0.125 0.5" pos="-2.5 4.625 -15.5" hidden="0" template="night"/>
+	<box size="7.0 4.0 2.0" pos="9.0 -4.0 -14.0" hidden="0" template="night"/>
+	<box size="7.0 4.0 2.0" pos="-9.0 -4.0 -14.0" hidden="0" template="night"/>
+	<box size="1.5 3.0 0.5" pos="0.0 -4.0 -15.5" hidden="0" template="night"/>
+</segment>
+

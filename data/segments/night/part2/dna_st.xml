@@ -1,0 +1,86 @@
+<segment size="12 10 16" template="night_s">
+	<box size="5.5 5.0 0.5" pos="10.5 -5.0 -0.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="-10.5 -5.0 -0.5" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="7.25 2.5 -1.0" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="-10.625 -5.0 -1.5" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="10.625 -5.0 -1.5" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="-7.0 2.5 -2.0" hidden="0" template="night"/>
+	<box size="5.1875 5.0 0.5" pos="-10.8125 -5.0 -2.5" hidden="0" template="night"/>
+	<box size="5.1875 5.0 0.5" pos="10.8125 -5.0 -2.5" hidden="0" template="night"/>
+	<box size="0.5 4.25 0.5" pos="-2.5 -8.75 -3.0" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="-7.0 2.5 -3.0" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="7.0 2.5 -3.0" hidden="0" template="night"/>
+	<box size="0.5 4.5 0.5" pos="-2.0 -6.5 -3.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="-10.5 -5.0 -3.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="10.5 -5.0 -3.5" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="7.25 2.5 -4.0" hidden="0" template="night"/>
+	<obstacle pos="-2.0 -0.49591 -4.5" hidden="0" template="night_st" type="scoretop"/>
+	<box size="0.5 0.5 0.125" pos="-2.0 3.5 -4.875" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.1875" pos="-3.0 5.5 -4.8125" hidden="0" template="night"/>
+	<box size="1.0 2.5 0.375" pos="-2.5 8.5 -4.625" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.0625" pos="-2.0 2.5 -4.9375" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.1875" pos="-2.0 5.5 -4.8125" hidden="0" template="night"/>
+	<box size="5.4375 5.0 0.5" pos="10.5625 -5.0 -4.5" hidden="0" template="night"/>
+	<box size="5.4375 5.0 0.5" pos="-10.5625 -5.0 -4.5" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.0625" pos="-3.0 3.5 -4.9375" hidden="0" template="night"/>
+	<box size="0.5 5.25 0.5" pos="-2.0 -5.75 -4.5" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.125" pos="-3.0 4.5 -4.875" hidden="0" template="night"/>
+	<box size="0.5 2.75 0.5" pos="-1.0 -8.25 -4.5" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.3125" pos="-2.0 4.5 -4.8125" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="7.0 2.5 -5.0" hidden="0" template="night"/>
+	<box size="1.0 11.0 0.5" pos="-2.5 0.0 -5.5" hidden="0" template="night"/>
+	<box size="2.0 0.5 0.5" pos="-5.5 8.5 -5.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="-10.5 -5.0 -5.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="10.5 -5.0 -5.5" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="6.5 2.5 -6.0" hidden="0" template="night"/>
+	<decal pos="0.5 -4.07883 -6.375" hidden="1" tile="18" size="1 5" blend="0" color="1 1 1 .25"/>
+	<box size="5.3125 5.0 0.5" pos="-10.6875 -5.0 -6.5" hidden="0" template="night"/>
+	<box size="5.3125 5.0 0.5" pos="10.6875 -5.0 -6.5" hidden="0" template="night"/>
+	<decal pos="-0.5 -4.07883 -7.125" hidden="1" tile="18" size="1 5" blend="0" color="1 1 1 .25"/>
+	<box size="0.5 11.5 0.5" pos="-7.0 2.5 -7.0" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="10.625 -5.0 -7.5" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="-10.625 -5.0 -7.5" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="5.0 2.5 -8.0" hidden="0" template="night"/>
+	<box size="0.5 2.75 0.5" pos="1.5 -9.25 -8.0" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="7.0 2.5 -8.0" hidden="0" template="night"/>
+	<box size="5.0625 5.0 0.5" pos="-10.9375 -5.0 -8.5" hidden="0" template="night"/>
+	<box size="0.5 2.75 0.5" pos="1.0 -8.25 -8.5" hidden="0" template="night"/>
+	<box size="5.0625 5.0 0.5" pos="10.9375 -5.0 -8.5" hidden="0" template="night"/>
+	<box size="0.5 4.5 0.5" pos="2.0 -6.5 -8.5" hidden="0" template="night"/>
+	<box size="1.0 11.0 0.5" pos="-2.5 0.0 -8.5" hidden="0" template="night"/>
+	<obstacle pos="0.0 -3.24021 -9.25" hidden="0" template="night_glass" type="dna" rot="0 1 .5" param1="segments=14"/>
+	<obstacle pos="0.0 4.75979 -9.25" hidden="0" template="night_glass" type="dna" rot="0 1 -.2"/>
+	<obstacle pos="0.0 0.75979 -9.25" hidden="0" template="night_glass" type="dna" rot="0 1 .25"/>
+	<box size="0.5 0.5 0.1875" pos="2.0 5.5 -9.8125" hidden="0" template="night"/>
+	<box size="0.5 5.75 0.5" pos="2.0 -6.25 -9.5" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.1875" pos="3.0 5.5 -9.8125" hidden="0" template="night"/>
+	<box size="5.1875 5.0 0.5" pos="10.8125 -5.0 -9.5" hidden="0" template="night"/>
+	<box size="1.0 2.5 0.375" pos="2.5 8.5 -9.625" hidden="0" template="night"/>
+	<box size="5.1875 5.0 0.5" pos="-10.8125 -5.0 -9.5" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 3.5 -9.9375" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.0625" pos="3.0 2.5 -9.9375" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.125" pos="2.0 4.5 -9.875" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.125" pos="3.0 3.5 -9.875" hidden="0" template="night"/>
+	<box size="0.5 0.5 0.3125" pos="3.0 4.5 -9.8125" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="-7.0 2.5 -10.0" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="10.625 -5.0 -10.5" hidden="0" template="night"/>
+	<box size="1.0 11.5 0.5" pos="2.5 -0.5 -10.5" hidden="0" template="night"/>
+	<box size="2.0 0.5 0.5" pos="5.5 8.5 -10.5" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="-10.625 -5.0 -10.5" hidden="0" template="night"/>
+	<box size="5.25 5.0 0.5" pos="-10.75 -5.0 -11.5" hidden="0" template="night"/>
+	<box size="5.25 5.0 0.5" pos="10.75 -5.0 -11.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="10.5 -5.0 -12.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="-10.5 -5.0 -12.5" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="-7.0 2.5 -13.0" hidden="0" template="night"/>
+	<box size="0.5 11.5 0.5" pos="-5.0 2.5 -13.0" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="10.5 -5.0 -13.5" hidden="0" template="night"/>
+	<box size="1.0 11.5 0.5" pos="2.5 -0.5 -13.5" hidden="0" template="night"/>
+	<box size="5.5 5.0 0.5" pos="-10.5 -5.0 -13.5" hidden="0" template="night"/>
+	<box size="5.1875 5.0 0.5" pos="-10.8125 -5.0 -14.5" hidden="0" template="night"/>
+	<box size="5.1875 5.0 0.5" pos="10.8125 -5.0 -14.5" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="-10.625 -5.0 -15.5" hidden="0" template="night"/>
+	<box size="4.5 6.0 8.0" pos="-11.5 6.0 -8.0" hidden="0" template="night"/>
+	<box size="5.375 5.0 0.5" pos="10.625 -5.0 -15.5" hidden="0" template="night"/>
+	<box size="4.5 6.0 8.0" pos="11.5 6.0 -8.0" hidden="0" template="night"/>
+</segment>
+
