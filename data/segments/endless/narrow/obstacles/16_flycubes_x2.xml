@@ -1,0 +1,62 @@
+<segment size="12 10 16" template="endless_s">
+	<box size="0.375 6.5 0.5" pos="-2.625 1.0 -0.5" hidden="0" template="endless"/>
+	<box size="0.25 6.5 0.5" pos="2.75 1.0 -0.5" hidden="0" template="endless"/>
+	<box size="0.3125 6.5 0.5" pos="2.6875 1.0 -1.5" hidden="0" template="endless"/>
+	<box size="0.25 6.5 0.5" pos="-2.75 1.0 -1.5" hidden="0" template="endless"/>
+	<box size="0.375 6.5 0.5" pos="-2.625 1.0 -2.5" hidden="0" template="endless"/>
+	<box size="0.1875 6.5 0.5" pos="2.8125 1.0 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 6.5 0.5" pos="-2.5 1.0 -3.5" hidden="0" template="endless"/>
+	<box size="0.3125 6.5 0.5" pos="2.6875 1.0 -3.5" hidden="0" template="endless"/>
+	<box size="0.4375 6.5 0.5" pos="-2.5625 1.0 -4.5" hidden="0" template="endless"/>
+	<box size="0.1875 6.5 0.5" pos="2.8125 1.0 -4.5" hidden="0" template="endless"/>
+	<box size="0.3125 6.5 0.5" pos="-2.6875 1.0 -5.5" hidden="0" template="endless"/>
+	<box size="0.0625 6.5 0.5" pos="2.9375 1.0 -5.5" hidden="0" template="endless"/>
+	<box size="0.1875 6.5 0.5" pos="-2.8125 1.0 -6.5" hidden="0" template="endless"/>
+	<box size="0.25 6.5 0.5" pos="-2.75 1.0 -7.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.125" pos="2.5 2.5 -7.875" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.125" pos="2.5 0.5 -7.875" hidden="0" template="endless"/>
+	<obstacle pos="2.5 1.57951 -7.875" hidden="0" template="endless_glass" type="flycube" param1="distance=12"/>
+	<decal pos="2.5 1.5 -7.95" hidden="0" tile="21" blend="0" size="2 2"/>
+	<decal pos="2.5 1.5 -7.99" hidden="0" tile="49" size=".5 .5" color=".3 .3 .3"/>
+	<box size="0.125 6.5 0.5" pos="-2.875 1.0 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="2.5 1.5 -8.5" hidden="0" template="endless" color=".4 .4 .4 .4 .4 .4 .7 .7 .7"/>
+	<box size="0.5 0.5 0.5" pos="2.5 0.5 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -4.9375 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.25 0.5" pos="0.5 -4.75 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="1.5 -4.5 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.375 0.5" pos="-2.5 -4.625 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.1875 0.5" pos="-1.5 -4.8125 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 2.5 0.5" pos="2.5 -2.5 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 3.0 0.5" pos="2.5 5.0 -8.5" hidden="0" template="endless"/>
+	<box size="0.0625 6.5 0.5" pos="-2.9375 1.0 -9.5" hidden="0" template="endless"/>
+	<box size="0.375 6.5 0.5" pos="2.625 1.0 -10.5" hidden="0" template="endless"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -11.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 2.5 -11.875" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 0.5 -11.875" hidden="0" template="endless"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -4.9375 -11.5" hidden="0" template="endless"/>
+	<box size="0.3125 6.5 0.5" pos="2.6875 1.0 -11.5" hidden="0" template="endless"/>
+	<obstacle pos="-2.5 1.57951 -11.875" hidden="0" template="endless_glass" type="flycube" param1="distance=12"/>
+	<decal pos="-2.5 1.5 -11.95" hidden="0" tile="21" blend="0" size="2 2"/>
+	<decal pos="-2.5 1.5 -11.99" hidden="0" tile="49" size="0.5 0.5 0.0" color=".3 .3 .3"/>
+	<box size="0.5 3.0 0.5" pos="-2.5 5.0 -12.5" hidden="0" template="endless"/>
+	<box size="0.375 6.5 0.5" pos="2.625 1.0 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5625 0.5" pos="2.5 -4.4375 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.25 0.5" pos="-0.5 -4.75 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.375 0.5" pos="0.5 -4.625 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.3125 0.5" pos="-1.5 -4.6875 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 2.5 0.5" pos="-2.5 -2.5 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-2.5 1.5 -12.5" hidden="0" template="endless" color=".4 .4 .4 .4 .4 .4 .7 .7 .7"/>
+	<box size="0.5 0.4375 0.5" pos="1.5 -4.5625 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-2.5 0.5 -12.5" hidden="0" template="endless"/>
+	<box size="0.375 6.5 0.5" pos="-2.625 1.0 -13.5" hidden="0" template="endless"/>
+	<box size="0.25 6.5 0.5" pos="2.75 1.0 -13.5" hidden="0" template="endless"/>
+	<box size="0.3125 6.5 0.5" pos="-2.6875 1.0 -14.5" hidden="0" template="endless"/>
+	<box size="0.375 6.5 0.5" pos="2.625 1.0 -14.5" hidden="0" template="endless"/>
+	<box size="0.1875 6.5 0.5" pos="2.8125 1.0 -15.5" hidden="0" template="endless"/>
+	<box size="18.0 5.0 8.0" pos="0.0 12.0 -8.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.5 6.0 8.0" pos="10.5 1.0 -8.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="18.0 5.0 8.0" pos="0.0 -10.0 -8.0" hidden="0" template="endless"/>
+	<box size="7.5 6.0 8.0" pos="-10.5 1.0 -8.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="0.375 6.5 0.5" pos="-2.625 1.0 -15.5" hidden="0" template="endless"/>
+</segment>
+

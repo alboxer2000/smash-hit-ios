@@ -1,0 +1,14 @@
+<segment size="12 10 8" template="endless_s">
+	<decal pos="0.0 1.0 -7.5" hidden="0" tile="-1" color=".3 .3 .3"/>
+	<decal pos="0.0 1.0 -7.5" hidden="0" tile="-1" color=".5 .5 .5"/>
+	<box size="1.5 6.0 0.5" pos="2.5 1.0 -7.5" hidden="0" template="endless"/>
+	<box size="7.0 6.0 4.0" pos="11.0 1.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="1.0 2.5 0.5" pos="0.0 -2.5 -7.5" hidden="0" template="endless"/>
+	<box size="1.0 2.5 0.5" pos="0.0 4.5 -7.5" hidden="0" template="endless"/>
+	<box size="7.0 6.0 4.0" pos="-11.0 1.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="18.0 5.0 4.0" pos="0.0 -10.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="1.5 6.0 0.5" pos="-2.5 1.0 -7.5" hidden="0" template="endless"/>
+	<box size="18.0 5.0 4.0" pos="0.0 12.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<obstacle pos="0.0 0.0 -8.0" hidden="0" type="doors/basic" param0="buttons=1"/>
+</segment>
+
