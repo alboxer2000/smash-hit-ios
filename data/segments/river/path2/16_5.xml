@@ -1,0 +1,28 @@
+<segment size="12 10 16" template="river_red_s">
+	<box size="0.5 0.5 0.125" pos="4.5 4.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="4.5 3.5 -10.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="1.5 3.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="4.5 -1.5 -10.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="1.5 -1.5 -10.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="3.5 -1.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="1.5 -2.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="4.5 -2.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="4.5 0.5 -10.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="4.5 -0.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="1.5 2.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="4.5 2.5 -10.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="4.5 1.5 -10.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="1.5 1.5 -10.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="1.5 0.5 -10.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="1.5 -0.5 -10.875" hidden="0" template="river_red"/>
+	<obstacle pos="3.0 1.01 -11.5" hidden="0" template="river_glass" type="bar" param1="move=1" param2="speed=.5" param3="height=.4" param4="offset=1" mode="6"/>
+	<box size="0.0625 2.0 0.5" pos="1.0625 1.0 -11.5" hidden="0" template="river_red"/>
+	<obstacle pos="3.0 -0.175 -13.0" hidden="0" template="river_glass" type="scorestar"/>
+	<box size="2.0 7.0 1.5" pos="3.0 10.0 -12.5" hidden="0" template="river_red"/>
+	<box size="2.0 7.0 1.5" pos="3.0 -8.0 -12.5" hidden="0" template="river_red"/>
+	<box size="0.5 2.0 1.0625" pos="1.5 1.0 -13.0625" hidden="0" template="river_red"/>
+	<box size="0.5 2.0 1.0625" pos="4.5 1.0 -13.0625" hidden="0" template="river_red"/>
+	<box size="0.5 20.5 8.0" pos="-5.5 3.5 -8.0" hidden="0" template="river_wall"/>
+	<box size="0.5 20.5 8.0" pos="5.5 3.5 -8.0" hidden="0" template="river_wall"/>
+</segment>
+

@@ -1,0 +1,39 @@
+<segment size="12 10 16" template="river_red_s">
+	<box size="0.5 5.5 1.0" pos="0.0 -5.5 -1.0" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 -0.5 -1.9375" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="2.0 -1.5 -1.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 -2.5 -1.9375" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="2.0 -3.5 -1.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="2.0 -4.5 -1.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="-2.0 -4.5 -1.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="-2.0 -3.5 -1.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="-2.0 -2.5 -1.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="-2.0 -1.5 -1.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.0625" pos="-2.0 -0.5 -1.9375" hidden="0" template="river_red"/>
+	<box size="1.5 6.0 0.5" pos="0.0 -6.0 -2.5" hidden="0" template="river_red"/>
+	<obstacle pos="0.0 -2.9986 -4.5" hidden="0" template="river_glass" type="levicube" param1="size=.35" param2="speed=10" param3="offset=.5" mode="3"/>
+	<obstacle pos="0.0 -2.9986 -4.5" hidden="0" template="river_glass" type="levicube" param1="size=.35" param2="speed=10" param3="offset=0" mode="4"/>
+	<box size="1.5 3.0 0.5" pos="0.0 -3.0 -6.5" hidden="0" template="river_red"/>
+	<box size="0.5 6.0 2.5" pos="2.0 -6.0 -4.5" hidden="0" template="river_red"/>
+	<box size="0.5 6.0 2.5" pos="-2.0 -6.0 -4.5" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.0625" pos="-2.0 -0.5 -9.9375" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="-2.0 -2.5 -9.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="-2.0 -3.5 -9.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.25" pos="-2.0 -4.5 -9.75" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="2.0 -4.5 -9.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="2.0 -3.5 -9.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 -2.5 -9.9375" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 -0.5 -9.9375" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.1875" pos="2.0 -1.5 -9.8125" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="-2.0 -1.5 -9.875" hidden="0" template="river_red"/>
+	<box size="1.5 3.0 0.5" pos="0.0 -3.0 -10.5" hidden="0" template="river_red"/>
+	<obstacle pos="0.0 -2.9986 -12.5" hidden="0" template="river_glass" type="levicube" param1="size=.35" param2="speed=10" param3="offset=0" mode="4"/>
+	<obstacle pos="0.0 -2.9986 -12.5" hidden="0" template="river_glass" type="levicube" param1="size=.35" param2="speed=10" param3="offset=1" mode="3"/>
+	<box size="0.5 6.0 2.5" pos="2.0 -6.0 -12.5" hidden="0" template="river_red"/>
+	<box size="1.5 3.0 0.5" pos="0.0 -3.0 -14.5" hidden="0" template="river_red"/>
+	<box size="0.5 6.0 2.5" pos="-2.0 -6.0 -12.5" hidden="0" template="river_red"/>
+	<box size="0.5 20.5 8.0" pos="4.5 3.5 -8.0" hidden="0" template="river_wall"/>
+	<box size="0.5 20.5 8.0" pos="-4.5 3.5 -8.0" hidden="0" template="river_wall"/>
+	<box size="0.5 3.0 0.5" pos="0.0 -3.0 -15.5" hidden="0" template="river_red"/>
+</segment>
+

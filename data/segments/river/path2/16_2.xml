@@ -1,0 +1,48 @@
+<segment size="12 10 16" template="river_red_s">
+	<box size="0.5 0.5 0.125" pos="-2.0 -1.5 -3.875" hidden="0" template="river_red"/>
+	<box size="0.5 5.5 0.125" pos="-2.0 -8.5 -3.875" hidden="0" template="river_red"/>
+	<box size="0.5 5.5 0.5" pos="2.0 -13.25 -3.5" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="4.0 4.5 -3.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="-2.0 4.5 -3.875" hidden="0" template="river_red"/>
+	<decal pos="-2.0 1.5 -3.825" hidden="0" tile="21" blend="0" size="2 2"/>
+	<obstacle pos="-2.0 1.57951 -3.875" hidden="0" template="river_glass" type="flycube" param1="distance=12"/>
+	<decal pos="-2.0 1.5 -3.99" hidden="0" tile="48" size=".5 .5" color="1.2 .4 .3"/>
+	<box size="0.5 1.0 0.5" pos="-2.0 3.0 -4.5" hidden="0" template="river_red"/>
+	<box size="3.5 0.5 0.5" pos="1.0 4.5 -4.5" hidden="0" template="river_red"/>
+	<box size="0.5 8.5 0.5" pos="4.0 -4.5 -4.5" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 1.5 -4.5" hidden="0" template="river_red"/>
+	<box size="0.5 7.5 0.5" pos="-2.0 -6.5 -4.5" hidden="0" template="river_red" color="1 .2 .1  1 1 1  1.2 .4 .3"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 0.5 -4.5" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="2.0 -1.5 -8.875" hidden="0" template="river_red"/>
+	<box size="0.5 5.5 0.5" pos="0.0 -13.25 -8.5" hidden="0" template="river_red"/>
+	<box size="0.5 5.5 0.125" pos="2.0 -8.5 -8.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="-4.0 4.5 -8.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="2.0 4.5 -8.875" hidden="0" template="river_red"/>
+	<decal pos="2.0 1.5 -8.825" hidden="0" tile="21" blend="0" size="2 2"/>
+	<obstacle pos="2.0 1.57951 -8.875" hidden="0" template="river_glass" type="flycube" param1="distance=12"/>
+	<decal pos="2.0 1.5 -8.99" hidden="0" tile="48" size=".5 .5" color="1.2 .4 .3"/>
+	<box size="0.5 7.5 0.5" pos="2.0 -6.5 -9.5" hidden="0" template="river_red" color="1 .2 .1  1 1 1  1.2 .4 .3"/>
+	<box size="0.125 7.5 0.5" pos="1.375 -11.5 -9.5" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.5" pos="2.0 0.5 -9.5" hidden="0" template="river_red"/>
+	<box size="0.5 1.0 0.5" pos="2.0 3.0 -9.5" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.5" pos="2.0 1.5 -9.5" hidden="0" template="river_red"/>
+	<box size="3.5 0.5 0.5" pos="-1.0 4.5 -9.5" hidden="0" template="river_red"/>
+	<box size="0.5 8.5 0.5" pos="-4.0 -4.5 -9.5" hidden="0" template="river_red"/>
+	<box size="0.125 7.5 0.5" pos="2.625 -14.5 -9.5" hidden="0" template="river_red"/>
+	<box size="0.5 5.5 0.125" pos="-2.0 -8.5 -12.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="4.0 4.5 -12.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="-2.0 4.5 -12.875" hidden="0" template="river_red"/>
+	<box size="0.5 0.5 0.125" pos="-2.0 -1.5 -12.875" hidden="0" template="river_red"/>
+	<decal pos="-2.0 1.5 -12.825" hidden="0" tile="21" blend="0" size="2 2"/>
+	<obstacle pos="-2.0 1.57951 -12.875" hidden="0" template="river_glass" type="flycube" param1="distance=12"/>
+	<decal pos="-2.0 1.5 -12.99" hidden="0" tile="48" size=".5 .5" color="1.2 .4 .3"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 1.5 -13.5" hidden="0" template="river_red"/>
+	<box size="3.5 0.5 0.5" pos="1.0 4.5 -13.5" hidden="0" template="river_red"/>
+	<box size="0.5 1.0 0.5" pos="-2.0 3.0 -13.5" hidden="0" template="river_red"/>
+	<box size="0.5 8.5 0.5" pos="4.0 -4.5 -13.5" hidden="0" template="river_red"/>
+	<box size="0.5 7.5 0.5" pos="-2.0 -6.5 -13.5" hidden="0" template="river_red" color="1 .2 .1  1 1 1  1.2 .4 .3"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 0.5 -13.5" hidden="0" template="river_red"/>
+	<box size="0.5 20.5 8.0" pos="-5.0 3.5 -8.0" hidden="0" template="river_wall"/>
+	<box size="0.5 20.5 8.0" pos="5.0 3.5 -8.0" hidden="0" template="river_wall"/>
+</segment>
+
