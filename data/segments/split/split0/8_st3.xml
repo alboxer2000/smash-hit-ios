@@ -1,0 +1,6 @@
+<segment size="12 10 8" template="basic_darker_s">
+	<box size="0.5 0.5 0.5" pos="0.0 4.125 -6.0" hidden="0" template="split"/>
+	<box size="0.5 6.5 0.5" pos="-1.0 10.0 -6.0" hidden="0" template="split"/>
+	<box size="0.5 6.5 0.5" pos="1.0 10.0 -6.0" hidden="0" template="split"/>
+</segment>
+

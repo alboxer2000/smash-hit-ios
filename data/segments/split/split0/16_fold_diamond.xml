@@ -1,0 +1,39 @@
+<segment size="12 10 16" template="basic_darker_s">
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="2.0 0.0 -7.3125"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="0.0 0.0 -7.3125"/>
+	<box size="0.5 0.5 0.3125" template="split" hidden="0" pos="1.0 0.0 -7.1875"/>
+	<box size="0.5 0.5 0.25" template="split" hidden="0" pos="-1.0 0.0 -7.25"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="-2.0 0.0 -7.4375"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="2.0 2.0 -7.3125"/>
+	<box size="0.5 0.5 0.3125" template="split" hidden="0" pos="1.0 2.0 -7.1875"/>
+	<box size="0.5 0.5 0.375" template="split" hidden="0" pos="0.0 2.0 -7.125"/>
+	<box size="0.5 0.5 0.25" template="split" hidden="0" pos="-1.0 2.0 -7.25"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="-2.0 2.0 -7.4375"/>
+	<box size="5.5 7.0 0.5" template="split" hidden="0" pos="0.0 -6.5 -8.0"/>
+	<box size="5.5 7.0 0.5" template="split" hidden="0" pos="0.0 8.5 -8.0"/>
+	<obstacle pos="0.0 0.0 -9.0" hidden="0" type="foldwindow" template="split_glass" param1="width=5"/>
+	<box size="1.5 1.5 0.5" template="split" hidden="0" pos="-4.0 1.0 -9.0"/>
+	<box size="1.5 1.5 0.5" template="split" hidden="0" pos="4.0 1.0 -9.0"/>
+	<box size="1.0 14.5 1.5" template="split" hidden="0" pos="-6.5 1.0 -8.0" tileSize="2"/>
+	<box size="1.0 14.5 1.5" template="split" hidden="0" pos="6.5 1.0 -8.0" tileSize="2"/>
+	<obstacle pos="0.0 -0.225 -12.5" hidden="0" type="scoremulti" template="split_st"/>
+	<box size="0.5 6.625 0.5" pos="0.0 -7.375 -12.5" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.3125" template="split" hidden="0" pos="1.0 2.0 -13.1875"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="2.0 2.0 -13.3125"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="2.0 0.0 -13.3125"/>
+	<box size="0.5 0.5 0.3125" template="split" hidden="0" pos="1.0 0.0 -13.1875"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="0.0 0.0 -13.3125"/>
+	<box size="0.5 0.5 0.25" template="split" hidden="0" pos="-1.0 0.0 -13.25"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="-2.0 2.0 -13.4375"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="-2.0 0.0 -13.4375"/>
+	<box size="0.5 0.5 0.375" template="split" hidden="0" pos="0.0 2.0 -13.125"/>
+	<box size="0.5 0.5 0.25" template="split" hidden="0" pos="-1.0 2.0 -13.25"/>
+	<box size="5.5 7.0 0.5" template="split" hidden="0" pos="0.0 -6.5 -14.0"/>
+	<box size="5.5 7.0 0.5" template="split" hidden="0" pos="0.0 8.5 -14.0"/>
+	<obstacle pos="0.0 1.75 -15.0" hidden="0" type="foldwindow" template="split_glass" param1="width=5" rot="0 0 3.14"/>
+	<box size="1.5 1.5 0.5" template="split" hidden="0" pos="4.0 1.0 -15.0"/>
+	<box size="1.0 14.5 1.5" template="split" hidden="0" pos="-6.5 1.0 -14.0" tileSize="2"/>
+	<box size="1.0 14.5 1.5" template="split" hidden="0" pos="6.5 1.0 -14.0" tileSize="2"/>
+	<box size="1.5 1.5 0.5" template="split" hidden="0" pos="-4.0 1.0 -15.0"/>
+</segment>
+

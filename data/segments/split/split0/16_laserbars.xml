@@ -1,0 +1,54 @@
+<segment size="12 10 16" template="basic_darker_s">
+	<box size="0.5 0.125 0.5" pos="-4.5 -3.375 -0.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="4.5 -3.375 -0.5" hidden="0" template="split"/>
+	<box size="0.5 0.25 0.5" pos="-3.5 -3.25 -0.5" hidden="0" template="split"/>
+	<box size="0.5 0.25 0.5" pos="3.5 -3.25 -0.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="3.5 -3.375 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-7.5 -3.375 -9.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="8.5 -3.375 -9.5" hidden="0" template="split"/>
+	<box size="0.5 0.25 0.5" pos="8.5 -3.25 -10.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-8.5 -3.375 -11.5" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.5" pos="-2.5 -8.0 -12.5" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.125" pos="-3.5 -2.0 -12.875" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-3.5 -3.375 -12.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="3.5 -3.375 -12.5" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.125" pos="0.0 0.25 -12.875" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.125" pos="3.5 -2.0 -12.875" hidden="0" template="split"/>
+	<box size="0.5 4.0 0.5" pos="1.5 -8.5 -12.5" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="2.5 -8.0 -12.75" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.125" pos="0.0 -2.0 -12.875" hidden="0" template="split"/>
+	<box size="0.5 3.5 0.25" pos="-0.5 -9.0 -12.75" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.5" pos="-8.5 -3.0 -12.5" hidden="0" template="split"/>
+	<box size="0.5 0.25 0.5" pos="-7.5 -3.25 -12.5" hidden="0" template="split"/>
+	<box size="0.5 2.0 0.125" pos="-3.5 -1.5 -13.125" hidden="0" template="split"/>
+	<box size="0.5 1.0 0.125" pos="0.0 -0.5 -13.125" hidden="0" template="split"/>
+	<box size="0.5 2.0 0.125" pos="3.5 -1.5 -13.125" hidden="0" template="split"/>
+	<box size="0.0 1.0 0.0" pos="6.5 5.5 -13.5" hidden="0" template="basic_darker"/>
+	<obstacle pos="3.5 0.75 -13.5" hidden="0" type="scoretop" template="split_st"/>
+	<obstacle pos="0.0 0.75 -13.5" hidden="0" type="scoretop" template="split_st"/>
+	<obstacle rot="0 0 1.57" hidden="0" type="laser" template="split_glass" param2="beams=14" pos="-1.75 -1.5 -13.5"/>
+	<obstacle pos="0.0 0.0 -13.5" hidden="0" type="bar" template="split_glass"/>
+	<obstacle pos="-3.5 0.75 -13.5" hidden="0" type="scoretop" template="split_st"/>
+	<obstacle rot="0 0 1.57" hidden="0" type="laser" template="split_glass" param2="beams=14" pos="1.75 -1.5 -13.5"/>
+	<box size="0.125 2.0 0.25" pos="-3.875 -1.5 -13.5" hidden="0" template="split"/>
+	<box size="0.125 2.0 0.25" pos="3.875 -1.5 -13.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="0.0 0.625 -13.5" hidden="0" template="split"/>
+	<box size="0.5 2.0 0.125" pos="3.5 -1.5 -13.875" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-3.5 0.625 -13.5" hidden="0" template="split"/>
+	<box size="0.5 1.0 0.125" pos="0.0 -0.5 -13.875" hidden="0" template="split"/>
+	<box size="3.0 5.5 0.5" pos="0.0 -7.0 -13.5" hidden="0" template="split"/>
+	<box size="0.5 2.0 0.125" pos="-3.5 -1.5 -13.875" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="3.5 0.625 -13.5" hidden="0" template="split"/>
+	<box size="1.5 4.5 1.5" pos="12.5 1.0 -13.5" hidden="0" template="split" tileSize="4"/>
+	<box size="3.0 4.5 8.0" pos="6.0 -8.0 -8.0" hidden="0" template="split"/>
+	<box size="3.0 4.5 8.0" pos="-6.0 -8.0 -8.0" hidden="0" template="split"/>
+	<box size="7.0 4.5 8.0" pos="16.0 -8.0 -8.0" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.125 0.5" pos="-4.5 -3.375 -15.5" hidden="0" template="split"/>
+	<box size="0.5 0.25 0.5" pos="3.5 -3.25 -15.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="4.5 -3.375 -15.5" hidden="0" template="split"/>
+	<box size="0.5 0.25 0.5" pos="-3.5 -3.25 -15.5" hidden="0" template="split"/>
+	<box size="1.5 4.5 1.5" pos="-13.5 1.0 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="1.5 3.5 1.5" pos="11.5 0.0 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="7.0 4.5 8.0" pos="-16.0 -8.0 -8.0" hidden="0" template="split" tileSize="4"/>
+</segment>
+
