@@ -1,0 +1,3 @@
+<ui texture="licenses.png" shade="true">	
+	<rect coords="0 0 600 193" cmd="script:licenses ; game.menu"/>
+</ui>
