@@ -1,0 +1,38 @@
+<segment size="12 10 16" template="hyper_s">
+	<box size="0.5 0.5 0.0625" pos="2.0 -4.75 -5.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="4.0 5.25 -5.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="8.0 5.25 -5.875" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="8.0 4.25 -5.9375" hidden="0" template="hyper"/>
+	<decal pos="4.5 0.75 -6.0" hidden="0" tile="28" blend="0" color="1 .5 1" size="1 .5" rot="0 0 1.57"/>
+	<obstacle pos="4.5 0.75 -6.5" hidden="0" type="laser" rot="0 0 3.14" param1="beams=3"/>
+	<obstacle pos="2.0 0.098225 -6.5" hidden="0" template="hyper_st" type="scoremulti"/>
+	<box size="0.5 1.0 0.5" pos="5.0 0.75 -6.5" hidden="0" template="hyper_red3"/>
+	<box size="2.5 0.5 0.5" pos="0.0 -4.75 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.0 0.5" pos="4.0 3.75 -6.5" hidden="0" template="hyper"/>
+	<box size="2.5 0.5 0.5" pos="6.0 5.25 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 9.0 0.5" pos="8.0 -4.25 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.125 0.5" pos="2.0 -0.125 -6.5" hidden="0" template="hyper"/>
+	<box size="2.0 0.5 0.5" pos="3.5 -0.75 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.5 0.5" pos="2.0 -2.75 -6.5" hidden="0" template="hyper"/>
+	<box size="1.0 0.5 0.5" pos="4.5 2.25 -6.5" hidden="0" template="hyper"/>
+	<decal pos="2.5 -4.95235 -10.5" hidden="0" tile="6" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<decal pos="2.5 -4.95235 -10.5" hidden="0" tile="6" rot="1.57 0 0" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<decal pos="2.5 -4.95235 -10.5" hidden="0" tile="6" rot="0 1.57 0" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<box size="0.5 0.5 0.0625" pos="-8.0 5.25 -10.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-5.0 5.25 -10.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="-4.0 5.25 -10.875" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-4.0 4.25 -10.9375" hidden="0" template="hyper"/>
+	<decal pos="-4.5 0.75 -11.0" hidden="0" tile="28" blend="0" color="1 .5 1" size="1 .5" rot="0 0 -1.57"/>
+	<obstacle pos="-4.5 0.75 -11.5" hidden="0" type="laser" param1="beams=3"/>
+	<obstacle pos="-2.0 0.098225 -11.5" hidden="0" template="hyper_st" type="scoremulti"/>
+	<box size="1.0 0.5 0.5" pos="-4.5 2.25 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.125 0.5" pos="-2.0 -0.125 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.0 0.5" pos="-4.0 3.75 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 2.5" pos="-2.0 -4.75 -9.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.0 0.5" pos="-5.0 0.75 -11.5" hidden="0" template="hyper_red3"/>
+	<box size="0.5 9.0 0.5" pos="-8.0 -4.25 -11.5" hidden="0" template="hyper"/>
+	<box size="2.5 0.5 0.5" pos="-6.0 5.25 -11.5" hidden="0" template="hyper"/>
+	<box size="2.0 0.5 0.5" pos="-3.5 -0.75 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.5 0.5" pos="-2.0 -2.75 -11.5" hidden="0" template="hyper"/>
+</segment>
+

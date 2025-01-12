@@ -1,0 +1,105 @@
+<segment size="12 10 16" template="hyper_s" softshadow=".6">
+	<obstacle pos="-5.0 -2.0 -14.4" hidden="0" template="hyper_glass" type="dropblock" param1="ax=4" param2="vz=3" param4="distance=28" param7="height=1" param6="width=1" param5="depth=.1" param3="vx=2.5" param8="vy=1.5" param9="ay=-1" param10="boom=false"/>
+	<obstacle pos="1.0 0.0 -15.025" hidden="0" template="hyper_glass" type="hitblock" param1="ax=4" param2="az=-1" param4="distance=15" param7="height=1" param6="width=1" param5="depth=.1" mode="6"/>
+	<obstacle pos="1.0 0.0 -15.025" hidden="0" template="hyper_glass" type="hitblock" param1="ax=4" param2="az=-1" param4="distance=30" param7="height=1" param6="width=1" param5="depth=.1" mode="1" param3="speed=4"/>
+	<obstacle pos="1.0 2.0 -15.15" hidden="0" template="hyper_glass" type="dropblock" param1="ax=5" param2="vz=4" param4="distance=12" param7="height=1" param6="width=1" param5="depth=.1" param3="vx=.4" param8="vy=-.65" param9="az=.1" param10="ay=1" param11="boom=false"/>
+	<box size="0.5 0.5 0.25" pos="5.0 3.0 -15.125" hidden="0" template="hyper"/>
+	<obstacle pos="-1.0 2.0 -15.275" hidden="0" template="hyper_glass" type="hitblock" param1="ax=4" param2="ay=.2" param4="distance=19" param7="height=1" param6="width=1" param5="depth=.1" mode="6"/>
+	<obstacle pos="-1.0 2.0 -15.275" hidden="0" template="hyper_glass" type="hitblock" param1="ax=4" param2="ay=.2" param4="distance=25" param7="height=1" param6="width=1" param5="depth=.1" param3="speed=2.5" mode="1"/>
+	<box size="0.5 0.5 0.0625" pos="-8.0 2.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="-7.0 1.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-6.0 1.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="-3.0 3.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="0.0 0.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="2.0 0.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="2.0 1.0 -15.375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="3.0 0.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="6.0 0.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="6.0 3.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="4.0 2.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="4.0 3.0 -15.375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-3.0 -2.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="5.0 1.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="5.0 4.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.0 3.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="1.0 1.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="0.0 3.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-4.0 2.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.0 5.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.25" pos="0.0 5.0 -15.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="0.0 4.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.0 -2.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.25" pos="-1.0 -3.0 -15.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="-5.0 -6.0 -15.375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-1.0 -1.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="0.0 -2.0 -15.375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="4.0 -4.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.25" pos="5.0 -5.0 -15.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="5.0 -4.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="3.0 -3.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="3.0 -5.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="4.0 -7.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 2.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-1.0 7.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="0.0 7.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-1.0 4.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="0.0 8.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.4375" pos="4.0 0.0 -15.0625" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-4.0 0.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-7.0 -1.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-8.0 -4.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.1875" pos="-1.0 6.0 -15.3125" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.625" pos="4.0 -3.0 -14.875" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="1.0 3.0 -15.375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-8.0 0.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-9.0 4.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 1.25" pos="1.0 -3.0 -14.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.75" pos="1.0 -5.0 -14.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 3.25" pos="-1.0 -4.0 -12.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 4.25" pos="0.0 -4.0 -11.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.75" pos="6.0 4.0 -14.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 2.75" pos="6.0 5.0 -12.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 2.25" pos="7.0 4.0 -13.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.75" pos="4.0 -2.0 -14.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 1.25" pos="5.0 -2.0 -14.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.75" pos="-5.0 3.0 -14.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 2.25" pos="-7.0 2.0 -13.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 1.75" pos="-6.0 3.0 -13.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.25" pos="5.0 2.0 -15.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.75" pos="-3.0 -6.0 -14.75" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 1.25" pos="-6.0 4.0 -14.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-7.0 3.0 -15.4375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 4.25" pos="5.0 -3.0 -11.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.25" pos="-8.0 3.0 -15.25" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-2.0 -1.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="3.0 3.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="5.0 0.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="1.0 -4.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="5.0 5.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="4.0 4.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="1.0 -1.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-3.0 1.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-2.0 -3.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="4.0 -5.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="1.0 -7.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="0.0 6.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-4.0 3.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-2.0 6.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-5.0 1.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-7.0 0.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-7.0 -3.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="0.0 -3.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-1.0 1.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-2.0 4.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="3.0 8.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="-3.0 9.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="2.0 4.0 -15.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.03" pos="3.0 1.0 -15.5" hidden="0" template="hyper"/>
+	<obstacle pos="-1.0 0.0 -15.4" hidden="0" template="hyper_glass" type="dropblock" param1="ax=4" param2="vz=4" param4="distance=13" param7="height=1" param6="width=1" param5="depth=.1" param3="ay=.1" param8="boom=false"/>
+	<box size="0.5 6.5 0.0625" pos="0.0 8.0 -15.5625" hidden="0" template="hyper"/>
+	<box size="0.5 8.0 0.0625" pos="0.0 -7.5 -15.5625" hidden="0" template="hyper"/>
+	<box size="11.5 15.0 0.0625" pos="-12.0 -0.5 -15.5625" hidden="0" template="hyper"/>
+	<box size="11.5 15.0 0.0625" pos="12.0 -0.5 -15.5625" hidden="0" template="hyper"/>
+	<decal pos="-0.375 0.01099 -15.875" hidden="0" tile="22" size="2 2" blend=".5" color="1 1 1 .75"/>
+</segment>
+

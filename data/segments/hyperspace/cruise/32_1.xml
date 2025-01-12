@@ -1,0 +1,49 @@
+<segment size="12 10 24" template="hyper_s">
+	<box size="0.5 0.5 0.0625" pos="2.5 -1.5 -1.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 -2.5 -1.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 -1.5 -1.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 -1.5 -1.875" hidden="0" template="hyper"/>
+	<box size="3.0 0.5 0.5" pos="0.0 -1.5 -2.5" hidden="0" template="hyper"/>
+	<box size="0.5 8.0 0.5" pos="-2.5 -10.0 -2.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 -1.5 -5.9375" hidden="0" template="hyper"/>
+	<box size="2.0 0.5 0.5" pos="0.0 -1.5 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 2.0" pos="2.5 -1.5 -5.0" hidden="0" template="hyper"/>
+	<decal pos="0.875 -1.48901 -8.125" hidden="1" tile="22" size="3 3" blend=".5" color="1 1 1 .75"/>
+	<decal pos="7.5 -4.95235 -9.5" hidden="0" tile="6" rot="1.57 0 0" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<decal pos="7.5 -4.95235 -9.5" hidden="0" tile="6" rot="0 1.57 0" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<decal pos="7.5 -4.95235 -9.5" hidden="0" tile="6" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<box size="0.5 0.5 0.125" pos="2.5 3.5 -9.875" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 -1.5 -9.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 2.5 -9.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 3.5 -9.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="1.5 3.5 -9.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 -0.5 -9.9375" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 2.0" pos="-2.5 -1.5 -8.0" hidden="0" template="hyper"/>
+	<decal pos="0.0 3.0 -10.0" hidden="1" tile="28" blend="0" color="1 .5 1" size="2 1" rot="0 0 3.14"/>
+	<box size="0.5 2.0 0.125" pos="2.5 1.0 -10.125" hidden="0" template="hyper"/>
+	<box size="0.5 2.0 0.125" pos="-2.5 1.0 -10.125" hidden="0" template="hyper"/>
+	<obstacle pos="0.0 2.975 -10.5" hidden="0" template="hyper" type="laser" rot="0 0 -1.57" param0="move=1" param1="speed=.5"/>
+	<obstacle pos="0.0 1.0 -10.5" hidden="0" type="bar" param2="speed=.4" template="hyper_glass" param1="move=1" mode="6"/>
+	<box size="0.0625 2.0 0.25" pos="-2.9375 1.0 -10.5" hidden="0" template="hyper"/>
+	<box size="0.0625 2.0 0.25" pos="2.9375 1.0 -10.5" hidden="0" template="hyper"/>
+	<box size="2.0 0.5 0.5" pos="0.0 3.5 -10.5" hidden="0" template="hyper_red3"/>
+	<box size="0.5 0.5 0.5" pos="-2.5 3.5 -10.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.0 0.5" pos="-2.5 -2.0 -10.5" hidden="0" template="hyper"/>
+	<box size="0.5 2.0 0.125" pos="-2.5 1.0 -10.875" hidden="0" template="hyper" color=".7 .6 1  .7 .6 1  .5 .4 .8"/>
+	<box size="0.5 0.5 0.5" pos="2.5 3.5 -10.5" hidden="0" template="hyper"/>
+	<box size="0.5 1.0 0.5" pos="2.5 -2.0 -10.5" hidden="0" template="hyper"/>
+	<box size="0.5 2.0 0.125" pos="2.5 1.0 -10.875" hidden="0" template="hyper" color=".7 .6 1  .7 .6 1  .5 .4 .8"/>
+	<box size="0.5 0.5 1.5" pos="2.5 -1.5 -12.5" hidden="0" template="hyper"/>
+	<box size="3.0 0.5 0.5" pos="0.0 -1.5 -14.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 1.5" pos="-2.5 -1.5 -16.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 -1.5 -17.9375" hidden="0" template="hyper"/>
+	<box size="3.0 0.5 0.5" pos="0.0 -1.5 -18.5" hidden="0" template="hyper"/>
+	<decal pos="-6.5 -4.95235 -20.5" hidden="0" tile="6" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<decal pos="-6.5 -4.95235 -20.5" hidden="0" tile="6" rot="1.57 0 0" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<decal pos="-6.5 -4.95235 -20.5" hidden="0" tile="6" rot="0 1.57 0" color="1 1 1 .25" blend=".5" size="4 4"/>
+	<box size="0.5 0.5 1.5" pos="2.5 -1.5 -20.5" hidden="0" template="hyper"/>
+	<obstacle pos="0.0 -1.0 -22.5" hidden="0" template="hyper_st" type="scoremulti"/>
+	<box size="0.5 12.5 0.5" pos="0.0 -13.5 -22.5" hidden="0" template="hyper"/>
+	<box size="1.25 0.5 0.5" pos="1.75 -1.5 -22.5" hidden="0" template="hyper"/>
+</segment>
+

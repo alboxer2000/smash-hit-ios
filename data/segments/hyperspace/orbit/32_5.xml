@@ -1,0 +1,40 @@
+<segment size="12 10 16" template="hyper_s" softshadow=".6">
+	<box size="3.5 0.0625 0.5" pos="0.5 -0.0625 -0.5" hidden="0" template="hyper"/>
+	<box size="23.0 0.0625 0.5" pos="0.0 -0.0625 -1.5" hidden="0" template="hyper"/>
+	<box size="11.5 0.0625 1.5" pos="-11.5 -0.0625 -3.5" hidden="0" template="hyper_glow"/>
+	<decal pos="0.0 1.5 -5.0" hidden="0" tile="23" size=".25 1.5" color="1 1 1 .5" blend=".75"/>
+	<decal pos="-5.0 0.825 -5.0" hidden="0" tile="23" size=".25 .8" color="1 1 1 .5" blend=".75"/>
+	<decal pos="-2.5 1.0 -5.0" hidden="1" tile="5" size="3 1"/>
+	<box size="0.5 0.0625 0.5" pos="9.5 0.0625 -5.5" hidden="0" template="hyper"/>
+	<obstacle pos="-2.5 1.5 -5.9" hidden="0" template="hyper_glass" type="hitblock" param1="ax=6" param5="depth=.1" param4="distance=13" param7="height=1" param6="width=1" param2="ay=.2" mode="6"/>
+	<obstacle pos="-2.5 1.5 -5.9" hidden="0" template="hyper_glass" type="hitblock" param1="ax=3" param5="depth=.1" param4="distance=17" param7="height=1" param6="width=1" param2="ay=.1" mode="1"/>
+	<box size="0.5 7.0 0.5" pos="-3.5 -4.0 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 7.0 0.5" pos="-1.5 -4.0 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 6.0 0.5" pos="-2.5 -5.0 -6.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.5" pos="-2.5 2.5 -6.5" hidden="0" template="hyper"/>
+	<box size="9.0 0.0625 1.5" pos="-14.0 -0.0625 -6.5" hidden="0" template="hyper_glow"/>
+	<decal pos="0.0 0.825 -8.0" hidden="0" tile="23" size=".25 .8" color="1 1 1 .75"/>
+	<decal pos="-5.0 1.0 -8.0" hidden="0" tile="23" size=".25 1" color="1 1 1 .75"/>
+	<decal pos="-2.5 1.0 -8.0" hidden="0" tile="5" size="3 1"/>
+	<box size="11.5 0.0625 4.0" pos="11.5 -0.0625 -6.0" hidden="0" template="hyper_glow"/>
+	<decal pos="2.5 1.0 -10.0" hidden="1" tile="5" size="3 1"/>
+	<decal pos="5.0 0.825 -10.0" hidden="0" tile="23" size=".25 .8" color="1 1 1 .5" blend=".75"/>
+	<decal pos="0.0 1.0 -10.0" hidden="0" tile="23" size=".25 1" color="1 1 1 .75"/>
+	<obstacle pos="2.5 1.5 -10.9" hidden="0" template="hyper_glass" type="hitblock" param1="ax=6.5" param5="depth=.1" param4="distance=13" param7="height=1" param6="width=1" param2="ay=-.2" mode="6"/>
+	<obstacle pos="2.5 1.5 -10.9" hidden="0" template="hyper_glass" type="hitblock" param1="ax=3.25" param5="depth=.1" param4="distance=17" param7="height=1" param6="width=1" param2="ay=-.1" mode="1"/>
+	<box size="0.5 7.0 0.5" pos="1.5 -4.0 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.0625 0.5" pos="7.5 0.01 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 6.0 0.5" pos="2.5 -5.0 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.0625 0.5" pos="8.5 0.0625 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.5 0.5" pos="2.5 2.5 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 7.0 0.5" pos="3.5 -4.0 -11.5" hidden="0" template="hyper"/>
+	<box size="0.5 0.0625 0.5" pos="-4.5 0.01 -12.5" hidden="0" template="hyper"/>
+	<box size="9.0 0.0625 1.5" pos="14.0 -0.0625 -11.5" hidden="0" template="hyper_glow"/>
+	<decal pos="0.0 1.5 -13.0" hidden="0" tile="23" size=".25 1.5" color="1 1 1 .5" blend=".75"/>
+	<decal pos="5.0 0.825 -13.0" hidden="0" tile="23" size=".25 .8" color="1 1 1 .75"/>
+	<decal pos="2.5 1.0 -13.0" hidden="0" tile="5" size="3 1"/>
+	<box size="11.5 0.0625 1.0" pos="11.5 -0.0625 -14.0" hidden="0" template="hyper_glow"/>
+	<box size="11.5 0.0625 3.5" pos="-11.5 -0.0625 -11.5" hidden="0" template="hyper_glow"/>
+	<box size="4.0 0.0625 0.5" pos="-1.0 -0.0625 -15.5" hidden="0" template="hyper"/>
+</segment>
+
