@@ -1,0 +1,4 @@
+<ui texture="popups/more/more_wide_btn.png" selected="popups/more/more_wide_btn_overlay.png">
+	<rect coords="0 0 650 121" cmd="script:rate"/>
+	<outside cmd="script:hidemore"/>
+</ui>

@@ -1,0 +1,4 @@
+<ui texture="popups/more/more_very_wide_btn.png" selected="popups/more/more_very_wide_btn_overlay.png">
+	<rect coords="0 0 865 121" cmd="script:privacy"/>
+	<outside cmd="script:hidemore"/>
+</ui>

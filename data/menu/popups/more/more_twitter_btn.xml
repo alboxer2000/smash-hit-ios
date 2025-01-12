@@ -1,0 +1,4 @@
+<ui texture="popups/more/more_btn.png" selected="popups/more/more_btn_overlay.png">
+	<rect coords="0 0 489 121" cmd="script:twitter"/>
+	<outside cmd="script:hidemore"/>
+</ui>
