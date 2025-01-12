@@ -1,0 +1,132 @@
+<segment size="12 10 32" template="endless_s">
+	<box size="0.5 0.4375 0.5" pos="0.5 6.5625 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.75 0.5" pos="1.5 6.25 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5625 0.5" pos="-0.5 6.4375 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 1.25 0.5" pos="-2.5 5.75 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="-1.5 6.6875 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.8125 0.5" pos="-2.5 -4.1875 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="-1.5 -4.5625 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.625 0.5" pos="0.5 -4.375 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -4.9375 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.5 -4.5 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 1.25 0.5" pos="2.5 -3.75 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.6875 0.5" pos="2.5 6.3125 -0.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -0.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -0.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -1.25 -1.5" hidden="0" type="laser" param1="beams=1"/>
+	<obstacle pos="3.0 3.25 -1.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.14"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -2.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -2.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.875 -3.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .05"/>
+	<obstacle pos="3.0 2.875 -3.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.19"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -4.9375 -3.5" hidden="0" template="zen"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -3.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="1.5 7.1875 -3.5" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="-2.5 7.25 -3.5" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="0.5 7.25 -3.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -4.75 -3.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -4.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -4.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.625 -5.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .1"/>
+	<obstacle pos="3.0 2.5 -5.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.24"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 -4.75 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -4.9375 -5.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -6.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -6.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -7.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .15"/>
+	<obstacle pos="3.0 2.5 -7.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.29"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -4.9375 -8.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="-1.5 -4.75 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -4.9375 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -4.75 -8.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -9.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .2"/>
+	<obstacle pos="3.0 2.5 -9.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.34"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -10.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -10.5" hidden="0" template="zen"/>
+	<obstacle pos="3.0 2.5 -11.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.39"/>
+	<obstacle pos="-3.0 -0.5 -11.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .25"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -4.75 -11.5" hidden="0" template="zen"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -11.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -4.9375 -11.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -12.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -12.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -13.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .2"/>
+	<obstacle pos="3.0 2.5 -13.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.34"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -4.9375 -13.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 -4.75 -13.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -14.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -14.5" hidden="0" template="zen"/>
+	<obstacle pos="3.0 2.5 -15.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.29"/>
+	<obstacle pos="-3.0 -0.5 -15.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .15"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -4.9375 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -4.9375 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -4.75 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="-1.5 -4.75 -15.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -16.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -16.5" hidden="0" template="zen"/>
+	<obstacle pos="3.0 2.5 -17.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.24"/>
+	<obstacle pos="-3.0 -0.5 -17.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .1"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -18.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -18.5" hidden="0" template="zen"/>
+	<obstacle pos="3.0 2.5 -19.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.19"/>
+	<obstacle pos="-3.0 -0.5 -19.5" hidden="0" type="laser" param1="beams=1" rot="0 0 .05"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -20.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -20.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -21.5" hidden="0" type="laser" param1="beams=1"/>
+	<obstacle pos="3.0 2.5 -21.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.14"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -22.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -22.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -4.9375 -22.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 -4.75 -22.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -23.5" hidden="0" type="laser" param1="beams=1" rot="0 0 -.05"/>
+	<obstacle pos="3.0 2.5 -23.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.09"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -24.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -24.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -25.5" hidden="0" type="laser" param1="beams=1" rot="0 0 -.1"/>
+	<obstacle pos="3.0 2.5 -25.5" hidden="0" type="laser" param1="beams=1" rot="0 0 3.04"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -4.9375 -25.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="-1.5 -4.75 -25.5" hidden="0" template="zen"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -25.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -4.9375 -25.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -4.75 -25.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -26.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -26.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -27.5" hidden="0" type="laser" param1="beams=1" rot="0 0 -.15"/>
+	<obstacle pos="3.0 2.5 -27.5" hidden="0" type="laser" param1="beams=1" rot="0 0 2.99"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -28.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -4.9375 -28.5" hidden="0" template="zen"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -4.8125 -28.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -28.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -4.75 -28.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.0 -0.5 -29.5" hidden="0" type="laser" param1="beams=1" rot="0 0 -.2"/>
+	<obstacle pos="3.0 2.5 -29.5" hidden="0" type="laser" param1="beams=1" rot="0 0 2.94"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -30.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -30.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -4.9375 -30.5" hidden="0" template="zen"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 -4.75 -30.5" hidden="0" template="zen"/>
+	<obstacle pos="3.0 2.5 -31.5" hidden="0" type="laser" param1="beams=1" rot="0 0 2.89"/>
+	<obstacle pos="-3.0 -0.5 -31.5" hidden="0" type="laser" param1="beams=1" rot="0 0 -.25"/>
+	<box size="0.5 0.8125 0.5" pos="-2.5 -4.1875 -32.5" hidden="0" template="zen"/>
+	<box size="17.5 5.0 16.5" pos="-0.5 -10.0 -16.5" hidden="0" template="zen"/>
+	<box size="0.5 0.75 0.5" pos="1.5 6.25 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.6875 0.5" pos="2.5 6.3125 -32.5" hidden="0" template="zen"/>
+	<box size="17.5 5.0 16.5" pos="-0.5 12.0 -16.5" hidden="0" template="zen" tileSize="4"/>
+	<box size="7.5 6.0 16.5" pos="-10.5 1.0 -16.5" hidden="0" template="zen" tileSize="4"/>
+	<box size="0.5 0.5625 0.5" pos="-0.5 6.4375 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="-1.5 6.6875 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 1.25 0.5" pos="-2.5 5.75 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="0.5 6.5625 -32.5" hidden="0" template="zen"/>
+	<box size="7.0 6.0 16.5" pos="10.0 1.0 -16.5" hidden="0" template="zen" tileSize="4"/>
+	<box size="0.5 1.25 0.5" pos="2.5 -3.75 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.5 -4.5 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.625 0.5" pos="0.5 -4.375 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -4.9375 -32.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="-1.5 -4.5625 -32.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="2.9375 1.0 -32.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.0 0.5" pos="-2.9375 1.0 -32.5" hidden="0" template="zen"/>
+</segment>
+

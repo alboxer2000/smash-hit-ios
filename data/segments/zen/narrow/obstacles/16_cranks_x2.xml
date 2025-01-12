@@ -1,0 +1,79 @@
+<segment size="12 10 16" template="endless_s">
+	<box size="0.375 6.5 0.5" pos="-3.625 1.0 -0.5" hidden="0" template="zen"/>
+	<box size="0.3125 6.5 0.5" pos="3.6875 1.0 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="-3.5 -5.0625 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="0.5 -5.0625 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="3.5 -5.0 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="2.5 -5.0625 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="1.5 -5.1875 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="-0.5 -5.1875 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="-1.5 -5.125 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.5 -5.0 -0.5" hidden="0" template="zen"/>
+	<box size="0.5 6.5 0.5" pos="-3.5 1.0 -1.5" hidden="0" template="zen"/>
+	<box size="0.375 6.5 0.5" pos="3.625 1.0 -1.5" hidden="0" template="zen"/>
+	<box size="0.75 6.5 0.5" pos="3.25 1.0 -2.5" hidden="0" template="zen"/>
+	<box size="0.8125 6.5 0.5" pos="-3.1875 1.0 -2.5" hidden="0" template="zen"/>
+	<obstacle pos="0.0 -2.48435 -3.5" hidden="0" template="zen_glass" type="bigcrank" param1="speed=.5"/>
+	<box size="0.0625 6.5 0.5" pos="3.9375 1.0 -3.5" hidden="0" template="zen"/>
+	<box size="0.125 6.5 0.5" pos="-3.875 1.0 -3.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.5 -5.0 -4.5" hidden="0" template="zen"/>
+	<box size="0.125 6.5 0.5" pos="3.875 1.0 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="-2.5 -5.0625 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="-1.5 -5.1875 -4.5" hidden="0" template="zen"/>
+	<box size="0.25 6.5 0.5" pos="-3.75 1.0 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="2.0 7.0625 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.625 0.5" pos="1.0 6.875 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.625 0.5" pos="-1.0 6.875 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="0.0 7.0 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="0.0 -5.0 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 1.5 0.5" pos="4.0 6.0 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="3.0 7.0 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5625 0.5" pos="-3.0 6.9375 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 7.0 -5.0" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="1.5 -5.1875 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="2.5 -5.0625 -5.5" hidden="0" template="zen"/>
+	<box size="0.3125 6.5 0.5" pos="-3.6875 1.0 -5.5" hidden="0" template="zen"/>
+	<box size="0.1875 6.5 0.5" pos="3.8125 1.0 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="3.5 -5.0 -5.5" hidden="0" template="zen"/>
+	<decal pos="2.9375 -4.09796 -6.3125" hidden="0" tile="11" size="2 1.5" rot="0 0 -.1"/>
+	<box size="0.25 6.5 0.5" pos="3.75 1.0 -6.5" hidden="0" template="zen"/>
+	<box size="0.25 6.5 0.5" pos="-3.75 1.0 -6.5" hidden="0" template="zen"/>
+	<box size="0.1875 6.5 0.5" pos="3.8125 1.0 -7.5" hidden="0" template="zen"/>
+	<box size="0.375 6.5 0.5" pos="-3.625 1.0 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 6.5 0.5" pos="3.5 1.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="-1.5 -5.1875 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.5 -5.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="-2.5 -5.125 -8.5" hidden="0" template="zen"/>
+	<box size="0.3125 6.5 0.5" pos="-3.6875 1.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="2.5 -5.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="1.5 -5.0625 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.3125 0.5" pos="0.5 -5.1875 -8.5" hidden="0" template="zen"/>
+	<box size="0.75 6.5 0.5" pos="3.25 1.0 -9.5" hidden="0" template="zen"/>
+	<box size="0.75 6.5 0.5" pos="-3.25 1.0 -9.5" hidden="0" template="zen"/>
+	<obstacle pos="0.0 1.26565 -10.5" hidden="0" template="zen_glass" type="bigcrank" param1="speed=-.5"/>
+	<box size="0.4375 6.5 0.5" pos="3.5625 1.0 -10.5" hidden="0" template="zen"/>
+	<box size="0.5 6.5 0.5" pos="-3.5 1.0 -10.5" hidden="0" template="zen"/>
+	<box size="0.375 6.5 0.5" pos="-3.625 1.0 -11.5" hidden="0" template="zen"/>
+	<box size="0.25 6.5 0.5" pos="3.75 1.0 -11.5" hidden="0" template="zen"/>
+	<box size="0.375 6.5 0.5" pos="3.625 1.0 -12.5" hidden="0" template="zen"/>
+	<box size="0.5 6.5 0.5" pos="-3.5 1.0 -12.5" hidden="0" template="zen"/>
+	<box size="0.25 6.5 0.5" pos="3.75 1.0 -13.5" hidden="0" template="zen"/>
+	<box size="0.5625 6.5 0.5" pos="-3.4375 1.0 -13.5" hidden="0" template="zen"/>
+	<box size="0.3125 6.5 0.5" pos="-3.6875 1.0 -14.5" hidden="0" template="zen"/>
+	<box size="0.0625 6.5 0.5" pos="3.9375 1.0 -14.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5625 0.5" pos="-2.5 -4.9375 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.5 -5.0 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.5 -5.0 -15.5" hidden="0" template="zen"/>
+	<box size="7.0 6.0 8.0" pos="-11.0 1.0 -8.0" hidden="0" template="zen" tileSize="4"/>
+	<box size="0.5 0.5625 0.5" pos="2.5 -4.9375 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.6875 0.5" pos="3.5 -4.8125 -15.5" hidden="0" template="zen"/>
+	<box size="18.0 5.0 8.0" pos="0.0 12.0 -8.0" hidden="0" template="zen" tileSize="4"/>
+	<box size="18.0 5.0 8.0" pos="0.0 -10.0 -8.0" hidden="0" template="zen"/>
+	<box size="0.25 6.5 0.5" pos="-3.75 1.0 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="0.5 -5.0625 -15.5" hidden="0" template="zen"/>
+	<box size="0.1875 6.5 0.5" pos="3.8125 1.0 -15.5" hidden="0" template="zen"/>
+	<box size="7.0 6.0 8.0" pos="11.0 1.0 -8.0" hidden="0" template="zen" tileSize="4"/>
+	<box size="0.5 0.3125 0.5" pos="-0.5 -5.1875 -15.5" hidden="0" template="zen"/>
+	<box size="0.5 0.4375 0.5" pos="-1.5 -5.0625 -15.5" hidden="0" template="zen"/>
+</segment>
+
