@@ -1,0 +1,44 @@
+<segment size="12 10 16" template="endless_s">
+	<box size="0.5 0.5 0.5" pos="-2.5 7.5 -1.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-6.5 6.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-11.5 9.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-17.5 2.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-14.5 -1.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="10.5 -4.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="6.5 8.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="2.5 6.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="12.5 3.5 -2.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="11.5 0.5 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-14.5 0.5 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-0.5 6.5 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="8.5 1.0 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="0.5 -6.5 -6.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="6.5 -1.5 -6.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-11.5 6.5 -6.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="10.5 7.5 -7.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-4.0 -2.5 -7.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-15.5 4.5 -7.5" hidden="0" template="endless"/>
+	<obstacle pos="0.0 1.0 -8.5" hidden="0" template="endless_glass" type="bar" rot="0 0 1.57" param1="height=.3"/>
+	<box size="0.5 0.5 0.5" pos="-5.5 3.0 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="0.0 3.0 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="0.0 -1.0 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="18.5 0.5 -8.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="6.5 -5.5 -9.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="4.5 5.5 -10.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-4.5 -7.5 -11.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="13.5 5.5 -11.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-11.5 -2.5 -11.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="15.5 -3.5 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="9.5 4.5 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-10.5 -5.5 -12.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-9.5 4.5 -13.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="11.5 -3.5 -13.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-4.5 1.0 -13.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-15.5 -6.5 -13.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="5.0 3.0 -14.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="4.5 -4.5 -14.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="20.5 4.5 -14.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-14.5 3.5 -15.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-8.5 -0.5 -15.5" hidden="0" template="endless"/>
+</segment>
+

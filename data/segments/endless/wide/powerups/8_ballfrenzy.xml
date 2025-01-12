@@ -1,0 +1,37 @@
+<segment size="12 10 8" template="endless_s">
+	<box size="7.25 5.0 0.5" pos="9.75 8.0 -0.5" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.25 5.0 0.5" pos="-9.75 8.0 -0.5" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.0 5.0 0.5" pos="10.0 -5.0 -0.5" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.0 5.0 0.5" pos="-10.0 -5.0 -0.5" hidden="0" template="endless" tileSize="4"/>
+	<box size="0.0625 5.0 0.5" pos="-1.9375 8.0 -1.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="1.9375 -5.0 -1.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="-1.9375 -5.0 -1.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="1.9375 8.0 -1.5" hidden="0" template="endless"/>
+	<box size="0.1875 5.0 0.5" pos="-1.8125 -5.0 -2.5" hidden="0" template="endless"/>
+	<box size="0.1875 5.0 0.5" pos="1.8125 -5.0 -2.5" hidden="0" template="endless"/>
+	<box size="0.1875 5.0 0.5" pos="1.8125 8.0 -2.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="-1.9375 -5.0 -4.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="-1.9375 8.0 -4.5" hidden="0" template="endless"/>
+	<box size="0.125 5.0 0.5" pos="1.875 8.0 -4.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="1.9375 -5.0 -4.5" hidden="0" template="endless"/>
+	<obstacle pos="2.5625 0.062818 -5.5625" hidden="0" template="endless_st" type="scoretop"/>
+	<box size="0.5 0.0625 0.5" pos="2.5 0.0625 -5.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="1.9375 8.0 -5.5" hidden="0" template="endless"/>
+	<box size="0.125 5.0 0.5" pos="-1.875 -5.0 -5.5" hidden="0" template="endless"/>
+	<box size="0.125 5.0 0.5" pos="1.875 -5.0 -5.5" hidden="0" template="endless"/>
+	<box size="0.1875 5.0 0.5" pos="-1.8125 8.0 -5.5" hidden="0" template="endless"/>
+	<powerup pos="1.0625 -0.8125 -6.4375" hidden="0" type="ballfrenzy"/>
+	<box size="0.9375 3.5 0.5" pos="1.5625 -5.5 -6.5" hidden="0" template="endless"/>
+	<box size="1.0 0.5 0.5" pos="1.5 -1.5 -6.5" hidden="0" template="endless"/>
+	<box size="0.125 5.0 0.5" pos="-1.875 8.0 -6.5" hidden="0" template="endless"/>
+	<box size="0.0625 5.0 0.5" pos="1.9375 -5.0 -6.5" hidden="0" template="endless"/>
+	<box size="7.5 5.0 3.0" pos="9.5 -5.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.5 5.0 3.0" pos="9.5 8.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.5 5.0 3.0" pos="-9.5 -5.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.5 5.0 3.0" pos="-9.5 8.0 -4.0" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.25 5.0 0.5" pos="-9.75 8.0 -7.5" hidden="1" template="endless"/>
+	<box size="7.0 5.0 0.5" pos="10.0 -5.0 -7.5" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.0 5.0 0.5" pos="-10.0 -5.0 -7.5" hidden="0" template="endless" tileSize="4"/>
+	<box size="7.25 5.0 0.5" pos="9.75 8.0 -7.5" hidden="1" template="endless"/>
+</segment>
+
