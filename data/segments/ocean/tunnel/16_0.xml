@@ -1,0 +1,41 @@
+<segment size="12 10 16" template="ocean_s">
+	<box size="6.0 4.5 1.0" pos="0.0 8.5 -1.0" hidden="0" template="ocean2"/>
+	<box size="2.5 2.0 1.0" pos="3.5 2.0 -1.0" hidden="0" template="ocean2"/>
+	<box size="2.5 2.0 1.0" pos="-3.5 2.0 -1.0" hidden="0" template="ocean2"/>
+	<box size="6.0 4.5 1.0" pos="0.0 -4.5 -1.0" hidden="0" template="ocean2"/>
+	<box size="2.5 4.25 0.25" pos="-3.0 1.75 -2.25" hidden="0" template="ocean2"/>
+	<box size="2.5 4.25 0.25" pos="3.0 1.75 -2.25" hidden="0" template="ocean2"/>
+	<decal pos="-1.125 -0.23673 -2.75" hidden="0" tile="11" size="1.5 1" blend="0" color="1 1 1 .3" rot="0 0 -.1"/>
+	<obstacle pos="1.0 0.04145 -3.0" hidden="0" type="sweeper" template="ocean_glass" param3="speed=.5" rot="0 0 1.57" mode="6"/>
+	<box size="0.5 4.5 0.125" pos="-0.5 -4.5 -3.875" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 2.5 -3.9375" hidden="0" template="ocean"/>
+	<box size="2.5 2.0 1.0" pos="3.5 2.0 -5.0" hidden="0" template="ocean2"/>
+	<box size="6.0 4.5 1.0" pos="0.0 -4.5 -5.0" hidden="0" template="ocean2"/>
+	<box size="2.5 2.0 1.0" pos="-3.5 2.0 -5.0" hidden="0" template="ocean2"/>
+	<box size="6.0 4.5 1.0" pos="0.0 8.5 -5.0" hidden="0" template="ocean2"/>
+	<box size="2.5 4.25 0.25" pos="3.0 1.75 -6.25" hidden="0" template="ocean2"/>
+	<box size="2.5 4.25 0.25" pos="-3.0 1.75 -6.25" hidden="0" template="ocean2"/>
+	<obstacle pos="1.0 0.04145 -7.0" hidden="0" type="sweeper" template="ocean_glass" param3="speed=.5" rot="0 0 1.57" mode="1"/>
+	<box size="0.5 4.5 0.125" pos="1.5 -4.5 -7.875" hidden="0" template="ocean2"/>
+	<box size="0.5 4.5 0.25" pos="0.5 -4.5 -7.75" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 2.5 -7.875" hidden="0" template="ocean"/>
+	<box size="0.5 4.5 0.3125" pos="-1.5 -4.5 -7.6875" hidden="0" template="ocean2"/>
+	<box size="6.0 4.5 1.0" pos="0.0 -4.5 -9.0" hidden="0" template="ocean2"/>
+	<box size="2.5 2.0 1.0" pos="-3.5 2.0 -9.0" hidden="0" template="ocean2"/>
+	<box size="6.0 4.5 1.0" pos="0.0 8.5 -9.0" hidden="0" template="ocean2"/>
+	<box size="2.5 2.0 1.0" pos="3.5 2.0 -9.0" hidden="0" template="ocean2"/>
+	<box size="2.5 4.25 0.25" pos="3.0 1.75 -10.25" hidden="0" template="ocean2"/>
+	<box size="2.5 4.25 0.25" pos="-3.0 1.75 -10.25" hidden="0" template="ocean2"/>
+	<decal pos="1.625 -0.23673 -10.75" hidden="0" tile="11" size="1.5 1" blend="0" color="1 1 1 .3" rot="0 0 -.1"/>
+	<obstacle pos="1.0 0.04145 -11.0" hidden="0" type="sweeper" template="ocean_glass" param3="speed=.5" rot="0 0 1.57"/>
+	<box size="2.5 4.0 0.125" pos="3.5 9.0 -11.875" hidden="0" template="ocean2"/>
+	<box size="2.5 4.5 0.125" pos="-3.5 8.5 -11.875" hidden="0" template="ocean2"/>
+	<box size="6.0 4.5 1.0" pos="0.0 8.5 -13.0" hidden="0" template="ocean2"/>
+	<box size="0.5 3.875 0.5" pos="0.5 -5.125 -15.5" hidden="0" template="ocean"/>
+	<box size="2.0 4.0 0.5" pos="4.0 -5.0 -15.5" hidden="0" template="ocean"/>
+	<box size="0.5 3.8125 0.5" pos="1.5 -5.1875 -15.5" hidden="0" template="ocean"/>
+	<box size="0.5 3.75 0.5" pos="-0.5 -5.25 -15.5" hidden="0" template="ocean"/>
+	<box size="0.5 3.9375 0.5" pos="-1.5 -5.0625 -15.5" hidden="0" template="ocean"/>
+	<box size="2.0 4.0 0.5" pos="-4.0 -5.0 -15.5" hidden="0" template="ocean"/>
+</segment>
+

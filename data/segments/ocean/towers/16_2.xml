@@ -1,0 +1,48 @@
+<segment size="12 10 16" template="ocean_s">
+	<box size="0.5 0.5 0.125" pos="4.5 3.5 -3.875" hidden="0" template="ocean2"/>
+	<box size="0.5 2.25 0.125" pos="4.5 -4.75 -3.875" hidden="0" template="ocean2"/>
+	<box size="1.0 2.75 0.5" pos="-5.0 -4.25 -3.5" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.0625" pos="-5.5 2.5 -3.9375" hidden="0" template="ocean2"/>
+	<box size="1.0 9.25 1.0" pos="5.0 2.25 -5.0" hidden="0" template="ocean2"/>
+	<box size="1.0 9.25 1.0" pos="-5.0 2.25 -5.0" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.0625" pos="-3.5 -0.5 -5.9375" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.0625" pos="3.5 -3.5 -5.9375" hidden="0" template="ocean2"/>
+	<box size="0.0625 0.5 0.25" pos="1.9375 -1.5 -6.25" hidden="0" template="ocean"/>
+	<box size="0.25 1.0 0.25" pos="-1.75 1.0 -7.25" hidden="0" template="ocean"/>
+	<box size="0.1875 0.5 0.25" pos="1.8125 -1.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="1.875 -0.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="1.875 2.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="2.0 -2.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="1.9375 3.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.0625 0.1875 0.25" pos="-1.9375 4.3125 -7.25" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="-1.875 3.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 2.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 -0.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="-1.875 -1.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 -2.5 -7.25" hidden="0" template="ocean"/>
+	<box size="0.25 1.0 0.25" pos="1.75 1.0 -7.25" hidden="0" template="ocean2"/>
+	<decal pos="1.875 1.13827 -7.75" hidden="0" tile="11" size="1.2 1" blend="0" rot="0 0 1.57" color="1 1 1 .4"/>
+	<decal pos="-1.875 0.76327 -7.75" hidden="0" tile="11" size="1.2 1" blend="0" rot="0 0 -1.57" color="1 1 1 .4"/>
+	<obstacle pos="0.0 1.00316 -8.0" hidden="0" type="suspendside" template="ocean_glass" param1="width=.6" mode="6"/>
+	<obstacle pos="0.0 0.79145 -8.0" hidden="0" type="bar" template="ocean_glass" param1="move=.5" param2="blocker=true" param3="speed=.125" mode="1"/>
+	<box size="0.125 0.5 0.25" pos="1.875 -0.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="-1.875 -1.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 -0.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="1.9375 2.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.125 0.5 0.25" pos="1.875 3.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 2.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 3.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.0625 0.1875 0.25" pos="-1.9375 4.3125 -8.75" hidden="0" template="ocean"/>
+	<box size="0.25 1.0 0.25" pos="-1.75 1.0 -8.75" hidden="0" template="ocean"/>
+	<box size="0.1875 0.5 0.25" pos="1.8125 -1.5 -8.75" hidden="0" template="ocean"/>
+	<box size="0.25 1.0 0.25" pos="1.75 1.0 -8.75" hidden="0" template="ocean2"/>
+	<box size="0.0625 0.5 0.25" pos="-1.9375 -2.5 -8.75" hidden="0" template="ocean"/>
+	<box size="3.0 9.25 1.5" pos="11.0 2.25 -8.5" hidden="0" template="ocean2"/>
+	<box size="3.0 9.25 1.5" pos="-11.0 2.25 -8.5" hidden="0" template="ocean2"/>
+	<box size="3.0 9.25 2.0" pos="5.0 2.25 -8.0" hidden="0" template="ocean2"/>
+	<box size="3.0 9.25 2.0" pos="-5.0 2.25 -8.0" hidden="0" template="ocean2"/>
+	<box size="1.0 9.25 1.0" pos="5.0 2.25 -11.0" hidden="0" template="work"/>
+	<box size="1.0 9.25 1.0" pos="-5.0 2.25 -11.0" hidden="0" template="work"/>
+	<box size="4.0 3.25 4.0" pos="0.0 8.25 -8.0" hidden="1" template="ocean2"/>
+</segment>
+

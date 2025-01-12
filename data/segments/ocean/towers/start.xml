@@ -1,0 +1,73 @@
+<segment size="12 10 32" template="ocean_s">
+	<box size="0.125 2.75 0.125" pos="-5.875 -6.75 -2.625" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-5.5 -6.5 -3.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="1.5 -8.0 -9.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-7.5 -6.0 -10.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="3.5 -7.0 -11.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="9.5 -5.0 -11.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-2.5 -5.0 -12.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="0.5 -8.0 -15.0" hidden="0" template="ocean2"/>
+	<box size="0.5 2.5 0.125" pos="-2.5 -4.25 -16.125" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.125" pos="-3.5 3.75 -16.125" hidden="0" template="ocean2"/>
+	<box size="0.5 2.5 0.125" pos="-2.5 8.75 -16.125" hidden="0" template="ocean2"/>
+	<box size="0.5 2.5 0.375" pos="-3.5 9.75 -15.875" hidden="0" template="ocean2"/>
+	<obstacle pos="-2.5 0.16645 -16.75" hidden="0" type="scorediamond" template="ocean_st"/>
+	<box size="0.5 3.0 0.5" pos="9.5 -7.5 -16.5" hidden="0" template="ocean2"/>
+	<box size="0.5 5.0 0.5" pos="-2.5 -4.75 -16.75" hidden="0" template="ocean2"/>
+	<box size="0.5 10.5 0.5" pos="-3.5 0.75 -16.75" hidden="0" template="ocean2"/>
+	<box size="0.5 4.5 0.5" pos="-2.5 6.75 -16.75" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="4.5 -5.0 -17.0" hidden="0" template="ocean2"/>
+	<box size="0.5 10.5 0.5" pos="-2.5 0.75 -17.75" hidden="0" template="ocean2"/>
+	<box size="0.125 3.0 0.125" pos="-1.875 -8.5 -18.25" hidden="0" template="ocean2"/>
+	<box size="0.125 2.75 0.125" pos="8.125 -7.25 -18.625" hidden="0" template="ocean2"/>
+	<box size="0.125 3.0 0.125" pos="2.75 -8.5 -18.75" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-2.5 -7.5 -18.75" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="2.0 -8.5 -19.0" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="8.5 -6.5 -19.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="2.5 -8.5 -19.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="5.0 -7.0 -20.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-8.5 -7.0 -20.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-5.5 -5.0 -22.5" hidden="0" template="ocean2"/>
+	<box size="0.5 2.5 0.375" pos="6.5 9.75 -22.875" hidden="0" template="ocean2"/>
+	<box size="0.5 2.5 0.125" pos="5.5 8.75 -23.125" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.125" pos="6.5 3.75 -23.125" hidden="0" template="ocean2"/>
+	<box size="0.5 2.5 0.125" pos="5.5 -4.25 -23.125" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="0.0 -9.5 -23.0" hidden="0" template="ocean2"/>
+	<box size="0.125 2.75 0.125" pos="-0.875 -6.75 -23.625" hidden="0" template="ocean2"/>
+	<obstacle pos="5.5 0.16645 -23.75" hidden="0" type="scorediamond" template="ocean_st"/>
+	<box size="0.5 3.0 0.5" pos="1.5 -8.5 -23.5" hidden="0" template="ocean2"/>
+	<box size="0.5 10.5 0.5" pos="6.5 0.75 -23.75" hidden="0" template="ocean2"/>
+	<box size="0.5 5.0 0.5" pos="5.5 -4.75 -23.75" hidden="0" template="ocean2"/>
+	<box size="0.5 4.5 0.5" pos="5.5 6.75 -23.75" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-0.5 -6.5 -24.5" hidden="0" template="ocean2"/>
+	<box size="0.5 10.5 0.5" pos="5.5 0.75 -24.75" hidden="0" template="ocean2"/>
+	<box size="0.125 3.0 0.125" pos="4.875 -8.5 -25.25" hidden="0" template="ocean2"/>
+	<box size="0.5 2.0 0.5" pos="13.5 -7.5 -25.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="2.5 -7.5 -25.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="5.5 -7.5 -25.75" hidden="0" template="ocean2"/>
+	<box size="0.125 2.75 0.125" pos="6.125 -5.25 -26.625" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-4.5 -6.0 -26.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-5.0 -5.0 -27.0" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="6.5 -5.0 -27.5" hidden="0" template="ocean2"/>
+	<box size="0.125 3.0 0.125" pos="5.25 -8.5 -28.75" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-1.5 -8.5 -28.5" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="4.0 -7.5 -28.75" hidden="0" template="ocean2"/>
+	<box size="0.5 4.5 0.0625" pos="5.0 -6.5 -29.4375" hidden="0" template="ocean2"/>
+	<box size="0.125 2.75 0.125" pos="-7.875 -5.25 -30.125" hidden="0" template="ocean2"/>
+	<box size="0.5 5.5 0.5" pos="5.0 -5.5 -30.0" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="0.0 -8.5 -30.0" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.0625" pos="5.0 2.5 -30.4375" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.0625" pos="5.0 8.0 -30.4375" hidden="0" template="ocean2"/>
+	<box size="0.5 5.0 0.5" pos="4.0 -6.0 -30.0" hidden="0" template="ocean2"/>
+	<box size="0.5 0.5 0.0625" pos="2.0 -0.5 -30.4375" hidden="0" template="ocean2"/>
+	<box size="0.1875 0.0625 0.1875" pos="4.1875 0.1875 -30.8125" hidden="0" template="ocean2"/>
+	<powerup pos="2.0 0.25 -31.0" hidden="0" type="nitroballs"/>
+	<box size="0.5 0.5 0.5" pos="3.0 -0.5 -31.0" hidden="0" template="ocean2"/>
+	<box size="0.5 11.0 0.5" pos="5.0 0.0 -31.0" hidden="0" template="ocean2"/>
+	<box size="0.5 1.75 0.5" pos="4.0 9.25 -31.0" hidden="0" template="ocean2"/>
+	<box size="0.0625 4.0 0.5" pos="4.4375 7.0 -31.0" hidden="0" template="ocean2"/>
+	<box size="0.5 5.0 0.5" pos="2.0 -5.0 -31.0" hidden="0" template="ocean2"/>
+	<box size="0.5 3.0 0.5" pos="-7.5 -5.0 -31.0" hidden="0" template="ocean2"/>
+	<box size="0.5 5.5625 0.5" pos="4.0 -5.4375 -31.0" hidden="0" template="ocean2"/>
+</segment>
+

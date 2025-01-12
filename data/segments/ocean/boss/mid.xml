@@ -1,0 +1,149 @@
+<segment size="12 10 32" template="ocean_s">
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -1.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -1.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -1.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -1.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -1.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -1.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -1.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -5.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -5.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -5.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -5.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -5.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -5.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -5.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -9.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -9.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -9.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -9.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -9.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -9.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -9.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -13.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -13.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -13.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -13.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -13.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -13.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -13.0" hidden="0" template="ocean"/>
+	<obstacle pos="1.0 1.0 -14.5" hidden="0" type="boss/cube" param0="distance=10" param1="cycle=1000" param2="attackDistance=-1" param3="offset=4" param4="type=2" param5="color=0 .8 1" param6="shots=2"/>
+	<obstacle pos="-1.0 1.0 -15.5" hidden="0" type="boss/cube" param0="distance=10" param1="cycle=1000" param2="attackDistance=-3" param3="offset=0" param4="type=1" param5="color=0 .8 1" param6="shots=1" param7="waitDistance=10"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -17.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -17.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -17.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -17.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -17.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -17.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -17.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -21.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -21.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -21.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -21.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -21.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -21.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -21.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -25.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -25.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -25.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -25.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -25.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -25.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -25.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 -9.0 -29.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 -9.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 -9.0 -29.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 -9.0 -29.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="9.0 -9.0 -29.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 -9.0 -29.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="3.0 -9.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="0.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="3.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-9.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="9.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-6.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="12.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-3.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="-12.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 14.0 -29.0" hidden="0" template="ocean"/>
+	<box size="1.0 7.0 1.0" pos="6.0 -9.0 -29.0" hidden="0" template="ocean" tileSize="6"/>
+	<box size="1.0 7.0 1.0" pos="0.0 -9.0 -29.0" hidden="0" template="ocean"/>
+</segment>
+

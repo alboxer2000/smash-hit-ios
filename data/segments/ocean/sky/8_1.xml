@@ -1,0 +1,14 @@
+<segment size="12 10 8" template="ocean_s">
+	<box size="0.5 0.5 0.5" pos="11.5 4.5 -1.5" hidden="0" template="ocean"/>
+	<box size="0.5 0.5 0.5" pos="-5.5 4.5 -1.5" hidden="0" template="ocean"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 4.0 -3.3125" hidden="0" template="ocean"/>
+	<box size="0.5 5.5 0.125" pos="-1.5 -4.0 -3.25" hidden="0" template="ocean"/>
+	<box size="0.5 4.5 0.0625" pos="1.5 -5.0 -3.3125" hidden="0" template="ocean"/>
+	<box size="0.5 11.0 0.25" pos="-1.5 1.5 -3.625" hidden="0" template="ocean"/>
+	<box size="0.5 11.0 0.25" pos="1.5 1.5 -3.625" hidden="0" template="ocean"/>
+	<obstacle pos="1.0 -0.08355 -4.0" hidden="0" type="sweeper" template="ocean_glass" param3="speed=.5" rot="0 0 1.57"/>
+	<box size="0.5 0.5 0.5" pos="6.5 -3.5 -4.5" hidden="0" template="ocean"/>
+	<box size="0.5 11.0 0.25" pos="-1.5 1.5 -4.75" hidden="0" template="ocean"/>
+	<box size="0.5 11.0 0.25" pos="1.5 1.5 -4.75" hidden="0" template="ocean"/>
+</segment>
+
