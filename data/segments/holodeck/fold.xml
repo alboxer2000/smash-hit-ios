@@ -1,0 +1,56 @@
+<segment size="12 10 16" template="holo_s">
+	<box size="2.0 0.5 0.5" pos="6.0 8.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="6.25 7.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="6.375 6.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="6.25 5.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="6.25 9.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="6.375 10.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.625 2.5625 0.5" pos="6.375 3.5625 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="6.25 2.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.5625 0.5 0.5" pos="6.4375 11.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.6875 0.5 0.5" pos="6.3125 3.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.875 0.5 0.5" pos="6.125 0.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="6.375 4.5 -0.5" hidden="0" template="holo_right" tileSize="5 1 1"/>
+	<box size="1.5625 0.5 0.5" pos="-6.4375 11.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="-6.375 10.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="-6.25 9.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="2.0 0.5 0.5" pos="-6.0 8.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="-6.25 7.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="-6.375 6.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="-6.25 5.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="-6.375 4.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.6875 0.5 0.5" pos="-6.3125 3.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.75 0.5 0.5" pos="-6.25 2.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.625 0.5 0.5" pos="-6.375 1.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="1.875 0.5 0.5" pos="-6.125 0.5 -0.5" hidden="0" template="holo_left" tileSize="5 1 1"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 0.1875 -5.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 0.0625 -5.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.3125 0.5" pos="-2.5 0.3125 -6.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 0.125 -6.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 0.0625 -6.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.0625 0.5" pos="-3.5 0.0625 -6.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.0625 0.5" pos="3.5 0.0625 -6.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.3125 0.5" pos="2.5 0.3125 -6.5" hidden="0" template="holo_floor2"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 0.0625 -6.5" hidden="0" template="holo_floor2"/>
+	<decal pos="0.0 3.75 -7.0" hidden="0" tile="28" size="2 1" rot="0 0 3.14"/>
+	<box size="1.5 1.875 0.5" pos="-3.5 1.875 -7.5" hidden="0" template="holo_bottom" tileSize="1 5 1"/>
+	<box size="5.0 2.0 0.5" pos="0.0 9.75 -7.5" hidden="0" template="holo_bottom" tileSize="1 5 1"/>
+	<box size="1.5 1.875 0.5" pos="3.5 1.875 -7.5" hidden="0" template="holo_bottom" tileSize="1 5 1"/>
+	<box size="2.0 0.1875 0.5" pos="0.0 0.1875 -7.5" hidden="0" template="holo_floor2"/>
+	<box size="5.0 2.0 0.5" pos="0.0 5.75 -7.5" hidden="0" template="holo_top" tileSize="5 5 1"/>
+	<box size="0.5 1.875 0.5" pos="2.5 1.875 -7.5" hidden="0" template="holo_bottom" tileSize="1 5 1"/>
+	<obstacle pos="0.0 0.0176 -8.5" hidden="0" type="foldwindow" template="holo_glass" param1="width=4.25" mode="1" param2="distance=11"/>
+	<obstacle pos="0.0 0.0176 -8.5" hidden="0" type="foldwindow" template="holo_glass" param1="width=4.25" mode="6"/>
+	<box size="5.0 4.0 6.5" pos="0.0 -4.0 -7.5" hidden="0" template="holo_floor" tileSize="1 10 1"/>
+	<box size="1.5 8.0 6.5" pos="-6.5 0.0 -7.5" hidden="0" template="holo_top" tileSize="5 8 1"/>
+	<box size="1.5 4.0 6.5" pos="6.5 12.0 -7.5" hidden="0" template="holo_bottom" tileSize="5 8 1"/>
+	<box size="1.5 8.0 6.5" pos="6.5 0.0 -7.5" hidden="0" template="holo_top" tileSize="5 8 1"/>
+	<box size="1.5 4.0 6.5" pos="-6.5 12.0 -7.5" hidden="0" template="holo_bottom" tileSize="5 8 1"/>
+	<decal pos="-3.9375 1.40204 -14.1875" hidden="0" tile="11" rot="0 0 -.5" color=".6 .9 1 .8" size="2 2"/>
+	<decal pos="4.0625 0.65204 -14.1875" hidden="0" tile="11" rot="0 0 .3" color=".6 .9 1 .8" size="2 2"/>
+	<decal pos="-1.6875 0.40204 -14.4375" hidden="0" tile="11" size="1.5 1.5" color=".6 .9 1 .8"/>
+	<box size="0.5 0.5 0.5" pos="0.0 -0.5 -15.0" hidden="0" template="holo_floor"/>
+	<decal pos="1.5625 -0.09796 -15.6875" hidden="0" tile="11" size="1.5 1.5" color=".6 .9 1 .8" rot="0 0 .4"/>
+	<box template="holo_down" pos="-2.5 0.5 -25.5" hidden="0"/>
+</segment>
+
