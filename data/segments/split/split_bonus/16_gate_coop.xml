@@ -1,0 +1,27 @@
+<segment size="12 10 8" template="split_s">
+	<box size="1.0 5.0 1.0" pos="-7.0 -6.0 -3.0" hidden="0" template="split"/>
+	<box size="1.5 5.0 1.5" pos="-3.5 -7.0 -3.5" hidden="0" template="split"/>
+	<box size="1.0 5.0 1.0" pos="8.5 -6.0 -4.5" hidden="0" template="split"/>
+	<box size="0.5 5.0 0.25" pos="0.0 8.0 -5.75" hidden="0" template="split"/>
+	<box size="0.5 5.0 0.25" pos="0.0 -6.0 -5.75" hidden="0" template="split"/>
+	<box size="1.5 5.0 1.5" pos="-5.5 -5.0 -4.5" hidden="0" template="split"/>
+	<box size="0.5 5.0 0.25" pos="-3.0 8.0 -5.75" hidden="0" template="split"/>
+	<box size="0.5 5.0 0.25" pos="-3.0 -6.0 -5.75" hidden="0" template="split"/>
+	<box size="0.5 5.0 0.25" pos="3.0 8.0 -5.75" hidden="0" template="split"/>
+	<box size="0.5 5.0 0.25" pos="3.0 -6.0 -5.75" hidden="0" template="split"/>
+	<box size="1.0 5.0 1.0" pos="9.5 -4.5 -5.5" hidden="0" template="split"/>
+	<obstacle pos="1.5 -1.07968 -6.5" hidden="0" type="scoretop" template="split_st"/>
+	<obstacle pos="-1.5 -1.07968 -6.5" hidden="0" type="scoretop" template="split_st"/>
+	<box size="0.5 2.0 0.5" pos="0.0 1.0 -6.5" hidden="0" template="split"/>
+	<box size="6.0 5.0 0.5" pos="0.0 8.0 -6.5" hidden="0" template="split"/>
+	<box size="1.0 5.0 1.0" pos="-7.0 -4.5 -6.0" hidden="0" template="split"/>
+	<box size="1.5 2.0 0.5" pos="4.0 1.0 -6.5" hidden="0" template="split"/>
+	<box size="1.5 2.0 0.5" pos="-4.0 1.0 -6.5" hidden="0" template="split"/>
+	<box size="6.0 5.0 0.5" pos="0.0 -6.0 -6.5" hidden="0" template="split"/>
+	<box size="1.0 4.5 0.5" pos="7.0 -4.5 -6.5" hidden="0" template="split"/>
+	<box size="1.5 5.0 1.0" pos="5.5 -8.0 -6.0" hidden="0" template="split"/>
+	<obstacle pos="0.0 -1.125 -7.125" hidden="0" template="split_glass" type="framedwindow" param1="width=5.5" param2="height=5"/>
+	<decal pos="-1.6875 -0.97296 -7.3125" hidden="0" tile="11" size="1.5 1.5 0.0" rot="0 0 .4" blend="0" color="1 1 1 .1"/>
+	<decal pos="1.5625 -0.97296 -7.4375" hidden="0" tile="11" size="1.5 1.5 0.0" rot="0 0 .4" blend="0" color="1 1 1 .1"/>
+</segment>
+

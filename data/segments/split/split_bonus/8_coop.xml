@@ -1,0 +1,13 @@
+<segment size="12 10 8" template="basic_darker_s">
+	<box size="0.5 0.5 0.5" pos="1.0 -1.5 -6.0" hidden="1" template="split"/>
+	<box size="0.5 6.5 0.5" pos="0.0 -7.5 -6.0" hidden="0" template="split"/>
+	<box size="0.5 6.5 0.5" pos="2.0 -7.5 -6.0" hidden="0" template="split"/>
+	<obstacle pos="1.0 -1.20468 -7.0" hidden="0" type="scoretop" template="split_st"/>
+	<box size="0.5 0.5 0.5" pos="0.0 -1.5 -7.0" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.5" pos="2.0 -1.5 -7.0" hidden="0" template="split"/>
+	<box size="0.5 0.375 0.5" pos="1.0 -1.625 -7.0" hidden="1" template="split"/>
+	<box size="0.5 0.5 0.5" pos="1.0 -1.5 -8.0" hidden="0" template="split"/>
+	<box size="0.5 6.5 0.5" pos="2.0 -7.5 -8.0" hidden="0" template="split"/>
+	<box size="0.5 6.5 0.5" pos="0.0 -7.5 -8.0" hidden="0" template="split"/>
+</segment>
+

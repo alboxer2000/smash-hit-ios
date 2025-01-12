@@ -1,0 +1,27 @@
+<segment size="12 10 16" template="basic_darker_s">
+	<box size="0.5 1.5625 0.5" pos="0.5 -4.4375 -4.5" hidden="0" template="split"/>
+	<box size="0.5 1.75 0.5" pos="1.5 -4.25 -4.5" hidden="0" template="split"/>
+	<box size="0.5 1.75 0.5" pos="-1.5 -4.25 -4.5" hidden="0" template="split"/>
+	<box size="0.5 1.625 0.5" pos="-0.5 -4.375 -4.5" hidden="0" template="split"/>
+	<box size="0.5 2.0 0.5" pos="-0.5 -4.0 -5.5" hidden="0" template="split"/>
+	<box size="0.5 2.0625 0.5" pos="0.5 -3.9375 -5.5" hidden="0" template="split"/>
+	<box size="0.5 1.875 0.5" pos="1.5 -4.125 -5.5" hidden="0" template="split"/>
+	<box size="0.5 1.8125 0.5" pos="-1.5 -4.1875 -5.5" hidden="0" template="split"/>
+	<box size="0.5 2.5 0.5" pos="0.5 -3.5 -6.5" hidden="0" template="split"/>
+	<box size="0.5 2.25 0.5" pos="-0.5 -3.75 -6.5" hidden="0" template="split"/>
+	<box size="0.5 2.0 0.5" pos="1.5 -4.0 -6.5" hidden="0" template="split"/>
+	<box size="0.5 2.0625 0.5" pos="-1.5 -3.9375 -6.5" hidden="0" template="split"/>
+	<box size="16.5 4.5 0.5" pos="-1.5 -4.5 -7.5" hidden="0" template="split"/>
+	<box size="0.5 5.5 4.0" pos="-2.5 -0.5 -4.0" hidden="0" template="split"/>
+	<box size="0.5 0.625 0.5" pos="0.5 -0.375 -7.5" hidden="0" template="split"/>
+	<box size="0.5 5.5 4.0" pos="2.5 -0.5 -4.0" hidden="0" template="split"/>
+	<box size="0.5 0.75 0.5" pos="-1.5 4.25 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.5625 0.5" pos="-0.5 -0.4375 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.8125 0.5" pos="1.5 4.1875 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.6875 0.5" pos="1.5 -0.3125 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.625 0.5" pos="-1.5 -0.375 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.5625 0.5" pos="-0.5 4.4375 -7.5" hidden="0" template="split"/>
+	<box size="0.5 0.625 0.5" pos="0.5 4.375 -7.5" hidden="0" template="split"/>
+	<box size="2.0 0.5 4.0" pos="0.0 4.5 -4.0" hidden="0" template="split"/>
+</segment>
+

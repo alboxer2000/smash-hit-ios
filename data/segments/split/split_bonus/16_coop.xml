@@ -1,0 +1,30 @@
+<segment size="12 10 16" template="split_s">
+	<box size="2.5 7.0 0.5" pos="-6.5 6.0 -3.5" hidden="0" template="split"/>
+	<box size="2.5 7.0 0.5" pos="6.5 6.0 -3.5" hidden="0" template="split"/>
+	<obstacle pos="0.0 0.02278 -4.625" hidden="0" type="bar" template="split_glass" param1="move=1" param2="height=.25" param3="thickness=.03" param4="speed=.5"/>
+	<box size="2.0 15.5 0.5" pos="7.0 -2.5 -4.5" hidden="0" template="split"/>
+	<box size="2.0 15.5 0.5" pos="-7.0 -2.5 -4.5" hidden="0" template="split"/>
+	<box size="2.5 7.0 0.5" pos="6.5 6.0 -5.5" hidden="0" template="split"/>
+	<box size="2.5 7.0 0.5" pos="-6.5 6.0 -5.5" hidden="0" template="split"/>
+	<box size="3.5 8.5 3.0" pos="6.5 -9.5 -3.0" hidden="0" template="split"/>
+	<box size="3.5 8.5 3.0" pos="-6.5 -9.5 -3.0" hidden="0" template="split"/>
+	<obstacle pos="0.0 0.02278 -6.625" hidden="0" type="bar" template="split_glass" param1="move=1" param2="height=.25" param3="thickness=.03" param4="speed=.5"/>
+	<box size="2.0 15.5 0.5" pos="7.0 -2.5 -6.5" hidden="0" template="split"/>
+	<box size="2.0 15.5 0.5" pos="-7.0 -2.5 -6.5" hidden="0" template="split"/>
+	<box size="2.5 7.0 0.5" pos="6.5 6.0 -7.5" hidden="0" template="split"/>
+	<box size="2.5 7.0 0.5" pos="-6.5 6.0 -7.5" hidden="0" template="split"/>
+	<box size="3.5 8.5 1.5" pos="6.5 -9.5 -8.5" hidden="0" template="split"/>
+	<box size="3.0 8.0 0.5" pos="0.0 -10.0 -9.5" hidden="0" template="split"/>
+	<box size="3.5 8.5 1.5" pos="-6.5 -9.5 -8.5" hidden="0" template="split"/>
+	<obstacle pos="0.0 0.02278 -10.625" hidden="0" type="scoretop" template="split_st" param1="static=0" param2="raycast=true"/>
+	<obstacle pos="0.0 -3.97722 -11.5" hidden="0" type="elevatorgrid" param1="color=.3 .32 .35" template="cave2" param0="thickness=6" param2="rows=7" param3="cols=3" param4="amplitude=.5" param5="frequency=.25" param6="separation=0"/>
+	<obstacle pos="-2.0 0.02278 -12.625" hidden="0" type="scoretop" template="split_st" param1="static=0" param2="raycast=true"/>
+	<obstacle pos="2.0 0.02278 -12.625" hidden="0" type="scoretop" template="split_st" param1="static=0" param2="raycast=true"/>
+	<box size="1.5 5.0 2.5" pos="-5.5 1.0 -12.5" hidden="0" template="split"/>
+	<box size="4.0 1.5 2.5" pos="0.0 4.5 -12.5" hidden="1" template="split"/>
+	<box size="1.5 5.0 2.5" pos="5.5 1.0 -12.5" hidden="0" template="split"/>
+	<box size="3.0 8.0 0.5" pos="0.0 -10.0 -15.5" hidden="0" template="split"/>
+	<box size="3.5 8.5 0.5" pos="-6.5 -9.5 -15.5" hidden="0" template="split"/>
+	<box size="3.5 8.5 0.5" pos="6.5 -9.5 -15.5" hidden="0" template="split"/>
+</segment>
+
