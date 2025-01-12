@@ -1,0 +1,4 @@
+<ui texture="score/android__gc_out.png" selected="score/gc_select.png">	
+	<rect coords="1330 0 1800 141" cmd="script:hidescore"/>
+	<outside cmd="script:hidescore"/>
+</ui>
