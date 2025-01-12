@@ -1,0 +1,20 @@
+<segment size="12 10 16" template="canyon_s">
+	<box size="0.5 5.0 0.125" pos="-2.0 -7.0 -3.625" hidden="0" template="canyon"/>
+	<box size="0.5 5.5 0.125" pos="-2.0 -6.5 -3.875" hidden="0" template="canyon"/>
+	<box size="0.5 5.5 0.125" pos="-1.0 -7.5 -3.875" hidden="0" template="canyon"/>
+	<box size="0.5 6.0 0.5" pos="-1.0 -6.0 -4.5" hidden="0" template="canyon"/>
+	<box size="0.5 6.0 2.5" pos="0.0 -6.0 -2.5" hidden="0" template="canyon"/>
+	<box size="0.5 3.5 0.125" pos="2.0 -5.5 -8.625" hidden="0" template="canyon"/>
+	<box size="0.5 6.0 2.5" pos="-2.0 -6.0 -6.5" hidden="0" template="canyon"/>
+	<box size="1.0 4.0 0.125" pos="1.5 -5.0 -8.875" hidden="0" template="canyon"/>
+	<box size="0.5 3.5 0.125" pos="-1.0 -4.5 -8.875" hidden="0" template="canyon"/>
+	<box size="0.5 0.0625 0.5" pos="-2.0 0.0625 -9.5" hidden="0" template="canyon"/>
+	<box size="0.5 0.0625 0.5" pos="2.0 0.0625 -9.5" hidden="0" template="canyon"/>
+	<box size="2.5 4.5 0.5" pos="0.0 -4.5 -9.5" hidden="0" template="canyon"/>
+	<decal pos="-0.25 -0.11173 -10.75" hidden="0" tile="11" size="1.5 1" color="1 .7 .6 .6"/>
+	<box size="0.5 6.0 2.0" pos="2.0 -6.0 -12.0" hidden="0" template="canyon"/>
+	<box size="0.5 3.5 0.125" pos="0.0 -4.5 -13.875" hidden="0" template="canyon"/>
+	<box size="1.5 4.5 0.5" pos="1.0 -4.5 -14.5" hidden="0" template="canyon"/>
+	<box size="0.5 4.5 0.5" pos="0.0 -4.5 -15.5" hidden="0" template="canyon"/>
+</segment>
+

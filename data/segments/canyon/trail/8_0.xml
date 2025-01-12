@@ -1,0 +1,20 @@
+<segment size="12 10 8" template="canyon_s">
+	<box size="0.5 6.0 0.4375" pos="0.0 -6.0 -0.5625" hidden="0" template="canyon"/>
+	<box size="0.5 5.5 0.1875" pos="-2.0 -6.5 -0.8125" hidden="0" template="canyon"/>
+	<box size="0.5 5.0 0.1875" pos="2.0 -7.0 -0.8125" hidden="0" template="canyon"/>
+	<box size="0.5 5.5 0.1875" pos="1.0 -6.5 -0.8125" hidden="0" template="canyon"/>
+	<box size="2.5 6.0 0.5" pos="0.0 -6.0 -1.5" hidden="0" template="canyon"/>
+	<box size="0.5 6.0 0.5" pos="2.0 -6.0 -2.5" hidden="0" template="canyon"/>
+	<obstacle pos="0.0 -0.2224 -3.0" hidden="0" type="beatwindow" template="canyon_glass" param1="width=3" mode="6"/>
+	<box size="0.5 5.9375 0.5" pos="2.0 -6.0625 -3.5" hidden="0" template="canyon"/>
+	<decal pos="-0.125 -0.11173 -5.75" hidden="0" tile="11" size="1.5 1" color="1 .7 .6 .9"/>
+	<box size="0.5 6.0 2.0" pos="-2.0 -6.0 -4.0" hidden="0" template="canyon"/>
+	<box size="0.5 6.0 1.0" pos="2.0 -6.0 -5.0" hidden="0" template="canyon"/>
+	<box size="0.5 0.0625 0.5" pos="-2.0 0.0625 -6.5" hidden="0" template="canyon"/>
+	<box size="0.5 0.0625 0.5" pos="2.0 0.0625 -6.5" hidden="0" template="canyon"/>
+	<box size="2.5 6.0 0.5" pos="0.0 -6.0 -6.5" hidden="0" template="canyon"/>
+	<decal pos="1.75 -0.11173 -7.25" hidden="0" tile="11" size=".7 .7" color="1 .7 .6 .9"/>
+	<decal pos="-1.375 -0.11173 -7.25" hidden="0" tile="11" size=".7 .7" color="1 .7 .6 .9"/>
+	<box size="0.5 6.0 0.5" pos="0.0 -6.0 -7.5" hidden="0" template="canyon"/>
+</segment>
+
