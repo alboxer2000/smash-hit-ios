@@ -1,0 +1,59 @@
+<segment size="12 10 16" template="endless_s">
+	<box size="0.5 0.5 0.5" pos="-4.625 -4.125 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="0.875 6.875 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="4.375 -3.5 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.5 -3.5 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="5.625 1.875 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-6.5 1.5 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.5 -2.5 -6.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.5 6.5 -6.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="5.125 -2.5 -6.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-6.5 -0.5 -6.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-1.25 -4.625 -6.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-1.5 6.5 -6.5" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-9.5 -1.0 -5.5" hidden="0" template="zen"/>
+	<obstacle pos="3.0 -2.62391 -7.0" hidden="0" template="zen_glass" type="dropblock" param1="distance=24" rot="0 0 1.57" param2="ax=1.5" param3="ay=-.3" param4="az=.2" param5="vx=-1" param6="vy=.1" param7="vz=1" param8="height=.25" param9="width=.25" param10="depth=.25" param11="boom=false"/>
+	<box size="0.5 0.5 0.5" pos="-2.5 -5.5 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.375 1.75 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="5.5 3.5 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="2.875 6.25 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="6.5 0.75 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.0 -1.875 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.375 0.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.25 -3.125 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="4.75 5.75 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.5 3.5 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-6.875 3.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="5.25 -1.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="4.5 -2.5 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="3.5 6.5 -8.5" hidden="0" template="zen"/>
+	<obstacle pos="-2.5 5.00109 -9.0" hidden="0" template="zen_glass" type="dropblock" param1="distance=24" rot="0 0 1.57" param2="ax=1.5" param3="ay=.1" param4="az=.2" param5="vx=.5" param6="vy=.2" param7="vz=1" param8="height=.6" param9="width=.6" param10="depth=.6" param11="boom=false"/>
+	<obstacle pos="-0.75 0.25109 -9.75" hidden="0" template="zen_glass" type="dropblock" param1="distance=24" rot="0 0 1.57" param2="ax=1.5" param3="ay=-.4" param4="az=1" param5="vx=1.5" param6="vy=-.2" param7="vz=.6" param8="height=.5" param9="width=.5" param10="depth=.5" param11="boom=false"/>
+	<box size="0.5 0.5 0.5" pos="0.625 -5.75 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="6.625 -1.125 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 8.0 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="0.0 7.0 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="4.5 4.25 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-1.0 6.0 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.25 -4.875 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.5 6.5 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.0 7.0 -9.5" hidden="0" template="zen"/>
+	<obstacle pos="-2.625 -3.49891 -10.0" hidden="0" template="zen_glass" type="dropblock" param1="distance=24" rot="0 0 1.57" param2="ax=1.5" param3="ay=-.4" param4="az=-1" param5="vx=1.5" param6="vy=.2" param7="vz=.6" param8="height=.75" param9="width=.75" param10="depth=.75" param11="boom=false"/>
+	<box size="0.5 0.5 0.5" pos="3.5 5.5 -10.5" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="6.5 5.0 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.5 5.5 -10.5" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-6.5 -7.0 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="5.625 0.625 -11.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="3.5 -4.5 -11.5" hidden="0" template="zen"/>
+	<box size="3.0 3.0 3.0" pos="-10.0 -4.5 -9.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.5 5.5 -11.5" hidden="0" template="zen"/>
+	<box size="4.0 4.0 4.0" pos="11.0 5.5 -9.0" hidden="0" template="zen"/>
+	<obstacle pos="1.625 5.37609 -13.0" hidden="0" template="zen_glass" type="dropblock" param1="distance=24" rot="0 0 1.57" param2="ax=1.5" param3="ay=-.4" param4="az=1" param5="vx=1.5" param6="vy=-.2" param7="vz=.6" param8="height=.5" param9="width=.5" param10="depth=.5" param11="boom=false"/>
+	<box size="0.5 0.5 0.5" pos="3.5 -5.5 -13.5" hidden="0" template="zen"/>
+	<obstacle pos="-3.375 -2.62391 -14.75" hidden="0" template="zen_glass" type="dropblock" param1="distance=24" rot="0 0 1.57" param2="ax=1.5" param3="ay=-.3" param4="az=.2" param5="vx=-1" param6="vy=.1" param7="vz=1" param8="height=.25" param9="width=.25" param10="depth=.25" param11="boom=false"/>
+	<box size="4.0 4.0 4.0" pos="-15.0 2.5 -11.0" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-8.5 -12.0 -16.5" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-2.5 -9.0 -17.5" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-11.5 4.0 -17.5" hidden="0" template="zen"/>
+</segment>
+

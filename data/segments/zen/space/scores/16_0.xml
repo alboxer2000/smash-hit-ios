@@ -1,0 +1,46 @@
+<segment size="12 10 16" template="endless_s">
+	<obstacle pos="-0.6875 -2.56302 -5.1875" hidden="0" template="endless_st" type="scorestar"/>
+	<box size="0.5 0.5 0.5" pos="-2.375 7.5 -5.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.375 -0.75 -5.375" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-4.5 9.0 -4.5" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-1.5 -12.0 -4.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.375 4.0 -6.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="0.25 9.5 -6.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-0.75 7.875 -6.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-1.375 5.5 -6.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.25 9.5 -6.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 -6.375 -6.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-1.75 -4.75 -6.375" hidden="0" template="zen"/>
+	<box size="1.5 1.5 1.5" pos="-6.5 -6.0 -5.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.75 1.75 -6.875" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 3.5 -7.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="2.25 12.125 -7.125" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="4.0 -11.125 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.0 11.875 -7.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="3.25 -7.625 -7.625" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-0.125 -10.125 -7.875" hidden="0" template="zen"/>
+	<obstacle pos="-1.5625 0.93698 -8.1875" hidden="0" template="endless_st" type="scorestar"/>
+	<box size="0.5 0.5 0.5" pos="-2.25 -4.375 -8.125" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-0.5 -7.125 -8.25" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.75 4.375 -8.25" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.125 11.5 -8.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.125 6.0 -8.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.0 -4.25 -8.625" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="4.625 -8.5 -9.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.625 6.0 -9.25" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="0.75 -6.75 -9.375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.0 6.5 -9.625" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-0.5 -5.375 -9.75" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.25 0.25 -9.75" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-2.625 -2.625 -10.125" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.875 2.875 -10.875" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-3.75 -6.25 -11.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="1.625 -8.25 -11.25" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="2.5 -10.75 -11.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-5.125 13.25 -11.5" hidden="0" template="zen"/>
+	<box size="3.0 3.0 3.0" pos="-4.0 -9.5 -9.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-1.125 -9.5 -12.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.625 0.875 -12.5" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-4.875 -3.25 -13.5" hidden="0" template="zen"/>
+</segment>
+
