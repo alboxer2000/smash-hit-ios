@@ -1,0 +1,66 @@
+<segment size="12 10 16" template="phosphor_s">
+	<box size="0.5 5.0 0.25" pos="-7.5 -5.0 -0.75" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.1875" pos="-10.5 -5.0 -0.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="10.5 -5.0 -0.75" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.375" pos="7.5 -5.0 -0.625" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.3125" pos="3.5 -5.0 -0.6875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.3125" pos="-3.5 -5.0 -0.6875" hidden="0" template="phosphor"/>
+	<box size="21.0 5.0 0.5" pos="0.0 -5.0 -1.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.125" pos="10.5 -5.0 -2.125" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-10.5 -5.0 -2.25" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.4375" pos="7.5 -5.0 -2.4375" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5" pos="-7.5 -5.0 -2.5" hidden="0" template="phosphor"/>
+	<box size="4.0 5.0 0.5" pos="0.0 -5.0 -2.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="2.5 0.5 -2.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 2.5 -2.9375" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="-2.5 0.5 -2.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.125" pos="2.5 1.5 -2.875" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 2.5 -2.9375" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 1.5 -2.875" hidden="0" template="phosphor"/>
+	<decal pos="9.1875 -1.22296 -3.3125" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+	<decal pos="-7.4375 -1.34796 -3.4375" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25" rot="0 0 .1"/>
+	<box size="0.5 6.5 0.5" pos="-1.5 9.0 -3.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.4375 0.5" pos="0.5 9.0625 -3.5" hidden="0" template="phosphor"/>
+	<box size="0.5 10.0 0.5" pos="2.5 6.0 -3.5" hidden="0" template="phosphor"/>
+	<box size="2.0 6.5 0.5" pos="0.0 -6.5 -3.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 0.5" pos="1.5 9.0 -3.5" hidden="0" template="phosphor"/>
+	<box size="0.5 10.0 0.5" pos="-2.5 6.0 -3.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.3125 0.5" pos="-0.5 9.1875 -3.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 0.0625" pos="-0.5 -6.5 -4.0625" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 0.1875" pos="-1.5 -6.5 -4.1875" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 0.25" pos="1.5 -6.5 -4.25" hidden="0" template="phosphor"/>
+	<decal pos="0.0625 -0.59796 -4.8125" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+	<obstacle pos="0.0 -2.97205 -7.5" hidden="0" template="phosphor_glass" type="cubeframe" param1="size=1.5" param2="thickness=.1"/>
+	<obstacle pos="0.0 -1.97205 -7.5" hidden="0" template="phosphor_glass" type="cubeframe" param1="size=.8" param2="thickness=.075" mode="6"/>
+	<box size="1.0 5.0 1.0" pos="6.0 -4.5 -9.0" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 3.5" pos="-2.5 9.0 -7.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.125" pos="0.5 -5.0 -10.875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.3125" pos="1.5 -5.0 -10.6875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-1.5 -5.0 -10.75" hidden="0" template="phosphor"/>
+	<box size="1.0 5.0 1.0" pos="-7.0 -4.5 -10.0" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 3.5" pos="2.5 9.0 -7.5" hidden="0" template="phosphor"/>
+	<box size="0.5 10.0 0.5" pos="-2.5 5.5 -11.5" hidden="0" template="phosphor"/>
+	<box size="2.0 5.0 0.5" pos="0.0 -5.0 -11.5" hidden="0" template="phosphor"/>
+	<box size="0.5 10.75 0.5" pos="2.5 5.25 -11.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 0.5" pos="1.5 9.0 -11.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.4375 0.5" pos="0.5 9.0625 -11.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.3125 0.5" pos="-0.5 9.1875 -11.5" hidden="0" template="phosphor"/>
+	<box size="0.5 6.5 0.5" pos="-1.5 9.0 -11.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.1875" pos="-10.5 -5.0 -13.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-7.5 -5.0 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.375" pos="7.5 -5.0 -13.625" hidden="0" template="phosphor"/>
+	<box size="4.0 5.0 1.0" pos="0.0 -5.0 -13.0" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="10.5 -5.0 -13.75" hidden="0" template="phosphor"/>
+	<box size="21.0 5.0 0.5" pos="0.0 -5.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.125" pos="1.5 -5.0 -15.125" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.125" pos="10.5 -5.0 -15.125" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.1875" pos="2.5 -5.0 -15.1875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.1875" pos="-1.5 -5.0 -15.1875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="3.5 -5.0 -15.25" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-10.5 -5.0 -15.25" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.375" pos="-3.5 -5.0 -15.375" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.4375" pos="7.5 -5.0 -15.4375" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5" pos="-7.5 -5.0 -15.5" hidden="0" template="phosphor"/>
+	<decal pos="0.3125 -1.09796 -15.9375" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+</segment>
+

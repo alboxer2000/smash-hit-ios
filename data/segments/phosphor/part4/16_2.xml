@@ -1,0 +1,110 @@
+<segment size="12 10 16" template="phosphor_s">
+	<box size="0.5 4.75 0.25" pos="-1.0 -7.25 -0.75" hidden="0" template="phosphor"/>
+	<box size="0.5 4.75 0.25" pos="0.0 -7.75 -0.75" hidden="0" template="phosphor"/>
+	<box size="0.5 4.75 0.25" pos="1.0 -7.25 -0.75" hidden="0" template="phosphor"/>
+	<box size="1.5 0.5 0.5" pos="0.0 -2.5 -1.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5" pos="-2.0 -7.0 -1.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5" pos="2.0 -7.0 -1.5" hidden="0" template="phosphor"/>
+	<box size="0.5 4.75 0.5" pos="3.5 -7.25 -1.5" hidden="0" template="phosphor"/>
+	<obstacle pos="6.25 1.03961 -2.125" hidden="0" template="phosphor_glass" rot="0 0 1.8" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="-4.75 1.03961 -2.875" hidden="0" template="phosphor_glass" rot="0 0 1.8" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="0.125 -3.24176 -2.875" hidden="0" template="phosphor_glass" type="cactus" param1="scale=2" rot="0 0 .2" param2="speed=.5"/>
+	<obstacle pos="4.875 1.03961 -3.0" hidden="0" template="phosphor_glass" rot="0 0 1.35" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="7.25 1.03961 -3.5" hidden="0" template="phosphor_glass" rot="0 0 1.4" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="-7.5 1.03961 -4.125" hidden="0" template="phosphor_glass" rot="0 0 1.6" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="9.5 1.03961 -4.125" hidden="0" template="phosphor_glass" rot="0 0 1.6" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="6.0 1.03961 -4.625" hidden="0" template="phosphor_glass" rot="0 0 1.5" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="-4.0 1.03961 -5.125" hidden="0" template="phosphor_glass" rot="0 0 1.5" type="bar" param1="maxwidth=20" param2="move=1" param3="speed=.25"/>
+	<obstacle pos="6.375 1.03961 -5.875" hidden="0" template="phosphor_glass" rot="0 0 1" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="-6.5 1.03961 -6.25" hidden="0" template="phosphor_glass" rot="0 0 1.4" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="-4.375 1.03961 -7.375" hidden="0" template="phosphor_glass" rot="0 0 1.25" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="4.625 1.03961 -7.875" hidden="0" template="phosphor_glass" rot="0 0 1.5" type="bar" param1="maxwidth=20" param2="move=1" param3="speed=.25"/>
+	<obstacle pos="-7.125 1.03961 -7.875" hidden="0" template="phosphor_glass" rot="0 0 1" type="bar" param1="maxwidth=20"/>
+	<obstacle pos="-5.375 1.03961 -9.125" hidden="0" template="phosphor_glass" rot="0 0 1.3" type="bar" param1="maxwidth=20" param2="move=1" param3="speed=.25"/>
+	<obstacle pos="2.375 1.03961 -10.625" hidden="0" template="phosphor_glass" rot="0 0 1.75" type="bar" param1="maxwidth=20"/>
+	<box size="1.0 5.0 1.0" pos="-4.0 -11.0 -11.0" hidden="0" template="phosphor"/>
+	<box size="1.0 5.0 1.0" pos="10.0 -11.0 -11.0" hidden="0" template="phosphor"/>
+	<box size="2.0 5.0 1.0" pos="8.0 -10.0 -12.0" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 1.0" pos="13.5 -10.0 -12.0" hidden="0" template="phosphor"/>
+	<box size="2.0 5.0 1.0" pos="-6.0 -10.0 -12.0" hidden="0" template="phosphor"/>
+	<box size="1.0 5.0 0.25" pos="-1.0 -11.0 -12.75" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.0625" pos="3.5 -5.5 -13.1875" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.125" pos="1.5 -4.5 -13.125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.25" pos="1.5 -6.5 -13.0" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-7.5 -8.0 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.0625" pos="5.5 0.5 -13.9375" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.3125" pos="-10.5 -8.0 -13.6875" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.25" pos="-5.5 -2.5 -13.75" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 0.75" pos="7.5 -8.0 -13.25" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5" pos="16.5 -8.0 -13.5" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 1.0" pos="11.5 -9.0 -13.0" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 0.4375" pos="-13.5 -8.0 -13.5625" hidden="0" template="phosphor"/>
+	<box size="2.0 5.0 1.0" pos="-4.0 -9.0 -13.0" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5625" pos="-9.5 -8.0 -13.4375" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 0.4375" pos="-5.5 -8.0 -13.5625" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.3125" pos="-8.5 -8.0 -13.6875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-0.5 -8.0 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.125" pos="4.5 -8.0 -13.875" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.25" pos="-3.5 -8.0 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.4375" pos="-1.5 -8.0 -13.5625" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.4375" pos="5.5 -8.0 -13.5625" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.0625" pos="10.5 -8.0 -13.9375" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.5" pos="9.5 -8.0 -13.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.4375" pos="11.5 -8.0 -13.5625" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0 0.8125" pos="15.5 -8.0 -13.1875" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 0.375" pos="2.5 -8.5 -13.625" hidden="0" template="phosphor"/>
+	<box size="1.0 5.0 1.0" pos="-8.0 -9.0 -13.0" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 1.0" pos="5.5 -9.0 -13.0" hidden="0" template="phosphor"/>
+	<box size="1.0 5.0 0.5" pos="0.0 -9.0 -13.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.25" pos="-9.5 -2.5 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="-9.5 -1.5 -13.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.25" pos="9.5 -2.5 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.25" pos="5.5 -2.5 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="9.5 -1.5 -13.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.125" pos="5.5 -0.5 -13.875" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.0625" pos="9.5 0.5 -13.9375" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 0.625" pos="13.5 -8.0 -13.375" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="5.5 -1.5 -13.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.125" pos="9.5 -0.5 -13.875" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="-5.5 -1.5 -13.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 3.5 0.25" pos="7.5 10.5 -13.75" hidden="0" template="phosphor"/>
+	<box size="1.5 5.0 0.4375" pos="14.5 9.0 -13.5625" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.1875" pos="7.5 6.5 -13.8125" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.125" pos="7.5 5.5 -13.875" hidden="0" template="phosphor"/>
+	<box size="0.5 4.5625 0.125" pos="-4.5 9.9375 -13.875" hidden="0" template="phosphor"/>
+	<box size="0.5 4.8125 0.25" pos="-3.5 9.6875 -13.75" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.5" pos="-6.5 -2.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 2.5 0.5" pos="5.5 -0.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.25 0.5 0.5" pos="4.75 -2.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.0625 0.5 0.5" pos="4.9375 -0.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.125 0.5 0.5" pos="-4.875 -2.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 4.75 0.5" pos="2.5 -8.25 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 1.0 0.5" pos="-5.5 -2.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="9.0 5.0 0.5" pos="-11.0 -8.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 2.5 0.5" pos="9.5 -0.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.25 0.5" pos="-10.5 -2.75 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.0625 0.5" pos="-1.5 -7.9375 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.4375 0.5" pos="-7.5 -2.5625 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.5 0.5" pos="-8.5 -2.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.125 0.5 0.5" pos="4.875 -1.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 5.125 0.5" pos="-0.5 -7.875 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 4.625 0.5" pos="0.5 -8.375 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 4.4375 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.0625 0.5" pos="-4.5 3.9375 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 1.0 0.5" pos="-9.5 -2.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 4.8125 0.5" pos="1.5 -8.1875 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 4.4375 -14.5" hidden="0" template="phosphor"/>
+	<box size="1.5 0.5 0.5" pos="7.5 1.5 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 0.0625 0.5" pos="6.5 -2.9375 -14.5" hidden="0" template="phosphor"/>
+	<box size="9.0 5.0 0.5" pos="13.0 -8.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 4.9375 0.5" pos="3.5 -8.0625 -14.5" hidden="0" template="phosphor"/>
+	<box size="1.5 6.5 0.875" pos="-1.5 11.0 -14.125" hidden="0" template="phosphor"/>
+	<box size="0.5 6.6875 0.5" pos="2.5 10.9375 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 7.0 0.4375" pos="1.5 11.625 -14.5625" hidden="0" template="phosphor"/>
+	<box size="9.0 7.0 0.5" pos="-12.0 11.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="9.0 7.0 0.5" pos="12.0 11.0 -14.5" hidden="0" template="phosphor"/>
+	<box size="0.5 7.0625 0.5" pos="0.5 11.5625 -14.5" hidden="0" template="phosphor"/>
+	<decal pos="1.9375 -3.09796 -15.3125" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+	<decal pos="-4.8125 -3.47296 -15.4375" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+</segment>
+
