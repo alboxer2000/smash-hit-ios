@@ -1,0 +1,14 @@
+<segment size="12 10 16" template="endless_s">
+	<box size="0.5 2.0 0.5" pos="-1.5 5.25 -6.5" hidden="0" template="zen"/>
+	<box size="0.5 2.0 0.5" pos="1.5 5.25 -6.5" hidden="0" template="zen"/>
+	<box size="1.0 0.5 0.5" pos="0.0 3.75 -6.5" hidden="0" template="zen"/>
+	<obstacle pos="0.0 2.52003 -8.0" hidden="0" template="endless_st" type="scorestar"/>
+	<box size="0.5 0.5 1.0" pos="1.5 3.75 -8.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 1.0" pos="-1.5 3.75 -8.0" hidden="0" template="zen"/>
+	<box size="1.0 0.5 0.5" pos="0.0 3.75 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 2.0 0.5" pos="1.5 5.25 -9.5" hidden="0" template="zen"/>
+	<box size="0.5 2.0 0.5" pos="-1.5 5.25 -9.5" hidden="0" template="zen"/>
+	<box size="18.0 5.0 8.0" pos="0.0 -10.0 -8.0" hidden="0" template="zen"/>
+	<box size="18.0 5.0 8.0" pos="0.0 12.0 -8.0" hidden="0" template="zen"/>
+</segment>
+

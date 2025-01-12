@@ -1,0 +1,35 @@
+<segment size="12 10 8" template="endless_s">
+	<box size="0.5 0.5 0.0625" pos="-6.5 -4.5 -3.4375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.0625" pos="-6.5 -2.5 -3.4375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.0625" pos="3.125 -2.5 -3.4375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.0625" pos="6.5 -2.5 -3.4375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.0625" pos="6.5 -4.5 -3.4375" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.0625" pos="-3.125 -2.5 -3.4375" hidden="0" template="zen"/>
+	<obstacle pos="1.5 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=.5" rot="0 1.57 0" param8="radius=.5"/>
+	<obstacle pos="0.75 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=.25" rot="0 1.57 0" param8="radius=.5"/>
+	<obstacle pos="0.0 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=0" rot="0 1.57 0" param8="radius=.5"/>
+	<obstacle pos="2.25 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=.75" rot="0 1.57 0" param8="radius=.5"/>
+	<obstacle pos="-1.5 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=-.5" rot="0 1.57 0" param8="radius=.5"/>
+	<obstacle pos="-0.75 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=-.25" rot="0 1.57 0" param8="radius=.5"/>
+	<obstacle pos="-2.25 -2.525 -4.0" hidden="0" type="rotor" template="zen_glass" param1="speed=2" param2="arms=2" param3="width=.025" param4="drive=true" param5="length=3.5" param6="thickness=.34" param7="offset=-.75" rot="0 1.57 0" param8="radius=.5"/>
+	<box size="1.6875 0.5 0.5" pos="4.3125 -2.5 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 1.0 0.5" pos="9.5 -4.0 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="10.5 -4.5 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.125 0.5" pos="11.5 -4.875 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="12.5 -4.625 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 1.5 0.5" pos="-6.5 -3.5 -4.0" hidden="0" template="zen"/>
+	<box size="1.6875 0.5 0.5" pos="-4.3125 -2.5 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 1.0 0.5" pos="-7.5 -4.0 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-8.5 -4.5 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="-9.5 -4.625 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 1.5 0.5" pos="6.5 -3.5 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.375 0.5" pos="-12.5 -4.625 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.125 0.5" pos="-11.5 -4.875 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="-10.5 -4.5 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 1.0 0.5" pos="7.5 -4.0 -4.0" hidden="0" template="zen"/>
+	<box size="0.5 0.5 0.5" pos="8.5 -4.5 -4.0" hidden="0" template="zen"/>
+	<box size="18.0 5.0 4.0" pos="0.0 12.0 -4.0" hidden="0" template="zen"/>
+	<box size="6.0 5.0 4.0" pos="-12.0 -10.0 -4.0" hidden="0" template="zen"/>
+	<box size="6.0 5.0 4.0" pos="12.0 -10.0 -4.0" hidden="0" template="zen"/>
+</segment>
+
