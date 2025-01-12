@@ -1,0 +1,7 @@
+<segment size="12 10 16" lightRight="0.85" lightBottom="0.95" lightFront=".9" lightLeft="0.8" lightTop="0.9" fogcolor=".4 .6 2 0 0 0">
+	<box size="6.0 0.5 8.0" pos="0.0 -4.5 -8.0" hidden="0" reflection="0" tile="5"/>
+	<box size="0.5 6.0 8.0" pos="5.5 2.0 -8.0" hidden="0" reflection="1"/>
+	<box size="0.5 6.0 8.0" pos="-5.5 2.0 -8.0" hidden="0" reflection="1"/>
+	<box size="6.0 0.5 8.0" pos="0.0 6.5 -8.0" hidden="1" reflection="1"/>
+</segment>
+
