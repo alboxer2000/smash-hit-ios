@@ -1,0 +1,17 @@
+<segment size="12 10 16" template="endless_s">
+	<obstacle pos="1.5 -0.72997 -6.5" hidden="0" template="endless_st" type="scoretop"/>
+	<obstacle pos="-1.5 -0.72997 -6.5" hidden="0" template="endless_st" type="scoretop"/>
+	<box size="0.5 2.5 0.5" pos="-1.5 -3.25 -6.5" hidden="0" template="endless"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -1.25 -6.5" hidden="0" template="endless"/>
+	<box size="0.5 3.0 0.5" pos="1.5 -3.75 -6.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 1.0" pos="1.5 -1.25 -8.0" hidden="0" template="endless"/>
+	<box size="0.5 0.5 1.0" pos="-1.5 -1.25 -8.0" hidden="0" template="endless"/>
+	<obstacle pos="1.5 -0.72997 -9.5" hidden="0" template="endless_st" type="scoretop"/>
+	<obstacle pos="-1.5 -0.72997 -9.5" hidden="0" template="endless_st" type="scoretop"/>
+	<box size="0.5 2.5 0.5" pos="-1.5 -3.25 -9.5" hidden="0" template="endless"/>
+	<box size="0.5 2.5 0.5" pos="1.5 -3.25 -9.5" hidden="0" template="endless"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -1.25 -9.5" hidden="0" template="endless"/>
+	<box size="18.0 5.0 8.0" pos="0.0 12.0 -8.0" hidden="0" template="endless" tileSize="2"/>
+	<box size="18.0 5.0 8.0" pos="0.0 -10.0 -8.0" hidden="0" template="endless"/>
+</segment>
+

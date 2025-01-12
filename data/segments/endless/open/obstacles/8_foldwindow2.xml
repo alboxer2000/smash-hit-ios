@@ -1,0 +1,11 @@
+<segment size="12 10 8" template="endless_s">
+	<box size="0.5 0.5 0.0625" pos="2.5 2.5 -2.9375" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 2.5 -2.875" hidden="0" template="endless"/>
+	<box size="3.0 0.5 0.5" pos="0.0 2.5 -3.5" hidden="0" template="endless"/>
+	<obstacle pos="0.0 2.225 -4.25" hidden="0" template="endless_glass" type="foldwindow" param1="width=3.9" rot="0 0 3.14"/>
+	<box size="0.5 2.5 1.0" pos="2.5 4.5 -5.0" hidden="0" template="endless"/>
+	<box size="0.5 2.5 1.0" pos="-2.5 4.5 -5.0" hidden="0" template="endless"/>
+	<box size="18.0 5.0 4.0" pos="0.0 12.0 -4.0" hidden="0" template="endless" tileSize="2"/>
+	<box size="18.0 5.0 4.0" pos="0.0 -10.0 -4.0" hidden="0" template="endless"/>
+</segment>
+

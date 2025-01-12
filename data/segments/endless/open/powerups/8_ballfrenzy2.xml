@@ -1,0 +1,12 @@
+<segment size="12 10 8" template="endless_s">
+	<powerup pos="6.5 1.5 -4.5" hidden="0" type="ballfrenzy"/>
+	<box size="0.5 3.5 0.5" pos="7.5 3.75 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.3125 0.5" pos="5.5 6.9375 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="-6.5 -5.25 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 3.5 0.5" pos="6.5 -2.25 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.3125 0.5" pos="8.5 6.9375 -4.5" hidden="0" template="endless"/>
+	<box size="0.5 0.5 0.5" pos="5.5 -5.25 -4.5" hidden="0" template="endless"/>
+	<box size="18.0 5.0 4.0" pos="0.0 -10.0 -4.0" hidden="0" template="endless"/>
+	<box size="18.0 5.0 4.0" pos="0.0 12.0 -4.0" hidden="0" template="endless" tileSize="2"/>
+</segment>
+
