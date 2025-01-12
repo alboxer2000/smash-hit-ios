@@ -1,0 +1,47 @@
+<segment size="12 10 16" template="split_s">
+	<box size="0.5 1.5 0.5" pos="2.5 0.5 -3.5" hidden="0" template="split"/>
+	<box size="0.0625 0.5 0.5" pos="2.9375 5.5 -3.5" hidden="0" template="split"/>
+	<box size="0.1875 0.5 0.5" pos="2.8125 4.5 -3.5" hidden="0" template="split"/>
+	<box size="0.125 0.5 0.5" pos="2.875 3.5 -3.5" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="2.75 2.5 -3.5" hidden="0" template="split"/>
+	<box size="0.1875 0.5 0.5" pos="2.8125 -4.5 -3.5" hidden="0" template="split"/>
+	<box size="0.375 0.5 0.5" pos="2.625 -3.5 -3.5" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="2.75 -2.5 -3.5" hidden="0" template="split"/>
+	<box size="0.4375 0.5 0.5" pos="2.5625 -1.5 -3.5" hidden="0" template="split"/>
+	<box size="0.4375 0.5 0.5" pos="-2.5625 -1.5 -3.5" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="-2.75 -2.5 -3.5" hidden="0" template="split"/>
+	<box size="0.375 0.5 0.5" pos="-2.625 -3.5 -3.5" hidden="0" template="split"/>
+	<box size="0.1875 0.5 0.5" pos="-2.8125 -4.5 -3.5" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="-2.75 2.5 -3.5" hidden="0" template="split"/>
+	<box size="0.125 0.5 0.5" pos="-2.875 3.5 -3.5" hidden="0" template="split"/>
+	<box size="0.1875 0.5 0.5" pos="-2.8125 4.5 -3.5" hidden="0" template="split"/>
+	<box size="0.0625 0.5 0.5" pos="-2.9375 5.5 -3.5" hidden="0" template="split"/>
+	<box size="0.5 1.5 0.5" pos="-2.5 0.5 -3.5" hidden="0" template="split"/>
+	<box size="0.5 3.75 0.5" pos="-2.0 -9.25 -11.0" hidden="0" template="split"/>
+	<box size="0.5 3.25 0.75" pos="-2.5 -9.75 -10.75" hidden="0" template="split"/>
+	<box size="0.5 4.0 0.5" pos="-1.0 -9.0 -12.0" hidden="0" template="split"/>
+	<decal pos="-1.0 0.5 -12.5" hidden="0" tile="35" rot="0 0 1.57" size=".5 .25" template="split"/>
+	<obstacle pos="-1.0 0.5 -12.5" hidden="0" type="rotor" template="split_glass" param1="speed=1.5" param2="arms=2" param3="width=.15" param4="drive=true" rot="0 1.57 0"/>
+	<decal pos="1.0 0.5 -12.5" hidden="0" tile="35" rot="0 0 1.57" size=".5 .25" template="split"/>
+	<obstacle pos="1.0 0.5 -12.5" hidden="0" type="rotor" template="split_glass" param1="speed=1.5" param2="arms=2" param3="width=.15" param4="drive=true" rot="0 1.57 0"/>
+	<box size="0.25 0.25 0.5" pos="-1.5 0.5 -12.5" hidden="0" template="split"/>
+	<box size="0.5 4.0 1.0" pos="-2.5 -9.0 -12.0" hidden="0" template="split"/>
+	<box size="0.75 0.25 0.5" pos="0.0 0.5 -12.5" hidden="0" template="split"/>
+	<box size="0.25 0.25 0.5" pos="1.5 0.5 -12.5" hidden="0" template="split"/>
+	<box size="0.5 4.0 1.0" pos="2.5 -9.0 -12.0" hidden="0" template="split"/>
+	<box size="0.5 3.5 0.5" pos="1.0 -9.5 -13.0" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.5" pos="2.5 10.5 -13.5" hidden="0" template="split"/>
+	<box size="2.0 0.5 0.5" pos="0.0 7.5 -13.5" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.5" pos="-2.5 10.5 -13.5" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="-2.75 5.5 -13.5" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="2.75 5.5 -13.5" hidden="0" template="split"/>
+	<box size="0.625 0.25 6.0" pos="2.375 0.5 -8.0" hidden="0" template="split"/>
+	<box size="4.5 14.0 6.0" pos="-7.5 1.0 -8.0" hidden="0" template="split"/>
+	<box size="0.625 0.25 6.0" pos="-2.375 0.5 -8.0" hidden="0" template="split"/>
+	<box size="4.5 14.0 6.0" pos="7.5 1.0 -8.0" hidden="0" template="split"/>
+	<box size="0.5 5.5 0.5" pos="-2.5 -7.5 -14.5" hidden="0" template="split"/>
+	<box size="0.5 5.5 0.5" pos="2.5 -7.5 -14.5" hidden="0" template="split"/>
+	<box size="1.5 5.0 1.0" pos="-2.5 -8.0 -14.0" hidden="0" template="split"/>
+	<box size="1.5 4.5 1.0" pos="2.5 -8.5 -14.0" hidden="0" template="split"/>
+</segment>
+

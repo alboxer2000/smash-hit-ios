@@ -1,0 +1,53 @@
+<segment size="12 10 16" template="split_s">
+	<box size="0.5 4.5 0.25" pos="9.5 -8.0 -6.75" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="8.5 -8.0 -7.75" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="3.5 -8.0 -7.75" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="-3.5 -8.0 -9.75" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="-8.5 -8.0 -9.75" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.125" pos="2.5 -0.5 -10.375" hidden="0" template="split"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 -0.5 -10.375" hidden="0" template="split"/>
+	<obstacle pos="1.5 -0.5 -11.0" hidden="0" template="split_glass" type="revolver" param1="speed=.25" rot="0 0 1.57" param2="height=1" param3="width=4"/>
+	<obstacle pos="-0.5 -0.5 -11.0" hidden="0" template="split_glass" type="revolver" param1="speed=.25" rot="0 0 1.57" param2="height=1" param3="width=4"/>
+	<obstacle pos="-1.0 -1.125 -11.25" hidden="0" template="split_st" type="scorediamond"/>
+	<obstacle pos="1.0 -1.125 -11.25" hidden="0" template="split_st" type="scorediamond"/>
+	<box size="0.5 0.5 0.5" pos="0.0 -0.5 -11.0" hidden="0" template="split"/>
+	<box size="0.5 2.5 0.5" pos="2.5 -2.5 -11.0" hidden="0" template="split"/>
+	<box size="0.125 0.75 0.5" pos="-3.125 -1.75 -11.0" hidden="0" template="split"/>
+	<box size="3.0 4.0 0.5" pos="0.0 -9.0 -11.0" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="1.75 -0.5 -11.0" hidden="0" template="split"/>
+	<box size="0.5 2.5 0.5" pos="-2.5 -2.5 -11.0" hidden="0" template="split"/>
+	<box size="0.25 0.5 0.5" pos="-1.75 -0.5 -11.0" hidden="0" template="split"/>
+	<box size="0.125 0.75 0.5" pos="3.125 -1.75 -11.0" hidden="0" template="split"/>
+	<box size="0.5625 5.0 0.75" pos="3.0625 -7.5 -10.75" hidden="0" template="split"/>
+	<box size="0.0625 0.5 0.5" pos="3.0625 -0.5 -11.0" hidden="0" template="split"/>
+	<box size="0.5625 5.0 0.75" pos="-3.0625 -7.5 -10.75" hidden="0" template="split"/>
+	<box size="0.0625 0.5 0.5" pos="-3.0625 -0.5 -11.0" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="10.5 -3.375 -12.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.125 0.5" pos="9.5 -3.375 -13.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 3.5 0.25" pos="-0.5 -9.0 -13.75" hidden="0" template="split"/>
+	<box size="0.5 0.0625 0.5" pos="8.5 -3.4375 -13.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 4.5 0.5" pos="-2.5 -8.0 -13.5" hidden="0" template="split"/>
+	<box size="0.0625 0.5 0.5" pos="9.9375 3.0 -13.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 4.0 0.5" pos="1.5 -8.5 -13.5" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="2.5 -8.0 -13.75" hidden="0" template="split"/>
+	<box size="3.0 4.5 0.5" pos="0.0 -8.0 -14.5" hidden="0" template="split"/>
+	<box size="1.5 4.5 1.5" pos="12.5 1.0 -13.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 2.0 0.5" pos="9.5 -1.5 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.25 0.5" pos="6.5 -3.25 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.0625 0.5 0.5" pos="8.9375 0.0 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.25 0.5" pos="8.5 -3.25 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.0625 0.5" pos="5.5 -3.4375 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.125 0.5" pos="7.5 -3.375 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 4.5 0.25" pos="0.5 -8.0 -15.25" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.25" pos="-1.5 -8.0 -15.25" hidden="0" template="split"/>
+	<box size="3.0 4.5 3.0" pos="-6.0 -8.0 -13.0" hidden="0" template="split"/>
+	<box size="1.5 4.5 1.5" pos="-13.5 1.0 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="3.0 4.5 4.0" pos="6.0 -8.0 -12.0" hidden="0" template="split"/>
+	<box size="7.0 4.5 3.5" pos="-16.0 -8.0 -12.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 0.0625 0.5" pos="-3.5 -3.4375 -15.5" hidden="0" template="split" tileSize="4"/>
+	<box size="0.5 4.5 0.5" pos="2.5 -8.0 -15.5" hidden="0" template="split"/>
+	<box size="0.5 4.5 0.5" pos="-2.5 -8.0 -15.5" hidden="0" template="split"/>
+	<box size="1.5 3.5 1.5" pos="11.5 0.0 -14.5" hidden="0" template="split" tileSize="4"/>
+	<box size="7.0 4.5 4.5" pos="16.0 -8.0 -11.5" hidden="0" template="split" tileSize="4"/>
+</segment>
+

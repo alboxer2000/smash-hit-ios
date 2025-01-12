@@ -1,0 +1,43 @@
+<segment size="12 10 16" template="split_s">
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="-4.0 -3.0 -6.4375"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="4.0 -3.0 -6.4375"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="-4.0 2.0 -7.4375"/>
+	<box size="0.5 0.5 0.375" template="split" hidden="0" pos="-4.0 0.0 -7.125"/>
+	<box size="0.5 6.0 0.5" template="split" hidden="0" pos="-4.0 -6.5 -7.0"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="-4.0 1.0 -7.3125"/>
+	<box size="0.5 6.0 0.5" template="split" hidden="0" pos="4.0 -6.5 -7.0"/>
+	<box size="0.5 0.5 0.375" template="split" hidden="0" pos="4.0 0.0 -7.125"/>
+	<box size="0.5 0.5 0.1875" template="split" hidden="0" pos="4.0 1.0 -7.3125"/>
+	<box size="0.5 0.5 0.0625" template="split" hidden="0" pos="4.0 2.0 -7.4375"/>
+	<box size="6.5 8.0 0.5" template="split" hidden="0" pos="10.0 -4.5 -8.0"/>
+	<box size="6.5 8.0 0.5" template="split" hidden="0" pos="-10.0 -4.5 -8.0"/>
+	<obstacle template="split_glass" hidden="0" type="sweeper" param1="blocker=true" pos="7.0 0.0 -9.0" rot="0 0 1.57" param2="height=14" param3="speed=.5"/>
+	<box size="0.0625 0.5 0.5" template="split" hidden="0" pos="3.4375 -1.0 -10.0"/>
+	<box size="0.25 4.5 0.5" template="split" hidden="0" pos="-2.75 -8.0 -10.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="-2.375 -5.0 -10.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="3.375 -2.0 -10.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="2.375 -5.0 -10.0"/>
+	<box size="0.25 5.0 0.5" template="split" hidden="0" pos="-3.25 -7.5 -10.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="-3.375 -2.0 -10.0"/>
+	<box size="0.0625 0.5 0.5" template="split" hidden="0" pos="-3.4375 -1.0 -10.0"/>
+	<box size="0.25 4.5 0.5" template="split" hidden="0" pos="2.75 -8.0 -10.0"/>
+	<box size="0.25 5.0 0.5" template="split" hidden="0" pos="3.25 -7.5 -10.0"/>
+	<box size="0.25 4.5 0.5" template="split" hidden="0" pos="-2.75 -8.0 -13.0"/>
+	<box size="0.0625 0.5 0.5" template="split" hidden="0" pos="-3.4375 -1.0 -13.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="-3.375 -2.0 -13.0"/>
+	<box size="0.25 4.5 0.5" template="split" hidden="0" pos="2.75 -8.0 -13.0"/>
+	<box size="0.25 5.0 0.5" template="split" hidden="0" pos="3.25 -7.5 -13.0"/>
+	<box size="0.25 5.0 0.5" template="split" hidden="0" pos="-3.25 -7.5 -13.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="-2.375 -5.0 -13.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="2.375 -5.0 -13.0"/>
+	<box size="6.5 8.0 2.0" template="split" hidden="0" pos="-10.0 -4.5 -11.5"/>
+	<box size="6.5 8.0 2.0" template="split" hidden="0" pos="10.0 -4.5 -11.5"/>
+	<box size="0.0625 0.5 0.5" template="split" hidden="0" pos="3.4375 -1.0 -13.0"/>
+	<box size="0.125 0.5 0.5" template="split" hidden="0" pos="3.375 -2.0 -13.0"/>
+	<obstacle template="split_glass" hidden="0" type="sweeper" param1="blocker=true" pos="-7.0 0.0 -14.0" rot="0 0 -1.57" param2="height=14" param3="speed=.5"/>
+	<box size="6.5 5.0 4.0" template="split" hidden="0" pos="10.0 8.5 -11.5"/>
+	<box size="6.5 5.0 4.0" template="split" hidden="0" pos="-10.0 8.5 -11.5"/>
+	<box size="6.5 8.0 0.5" template="split" hidden="0" pos="-10.0 -4.5 -15.0"/>
+	<box size="6.5 8.0 0.5" template="split" hidden="0" pos="10.0 -4.5 -15.0"/>
+</segment>
+

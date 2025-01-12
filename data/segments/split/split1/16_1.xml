@@ -1,0 +1,61 @@
+<segment size="12 10 16" template="split_s">
+	<box size="0.5 0.125 0.5" pos="-5.5 -2.875 -1.5" hidden="0" template="split"/>
+	<box size="1.0 5.0 1.0" pos="-5.0 -8.0 -2.0" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 -3.875 -2.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-3.5 -1.875 -2.5" hidden="0" template="split"/>
+	<box size="1.0 5.0 1.0" pos="3.0 -8.0 -2.0" hidden="0" template="split"/>
+	<box size="4.5 4.5 1.0" pos="-5.5 -8.5 -3.0" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="4.5 -1.875 -3.5" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="1.5 -3.875 -3.5" hidden="0" template="split"/>
+	<box size="4.5 4.5 1.0" pos="5.5 -8.5 -3.0" hidden="0" template="split"/>
+	<box size="3.5 1.0 1.0" pos="-6.5 -3.0 -3.0" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-6.5 -1.875 -3.5" hidden="0" template="split"/>
+	<box size="3.5 1.0 1.0" pos="6.5 -3.0 -3.0" hidden="0" template="split"/>
+	<box size="1.0 5.0 1.0" pos="-3.0 -8.0 -4.0" hidden="0" template="split"/>
+	<box size="0.5 4.5 1.0" pos="-10.5 -7.5 -4.0" hidden="0" template="split"/>
+	<box size="0.5 0.125 0.5" pos="-2.5 -2.875 -4.5" hidden="0" template="split"/>
+	<box size="0.5 4.75 0.5" pos="2.0 11.625 -4.5" hidden="0" template="split"/>
+	<box size="4.5 4.5 1.0" pos="-11.5 -8.5 -5.0" hidden="0" template="split"/>
+	<box size="2.0 4.5 1.0" pos="9.0 -8.5 -5.0" hidden="0" template="split"/>
+	<box size="0.5 0.75 0.125" pos="2.0 4.625 -5.875" hidden="0" template="split"/>
+	<box size="0.5 4.75 0.5" pos="-2.0 11.625 -5.5" hidden="0" template="split"/>
+	<box size="0.5 5.25 0.5" pos="2.0 11.125 -5.5" hidden="0" template="split"/>
+	<box size="1.0 2.75 1.0" pos="3.0 -5.25 -5.0" hidden="0" template="split"/>
+	<decal pos="2.0 3.39006 -6.0" hidden="0" tile="33" size=".53 .53" color=".1 .1 .1"/>
+	<decal pos="2.0 3.39006 -6.125" hidden="0" tile="33" size=".53 .53" color="0 0 0"/>
+	<box size="1.0 2.75 1.0" pos="7.0 -5.25 -6.0" hidden="0" template="split"/>
+	<box size="0.5 5.25 0.5" pos="-2.0 11.125 -6.5" hidden="0" template="split"/>
+	<box size="0.5 0.75 0.125" pos="-2.0 4.625 -6.875" hidden="0" template="split"/>
+	<box size="2.0 5.0 1.0" pos="11.0 -8.0 -6.0" hidden="0" template="split"/>
+	<obstacle pos="2.0 0.2776 -7.0" hidden="0" type="bigpendulum" template="split_glass" param2="dinglare=true"/>
+	<decal pos="-2.0 3.39006 -7.0" hidden="0" tile="33" size=".53 .53" color=".1 .1 .1"/>
+	<decal pos="-2.0 3.39006 -7.125" hidden="0" tile="33" size=".53 .53" color="0 0 0"/>
+	<box size="8.5 5.5 0.5" pos="11.0 10.375 -7.0" hidden="0" template="split"/>
+	<box size="4.5 0.5 0.5" pos="0.5 -6.5 -7.5" hidden="0" template="split"/>
+	<box size="0.5 5.75 1.0" pos="2.0 10.625 -7.0" hidden="0" template="split"/>
+	<decal pos="2.0 3.39006 -7.85" hidden="0" tile="33" size=".53 .53" color=".1 .1 .1"/>
+	<decal pos="2.0 3.39006 -7.975" hidden="0" tile="33" size=".53 .53" color="0 0 0"/>
+	<obstacle pos="-2.0 0.2776 -8.0" hidden="0" type="bigpendulum" template="split_glass" param2="dinglare=true"/>
+	<box size="0.5 0.75 0.125" pos="2.0 4.625 -8.125" hidden="0" template="split"/>
+	<box size="8.5 5.5 0.5" pos="-11.0 10.375 -8.0" hidden="0" template="split"/>
+	<box size="0.5 5.75 1.0" pos="-2.0 10.625 -8.0" hidden="0" template="split"/>
+	<decal pos="-2.0 3.39006 -8.85" hidden="0" tile="33" size=".53 .53" color=".1 .1 .1"/>
+	<decal pos="-2.0 3.39006 -8.975" hidden="0" tile="33" size=".53 .53" color="0 0 0"/>
+	<box size="0.5 0.75 0.125" pos="-2.0 4.625 -9.125" hidden="0" template="split"/>
+	<box size="1.0 1.0 1.0" pos="6.0 -4.0 -10.0" hidden="0" template="split"/>
+	<box size="1.0 1.0 1.0" pos="-6.0 -4.0 -10.0" hidden="0" template="split"/>
+	<box size="0.5 4.75 0.5" pos="0.0 11.625 -10.5" hidden="0" template="split"/>
+	<box size="0.5 0.75 0.125" pos="0.0 4.625 -11.875" hidden="0" template="split"/>
+	<box size="0.5 5.25 0.5" pos="0.0 11.125 -11.5" hidden="0" template="split"/>
+	<decal pos="0.0 3.39006 -12.0" hidden="0" tile="33" size=".53 .53" color=".1 .1 .1"/>
+	<decal pos="0.0 3.39006 -12.125" hidden="0" tile="33" size=".53 .53" color="0 0 0"/>
+	<box size="1.0 4.25 1.0" pos="10.5 -5.875 -12.0" hidden="0" template="split"/>
+	<obstacle pos="0.0 0.2776 -13.0" hidden="0" type="bigpendulum" template="split_glass" param2="dinglare=true"/>
+	<box size="1.0 4.25 1.0" pos="11.5 -4.875 -13.0" hidden="0" template="split"/>
+	<box size="0.5 5.75 1.0" pos="0.0 10.625 -13.0" hidden="0" template="split"/>
+	<decal pos="0.0 3.39006 -13.85" hidden="0" tile="33" size=".53 .53" color=".1 .1 .1"/>
+	<decal pos="0.0 3.39006 -13.975" hidden="0" tile="33" size=".53 .53" color="0 0 0"/>
+	<box size="0.5 0.75 0.125" pos="0.0 4.625 -14.125" hidden="0" template="split"/>
+	<box size="1.0 5.75 1.0" pos="-11.5 -3.375 -14.0" hidden="0" template="split"/>
+</segment>
+
