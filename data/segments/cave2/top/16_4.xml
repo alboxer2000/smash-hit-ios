@@ -1,0 +1,45 @@
+<segment size="12 10 16" template="cave2_s">
+	<box size="0.5 0.5 0.0625" pos="-1.5 3.0 -3.4375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="1.5 2.0 -3.375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-1.5 2.0 -3.375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="1.5 3.0 -3.4375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-1.5 0.0 -3.375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 -1.0 -3.4375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="1.5 -1.0 -3.4375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="1.5 0.0 -3.375" hidden="0" template="cave2"/>
+	<box size="0.5 1.5625 0.0625" pos="12.0 5.4375 -3.9375" hidden="0" template="cave2"/>
+	<box size="0.5 1.625 0.125" pos="9.0 5.375 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="8.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.5625 0.0625" pos="-12.0 5.4375 -3.9375" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="-8.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.625 0.125" pos="-9.0 5.375 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="-6.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.5625 0.25" pos="-7.0 5.4375 -3.75" hidden="0" template="cave2"/>
+	<box size="0.5 1.75 0.1875" pos="-5.0 5.25 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="-2.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.75 0.125" pos="-3.0 5.25 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="-4.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.625 0.125" pos="-11.0 5.375 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.5625 0.1875" pos="-10.0 5.4375 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.5625 0.1875" pos="10.0 5.4375 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.625 0.125" pos="11.0 5.375 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.25" pos="4.0 5.3125 -3.75" hidden="0" template="cave2"/>
+	<box size="0.5 1.75 0.125" pos="3.0 5.25 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="2.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<box size="0.5 1.75 0.125" pos="5.0 5.25 -3.875" hidden="0" template="cave2"/>
+	<box size="0.5 1.5625 0.25" pos="7.0 5.4375 -3.75" hidden="0" template="cave2"/>
+	<box size="0.5 1.6875 0.1875" pos="6.0 5.3125 -3.8125" hidden="0" template="cave2"/>
+	<obstacle pos="-1.5 0.5 -4.0" hidden="0" template="cave2_glass" type="revolver" param1="speed=.25" param2="height=1"/>
+	<obstacle pos="1.5 0.5 -4.0" hidden="0" template="cave2_glass" type="revolver" param1="speed=-.25" param2="height=1"/>
+	<box size="0.5 5.3125 0.5" pos="1.5 -4.8125 -4.0" hidden="0" template="cave2"/>
+	<box size="0.5 4.5625 0.5" pos="1.5 6.0625 -4.0" hidden="0" template="cave2"/>
+	<box size="0.5 5.8125 0.5" pos="-1.5 -5.3125 -4.0" hidden="0" template="cave2"/>
+	<box size="0.5 4.5625 0.5" pos="-1.5 6.0625 -4.0" hidden="0" template="cave2"/>
+	<obstacle pos="0.5 -0.125 -8.0" hidden="0" template="cave2_glass" type="revolver" param1="speed=.25" rot="0 0 1.57" param2="height=1" mode="6"/>
+	<box size="0.25 0.5 0.5" pos="-0.75 -0.125 -8.0" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 2.0" pos="1.5 -0.125 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 2.0" pos="-1.5 -0.125 -6.5" hidden="0" template="cave2"/>
+	<box size="0.25 0.5 0.5" pos="0.75 -0.125 -8.0" hidden="0" template="cave2"/>
+	<box size="16.0 10.0 4.5" pos="1.0 14.0 -8.5" hidden="0" template="cave2"/>
+</segment>
+

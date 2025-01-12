@@ -1,0 +1,11 @@
+<segment size="12 10 16" template="cave2_s">
+	<box size="16.0 3.0 4.0" pos="0.0 -6.0 -3.0" hidden="0" template="cave2"/>
+	<decal pos="0.0 1.03944 -15.0" hidden="0" tile="-2" color=".6 .2 .3"/>
+	<obstacle pos="0.0 0.0 -15.5" hidden="0" type="doors/basic" param0="buttons=1"/>
+	<box size="0.5 0.5 0.625" pos="0.0 2.5 -15.375" hidden="0" template="cave2"/>
+	<box size="16.0 4.5 0.5" pos="0.0 -4.5 -15.5" hidden="0" template="cave2"/>
+	<box size="16.0 7.0 0.5" pos="0.0 9.0 -15.5" hidden="0" template="cave2"/>
+	<box size="7.5 1.0 0.5" pos="-8.5 1.0 -15.5" hidden="0" template="cave2"/>
+	<box size="7.5 1.0 0.5" pos="8.5 1.0 -15.5" hidden="0" template="cave2"/>
+</segment>
+

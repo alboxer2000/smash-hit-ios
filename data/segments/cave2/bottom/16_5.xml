@@ -1,0 +1,98 @@
+<segment size="12 10 16" template="cave2_s">
+	<box size="0.5 0.0625 0.5" pos="-2.5 -2.9375 -0.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="0.5 -2.9375 -1.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -2.9375 -2.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="2.5 -2.9375 -2.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 -2.9375 -3.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.125 0.5" pos="2.5 -2.875 -3.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 -2.875 -3.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="0.5 -2.9375 -3.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -2.9375 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="4.5 -2.9375 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="2.5 -2.8125 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="-1.5 -2.8125 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -2.9375 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="0.5 -2.8125 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 -2.9375 -4.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -2.9375 -5.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.125 0.5" pos="2.5 -2.875 -5.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -2.8125 -5.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -2.9375 -5.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="0.5 -2.75 -5.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="-0.5 -2.8125 -5.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="2.5 2.5 -6.875" hidden="0" template="cave2"/>
+	<box size="0.5 0.3125 0.5" pos="-2.5 -2.6875 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 2.5 -6.875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 1.5 -6.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-3.5 -2.9375 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="-0.5 -2.75 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -2.75 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="1.5 -2.8125 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.3125 0.5" pos="0.5 -2.6875 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="5.5 -2.9375 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 1.5 -6.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.25" pos="2.5 3.5 -6.75" hidden="0" template="cave2"/>
+	<box size="16.0 3.0 3.5" pos="0.0 -6.0 -3.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="3.5 -2.9375 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="-1.5 -2.75 -6.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 3.5 -6.875" hidden="0" template="cave2"/>
+	<box size="0.5 3.5 0.5" pos="2.5 14.5 -7.5" hidden="0" template="cave2"/>
+	<box size="3.0 0.5 0.5" pos="5.0 10.5 -7.5" hidden="0" template="cave2"/>
+	<box size="6.5 0.5 0.5" pos="9.5 -2.5 -7.5" hidden="0" template="cave2"/>
+	<box size="2.0 0.5 0.5" pos="0.0 3.5 -7.5" hidden="0" template="cave2"/>
+	<box size="0.5 5.5 0.5" pos="2.5 -1.5 -7.5" hidden="0" template="cave2"/>
+	<box size="6.5 0.5 0.5" pos="-9.5 -2.5 -7.5" hidden="0" template="cave2"/>
+	<box size="4.0 2.0 0.5" pos="0.0 -6.0 -7.5" hidden="0" template="cave2"/>
+	<box size="0.5 5.5 0.5" pos="-2.5 -1.5 -7.5" hidden="0" template="cave2"/>
+	<box size="3.0 0.5 0.5" pos="-10.0 7.5 -7.5" hidden="0" template="cave2"/>
+	<box size="0.5 3.5 0.5" pos="-7.5 11.5 -7.5" hidden="0" template="cave2"/>
+	<box size="0.5 3.5 0.5" pos="-12.5 11.5 -7.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="-3.5 -0.5 -7.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-4.5 -1.5 -7.875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.3125" pos="-3.5 -1.5 -7.6875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.3125" pos="3.5 -1.5 -7.6875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="3.5 -0.5 -7.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="2.5 4.5 -7.875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 5.5 -7.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 5.5 -7.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 4.5 -7.875" hidden="0" template="cave2"/>
+	<box size="0.5 3.5 0.5" pos="7.5 14.5 -7.5" hidden="0" template="cave2"/>
+	<decal pos="0.0625 -2.49977 -8.3125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0" rot="0 0 -.1"/>
+	<decal pos="-0.3125 2.87523 -8.3125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0" rot="0 0 3.1"/>
+	<box size="6.5 5.5 0.5" pos="9.5 -1.5 -8.5" hidden="0" template="cave2"/>
+	<box size="16.0 5.5 0.5" pos="0.0 9.5 -8.5" hidden="0" template="cave2"/>
+	<box size="6.5 5.5 0.5" pos="-9.5 -1.5 -8.5" hidden="0" template="cave2"/>
+	<obstacle pos="-2.5 1.42011 -9.0" hidden="0" type="rotor" template="cave2_glass" param1="speed=-2" param2="arms=2" param3="width=.35" param4="drive=true" param5="length=3" param6="thickness=.025" param7="offset=2.25" mode="6"/>
+	<obstacle pos="2.5 1.42011 -9.0" hidden="0" type="rotor" template="cave2_glass" param1="speed=2" param2="arms=2" param3="width=.35" param4="drive=true" param5="length=3" param6="thickness=.025" param7="offset=2.25" mode="6"/>
+	<obstacle pos="0.0 3.54511 -9.0" hidden="0" type="rotor" template="cave2_glass" param1="speed=-2" param2="arms=2" param3="width=.35" param4="drive=true" param5="length=3" param6="thickness=.025" param7="offset=2.5" mode="1"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 1.5 -9.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 3.5 -9.875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="-2.5 2.5 -9.875" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 1.5 -9.9375" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.25" pos="2.5 3.5 -9.75" hidden="0" template="cave2"/>
+	<box size="0.5 0.5 0.125" pos="2.5 2.5 -9.875" hidden="0" template="cave2"/>
+	<box size="0.5 5.5 0.5" pos="-2.5 -1.5 -10.5" hidden="0" template="cave2"/>
+	<box size="6.5 0.5 0.5" pos="9.5 -2.5 -10.5" hidden="0" template="cave2"/>
+	<box size="0.5 5.5 0.5" pos="2.5 -1.5 -10.5" hidden="0" template="cave2"/>
+	<box size="4.0 2.0 0.5" pos="0.0 -6.0 -10.5" hidden="0" template="cave2"/>
+	<box size="6.5 0.5 0.5" pos="-9.5 -2.5 -10.5" hidden="0" template="cave2"/>
+	<box size="2.0 0.5 0.5" pos="0.0 3.5 -10.5" hidden="0" template="cave2"/>
+	<decal pos="0.0625 -2.49977 -11.3125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0" rot="0 0 -.1"/>
+	<box size="0.5 0.25 0.5" pos="-1.5 -2.75 -11.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="-0.5 -2.75 -11.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.3125 0.5" pos="0.5 -2.6875 -11.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="1.5 -2.8125 -11.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="2.5 -2.75 -11.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.3125 0.5" pos="-2.5 -2.6875 -11.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -2.8125 -12.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -2.9375 -12.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.125 0.5" pos="2.5 -2.875 -12.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.1875 0.5" pos="-0.5 -2.8125 -12.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -2.9375 -12.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.25 0.5" pos="0.5 -2.75 -12.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -2.9375 -13.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 -2.9375 -13.5" hidden="0" template="cave2"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -2.9375 -13.5" hidden="0" template="cave2"/>
+	<box size="16.0 3.0 2.5" pos="0.0 -6.0 -13.5" hidden="0" template="cave2"/>
+</segment>
+
