@@ -1,0 +1,310 @@
+<segment size="12 10 32" template="cave_s">
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -0.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -0.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -0.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -0.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -0.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -0.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -0.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -0.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -0.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -0.9375" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -1.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -2.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -2.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -2.25" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -2.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -2.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -2.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -2.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -2.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -2.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -2.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -2.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -2.0" hidden="0" template="cave"/>
+	<decal pos="1.1875 -2.99977 -2.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -2.0" hidden="0" template="cave"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -2.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -2.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -2.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -2.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -4.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -4.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -4.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -4.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -4.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -4.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -4.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -4.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -4.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -4.875" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -5.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -6.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -6.125" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -6.25" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -6.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -6.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 0.0625" pos="1.5 -2.5 -6.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -6.0" hidden="0" template="cave"/>
+	<decal pos="0.1875 -2.99977 -6.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -6.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -6.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -6.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -6.0" hidden="0" template="cave"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -6.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -8.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -8.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -8.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -8.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -8.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -8.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -8.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -8.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -8.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -8.9375" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -9.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -10.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -10.125" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -10.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -10.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -10.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -10.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -10.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -10.25" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -10.25" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -10.0" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -10.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -10.0" hidden="0" template="cave"/>
+	<decal pos="-1.8125 -2.99977 -10.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -10.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -10.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -10.0" hidden="0" template="cave"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -10.0" hidden="0" template="cave"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -10.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -12.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -12.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -12.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -12.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -12.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -12.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -12.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -12.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -12.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -12.875" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -13.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -14.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -14.125" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -14.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -14.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -14.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -14.25" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -14.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -14.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -14.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -14.25" hidden="0" template="cave"/>
+	<box size="0.5 0.5 0.125" pos="1.5 -1.5 -14.875" hidden="0" template="cave"/>
+	<box size="0.5 0.5 0.0625" pos="0.5 -1.5 -14.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -14.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -14.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 -1.5 -14.9375" hidden="0" template="cave"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 -3.5 -14.9375" hidden="0" template="cave"/>
+	<decal pos="0.1875 -2.99977 -14.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -14.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -14.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -14.0" hidden="0" template="cave"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -14.0" hidden="0" template="cave"/>
+	<obstacle pos="1.5 -1.0 -15.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<obstacle pos="-1.5 -1.0 -15.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -1.5 -15.5" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.5" pos="-1.5 -8.0 -15.5" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.5" pos="1.5 -8.0 -15.5" hidden="0" template="cave"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -14.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -16.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -16.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -16.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -16.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -16.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -16.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -16.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -16.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -16.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -16.9375" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -17.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -18.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -18.125" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -18.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -18.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -18.0" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -18.0" hidden="0" template="cave"/>
+	<decal pos="1.1875 -3.99977 -18.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -18.0" hidden="0" template="cave"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -18.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -18.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -18.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 2.0" pos="-1.5 -1.5 -18.0" hidden="0" template="cave"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 2.0" pos="1.5 -1.5 -18.0" hidden="0" template="cave"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -18.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -20.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -20.375" hidden="0" template="cave"/>
+	<obstacle pos="1.5 -1.0 -20.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<obstacle pos="-1.5 -1.0 -20.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -1.5 -20.5" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.5" pos="1.5 -8.0 -20.5" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.5" pos="-1.5 -8.0 -20.5" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -20.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -20.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -20.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -20.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -20.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -20.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -20.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -20.9375" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -21.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -22.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -22.125" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -22.25" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -22.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -22.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -22.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<decal pos="0.1875 -2.99977 -22.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -22.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -22.0" hidden="0" template="cave"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -22.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -22.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -22.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -24.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -24.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -24.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -24.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -24.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -24.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -24.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -24.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -24.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -24.875" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -25.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -26.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -26.125" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -26.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -26.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -26.25" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -26.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<decal pos="2.1875 -2.99977 -26.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -26.0" hidden="0" template="cave"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -26.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -26.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -26.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -26.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 7.0 0.125" pos="7.0 -8.0 -28.375" hidden="0" template="cave"/>
+	<box size="0.5 7.0 0.125" pos="-7.0 -8.0 -28.375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-5.0 -9.0 -28.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="1.0 -9.0 -28.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="4.0 -9.0 -28.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-1.0 -9.0 -28.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="3.0 -9.0 -28.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.0625" pos="-3.0 -9.0 -28.9375" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="5.0 -9.0 -28.875" hidden="0" template="cave"/>
+	<box size="0.5 6.0 0.125" pos="-2.0 -9.0 -28.875" hidden="0" template="cave"/>
+	<box size="4.5 6.0 0.5" pos="0.0 -9.0 -29.5" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="-0.5 -9.25 -30.125" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.125" pos="3.5 -9.25 -30.125" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 1.0 -30.0" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="7.25 3.0 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="2.5 -9.25 -30.25" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 1.0 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 5.75 0.25" pos="-1.5 -9.25 -30.25" hidden="0" template="cave"/>
+	<box size="0.25 1.0 0.5" pos="-7.25 3.0 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="7.0 5.0 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 1.0 0.5" pos="-7.0 5.0 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="5.0 -8.5 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 6.5 1.0" pos="-5.0 -8.5 -30.0" hidden="0" template="cave"/>
+	<box size="0.5 0.375 0.5" pos="-3.75 10.125 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.375 0.5" pos="3.75 10.125 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<decal pos="-0.8125 -2.99977 -30.8125" hidden="0" tile="11" size="2 1.5" color=".9 .8 1 .3" blend="0"/>
+	<box size="1.0 7.5 1.5" pos="-6.5 -7.5 -30.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="-6.5 12.5 -30.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.0 7.5 1.5" pos="6.5 -7.5 -30.0" hidden="0" template="cave"/>
+	<box size="1.0 6.5 1.5" pos="6.5 12.5 -30.0" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="-4.0 14.5 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="1.5 4.5 1.5" pos="4.0 14.5 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="2.5 19.0 16.0" pos="10.0 4.0 -16.0" hidden="1" template="cave" tileSize="6"/>
+	<box size="2.5 19.0 16.0" pos="-10.0 4.0 -16.0" hidden="1" template="cave" tileSize="6"/>
+	<box size="0.125 0.5 1.5" pos="-5.375 8.5 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.125 0.5 1.5" pos="5.375 8.5 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="5.0 9.5 -30.5" hidden="0" template="cave" tileSize="4"/>
+	<box size="0.5 0.5 1.5" pos="-5.0 9.5 -30.5" hidden="0" template="cave" tileSize="4"/>
+</segment>
+
