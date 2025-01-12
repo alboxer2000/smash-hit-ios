@@ -1,0 +1,10 @@
+popup_out_of_balls_title=Continuer
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=Reprendre
+test_blubb=Le flipper repensé comme une expérience audiovisuelle de style arcade
+character_for_numbers=0123456789
+popup_more_credits_btn=crédits
+popup_more_rate_btn=évaluer
+popup_more_privacy_btn=Politique de confidentialité
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=Plus de jeux

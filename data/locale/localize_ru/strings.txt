@@ -1,0 +1,10 @@
+popup_out_of_balls_title=Продолжить
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=Возобновить
+test_blubb=Пинбол в виде аудиовизуальной аркады.
+character_for_numbers=0123456789
+popup_more_credits_btn=разработчики
+popup_more_rate_btn=оценить игру
+popup_more_privacy_btn=Политика конфиденциальности
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=другие игры

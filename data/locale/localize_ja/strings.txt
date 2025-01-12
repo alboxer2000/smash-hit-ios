@@ -1,0 +1,11 @@
+popup_out_of_balls_title=まだ遊ぶ
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=再開する
+test_blubb=オーディオ・アーケード体験による新感覚ピンボールゲーム
+character_for_numbers=0123456789
+popup_more_credits_btn=クレジット
+popup_more_rate_btn=ゲームを評価する
+popup_more_privacy_btn=プライバシーポリシー
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=その他ゲーム
+  facebook twitter 

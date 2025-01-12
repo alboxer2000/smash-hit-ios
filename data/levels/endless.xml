@@ -1,0 +1,32 @@
+<level>
+	<room type="endless/wide0" length="150" endless="1"/>
+	<room type="endless/narrow0" length="160" endless="2"/>
+	<room type="endless/open0" length="170" endless="3"/>
+	<room type="endless/wide0" length="180" endless="4"/>
+	<room type="endless/space0" length="190" endless="5"/>
+	<room type="endless/open0" length="200" endless="6"/>
+	<room type="endless/wide0" length="210" endless="7"/>
+	<room type="endless/narrow0" length="220" endless="8"/>
+	<room type="endless/space0" length="230" endless="9"/>
+	<room type="endless/wide0" length="240" endless="10"/>
+	<room type="endless/open0" length="250" endless="11"/>
+	<room type="endless/wide0" length="260" endless="12"/>
+	<room type="endless/space0" length="270" endless="13"/>
+	<room type="endless/narrow0" length="280" endless="14"/>
+	<room type="endless/open0" length="290" endless="15"/>
+	<room type="endless/wide0" length="300" endless="16"/>
+	<room type="endless/open0" length="300" endless="17"/>
+	<room type="endless/wide0" length="300" endless="18"/>
+	<room type="endless/space0" length="300" endless="19"/>
+	<room type="endless/narrow0" length="300" endless="20"/>
+	<room type="endless/open0" length="300" endless="21"/>
+	<room type="endless/wide0" length="300" endless="22"/>
+	<room type="endless/space0" length="300" endless="23"/>
+	<room type="endless/narrow0" length="300" endless="24"/>
+	<room type="endless/open0" length="300" endless="25"/>
+	<room type="endless/wide0" length="300" endless="26"/>
+	<room type="endless/open0" length="300" endless="27"/>
+	<room type="endless/wide0" length="300" endless="28"/>
+	<room type="endless/space0" length="300" endless="29"/>
+	<room type="endless/narrow0" length="300" endless="30"/>
+</level>

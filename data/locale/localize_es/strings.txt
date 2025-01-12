@@ -1,0 +1,10 @@
+popup_out_of_balls_title=Seguir
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=Continuar
+test_blubb=El pinball se ha reinventado como una experiencia audiovisual arcade.
+character_for_numbers=0123456789
+popup_more_credits_btn=créditos
+popup_more_rate_btn=puntuar juego
+popup_more_privacy_btn=Directiva de privacidad
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=más juegos

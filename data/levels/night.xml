@@ -1,0 +1,1 @@
+<level>	<room type="night/part1" length="250" start="true" end="true"/>	<room type="night/part2" length="250" start="true" end="false"/>	<room type="night/part2" length="250" start="false" end="true"/>	<room type="night/part3" length="250" start="true" end="true"/>	<room type="night/boss" length="100"/></level>

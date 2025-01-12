@@ -1,0 +1,10 @@
+popup_out_of_balls_title=계속하세요
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=재개
+test_blubb=시청각적인 아케이드 경험으로 재창조한 핀볼
+character_for_numbers=0123456789
+popup_more_credits_btn=크레딧
+popup_more_rate_btn=게임 평가하기
+popup_more_privacy_btn=개인정보 보호정책
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=더 많은 게임

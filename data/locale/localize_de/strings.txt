@@ -1,0 +1,10 @@
+popup_out_of_balls_title=Weiterspielen
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=Fortfahren
+test_blubb=Flipper neu erfunden als audiovisueller Arcade-Spaß.
+character_for_numbers=0123456789
+popup_more_credits_btn=mitwirkende
+popup_more_rate_btn=spiel bewerten
+popup_more_privacy_btn=Datenschutzerklärung
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=mehr spiele

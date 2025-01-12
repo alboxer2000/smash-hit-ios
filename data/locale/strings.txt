@@ -1,0 +1,13 @@
+popup_out_of_balls_title=Keep going
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=Continue
+character_for_numbers=0123456789
+test_blubb=Pinball reinvented as an audiovisual arcade experience
+test_with_args=Tomorrow {amount} pigs will fly across the {place}.
+temp_new_level=New Level!
+characters_for_args=0123456789sky
+popup_more_credits_btn=Credits
+popup_more_rate_btn=Rate
+popup_more_privacy_btn=Privacy policy
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=More Games

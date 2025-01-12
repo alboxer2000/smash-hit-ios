@@ -1,0 +1,10 @@
+popup_out_of_balls_title=继续努力
+popup_out_of_balls_amount=+{amount}
+popup_button_continue=继续游戏
+test_blubb=Pinball被重新打造成为一款视听游戏体验
+character_for_numbers=0123456789
+popup_more_credits_btn=制作人员名单
+popup_more_rate_btn=评价游戏
+popup_more_privacy_btn=隐私政策
+popup_more_twitter_btn=Twitter
+popup_more_games_btn=更多游戏

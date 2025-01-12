@@ -1,0 +1,7 @@
+<level>
+	<room type="canyon/cave" length="200" start="true" end="true"/>
+	<room type="canyon/columns" length="200" start="true" end="true"/>
+	<room type="canyon/trail" length="300" start="true" end="false"/>
+	<room type="canyon/trail" length="300" start="false" end="true"/>
+	<room type="canyon/boss" length="100"/>
+</level>

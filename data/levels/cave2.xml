@@ -1,0 +1,1 @@
+<level>	<room type="cave2/top" length="200" start="true" end="true"/>	<room type="cave2/bottom" length="300" start="true" end="false"/>	<room type="cave2/narrow" length="300" start="true" end="true"/>	<room type="cave2/top" length="200" start="true" end="true" different="true"/>	<room type="cave2/boss" length="100"/></level>
