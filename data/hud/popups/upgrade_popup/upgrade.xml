@@ -1,0 +1,5 @@
+<ui texture="popups/upgrade_popup/upgrade.png" selected="popups/upgrade_popup/upgrade_select.png">	
+	<rect coords="98 354 644 502" cmd="script:hideupgrade ; game.showupgrade ; game.menu"/>
+	<rect coords="223 521 521 649" cmd="script:hideupgrade ; game.rewind"/>
+</ui>
+

@@ -1,0 +1,5 @@
+<ui texture="popups/shared/continue_btn.png" selected="popups/shared/overlay_btn.png">
+	<rect coords="0 0 537 137" cmd="script:hideupgradeinstant ; game.ad_button_click watch_ad ; game.showAdForCheckpoint"/>
+	<outside cmd="script:hideupgrade ; game.ad_button_click exit ; game.rewind"/>
+</ui>
+
