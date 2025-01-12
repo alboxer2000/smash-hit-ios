@@ -1,0 +1,49 @@
+<segment size="12 10 16" template="basic_s" lightLeft="0.98" lightRight="0.95" lightTop="1" lightBottom="0.9" lightFront="0.95">
+	<box size="0.125 4.0 0.5" pos="-1.875 -4.0 -0.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="-1.5625 -4.5 -0.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.875 -4.5 -0.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="1.875 -4.0 -1.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="-1.3125 -4.5 -1.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="-1.75 -4.0 -1.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="1.5625 -4.5 -1.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="1.75 -4.0 -2.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="-1.125 -4.5 -2.5" hidden="0" template="credits"/>
+	<box size="0.375 4.0 0.5" pos="-1.625 -4.0 -2.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.375 -4.5 -2.5" hidden="0" template="credits"/>
+	<box size="0.3125 3.5 0.5" pos="1.6875 -4.5 -3.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="-1.75 -4.0 -3.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="-1.3125 -4.5 -3.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="-1.625 -4.5 -4.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="-1.875 -4.0 -4.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.375 -4.5 -4.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="1.75 -4.0 -4.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="1.875 -4.0 -5.5" hidden="0" template="credits"/>
+	<box size="0.0625 3.5 0.5" pos="-1.4375 -4.5 -5.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="-1.75 -4.0 -5.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.625 -4.5 -5.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.875 -4.5 -8.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="-1.5625 -4.5 -8.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="-1.875 -4.0 -8.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="1.5625 -4.5 -9.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="-1.75 -4.0 -9.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="1.875 -4.0 -9.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="-1.3125 -4.5 -9.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.375 -4.5 -10.5" hidden="0" template="credits"/>
+	<box size="0.375 4.0 0.5" pos="-1.625 -4.0 -10.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="1.75 -4.0 -10.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="-1.125 -4.5 -10.5" hidden="0" template="credits"/>
+	<box size="0.1875 3.5 0.5" pos="-1.3125 -4.5 -11.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="-1.75 -4.0 -11.5" hidden="0" template="credits"/>
+	<box size="0.3125 3.5 0.5" pos="1.6875 -4.5 -11.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="1.75 -4.0 -12.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.375 -4.5 -12.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="-1.625 -4.5 -12.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="-1.875 -4.0 -12.5" hidden="0" template="credits"/>
+	<box size="0.125 3.5 0.5" pos="1.625 -4.5 -13.5" hidden="0" template="credits"/>
+	<box size="0.25 4.0 0.5" pos="-1.75 -4.0 -13.5" hidden="0" template="credits"/>
+	<box size="0.125 4.0 0.5" pos="1.875 -4.0 -13.5" hidden="0" template="credits"/>
+	<box size="0.0625 3.5 0.5" pos="-1.4375 -4.5 -13.5" hidden="0" template="credits"/>
+	<box size="7.0 4.0 8.0" pos="-9.0 -4.0 -8.0" hidden="0" template="credits" tileSize="4"/>
+	<box size="7.0 4.0 8.0" pos="9.0 -4.0 -8.0" hidden="0" template="credits" tileSize="4"/>
+</segment>
+
