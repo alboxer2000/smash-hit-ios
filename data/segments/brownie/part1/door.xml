@@ -1,0 +1,53 @@
+<segment size="12 10 16" template="brownie_s">
+	<box size="5.0 0.5 4.0" pos="0.0 -6.5 -4.0" hidden="0" template="brownie_floor"/>
+	<box size="4.5 0.5 4.0" pos="-13.5 -6.5 -4.0" hidden="0" template="brownie_floor"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -6.5 -8.5" hidden="0" template="brownie_floor"/>
+	<box size="6.5 0.5 4.5" pos="11.5 -6.5 -4.5" hidden="0" template="brownie_floor"/>
+	<box size="2.0 0.5 0.5" pos="8.0 -6.5 -9.5" hidden="0" template="brownie_floor"/>
+	<box size="2.0 0.5 5.0" pos="-7.0 -6.5 -5.0" hidden="0" template="brownie_floor"/>
+	<box size="2.0 0.5 1.5" pos="-11.0 -6.5 -9.5" hidden="0" template="brownie_floor"/>
+	<box size="4.0 0.5 1.0" pos="14.0 -6.5 -10.0" hidden="0" template="brownie_floor"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -6.5 -11.5" hidden="0" template="brownie_floor"/>
+	<box size="1.5 0.5 1.0" pos="-2.5 -6.5 -11.0" hidden="0" template="brownie_floor"/>
+	<box size="1.5 0.5 1.0" pos="2.5 -6.5 -11.0" hidden="0" template="brownie_floor"/>
+	<box size="0.5 4.0 0.25" pos="7.5 3.0 -13.75" hidden="0" template="brownie"/>
+	<box size="0.5 4.0 0.375" pos="-5.5 3.0 -13.625" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 0.5" pos="5.5 -6.5 -13.5" hidden="0" template="brownie_floor"/>
+	<box size="0.5 4.0 0.5" pos="3.5 3.0 -13.5" hidden="0" template="brownie"/>
+	<box size="2.0 0.5 2.0" pos="-16.0 -6.5 -12.0" hidden="0" template="brownie_floor"/>
+	<box size="0.5 2.5 0.5" pos="3.5 -3.5 -13.5" hidden="0" template="brownie_gradient"/>
+	<box size="3.0 0.5 0.5" pos="-11.0 -6.5 -13.5" hidden="0" template="brownie_floor"/>
+	<box size="2.0 0.5 1.0" pos="0.0 -6.5 -13.0" hidden="0" template="brownie_floor"/>
+	<box size="0.5 2.5 0.25" pos="7.5 -3.5 -13.75" hidden="0" template="brownie_gradient"/>
+	<box size="0.5 2.5 0.5" pos="-5.5 -3.5 -13.75" hidden="0" template="brownie_gradient"/>
+	<box size="0.5 4.0 1.5" pos="2.5 3.0 -13.5" hidden="0" template="brownie"/>
+	<box size="0.5 2.5 1.5" pos="-2.5 -3.5 -13.5" hidden="0" template="brownie_gradient"/>
+	<box size="0.5 0.1875 0.5" pos="0.5 -0.8125 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 1.875 0.5" pos="-0.5 5.125 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 2.5 1.5" pos="2.5 -3.5 -13.5" hidden="0" template="brownie_gradient"/>
+	<box size="0.5 2.5 0.5" pos="-3.5 -3.5 -14.5" hidden="0" template="brownie_gradient"/>
+	<box size="7.0 2.5 0.5" pos="-11.0 -3.5 -14.5" hidden="0" template="brownie_gradient"/>
+	<box size="7.0 2.5 0.5" pos="11.0 -3.5 -14.5" hidden="0" template="brownie_gradient"/>
+	<box size="2.0 2.5 0.5" pos="0.0 -3.5 -14.5" hidden="0" template="brownie_gradient"/>
+	<box size="0.5 4.0 0.5" pos="-3.5 3.0 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 2.0 0.5" pos="-1.5 5.0 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 4.0 1.5" pos="-2.5 3.0 -13.5" hidden="0" template="brownie"/>
+	<box size="7.0 4.0 0.5" pos="-11.0 3.0 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 0.1875 0.5" pos="-1.5 -0.8125 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 0.25 0.5" pos="1.5 -0.75 -14.5" hidden="0" template="brownie"/>
+	<box size="3.0 0.5 1.5" pos="-5.0 -6.5 -13.5" hidden="0" template="brownie_floor"/>
+	<box size="8.0 4.0 0.5" pos="10.0 3.0 -14.5" hidden="0" template="brownie"/>
+	<box size="1.5 0.5 1.5" pos="7.5 -6.5 -13.5" hidden="0" template="brownie_floor"/>
+	<box size="1.5 0.5 1.5" pos="3.5 -6.5 -13.5" hidden="0" template="brownie_floor"/>
+	<box size="0.5 2.0625 0.5" pos="0.5 4.9375 -14.5" hidden="0" template="brownie"/>
+	<box size="0.5 2.0 0.5" pos="1.5 5.0 -14.5" hidden="0" template="brownie"/>
+	<decal pos="0.0 1.0 -15.5" hidden="0" tile="-1" color=".4 .1 .1"/>
+	<box size="18.0 0.5 8.0" pos="0.0 7.5 -8.0" hidden="0" template="brownie"/>
+	<box size="4.5 0.5 1.5" pos="13.5 -6.5 -14.5" hidden="0" template="brownie_floor"/>
+	<box size="2.0 6.5 0.5" pos="-3.0 0.5 -15.5" hidden="0" template="brownie"/>
+	<box size="2.0 6.5 0.5" pos="3.0 0.5 -15.5" hidden="0" template="brownie"/>
+	<box size="1.0 3.0 0.5" pos="0.0 -3.0 -15.5" hidden="0" template="brownie"/>
+	<box size="1.0 2.5 0.5" pos="0.0 4.5 -15.5" hidden="0" template="brownie"/>
+	<obstacle pos="0.0 0.0 -16.0" hidden="0" type="doors/basic" param0="buttons=2"/>
+</segment>
+

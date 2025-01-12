@@ -1,0 +1,52 @@
+<segment size="12 10 16" template="basic_s">
+	<box size="0.1875 1.0 0.125" pos="1.8125 1.0 -0.125" hidden="0" template="basic"/>
+	<box size="0.1875 1.0 0.125" pos="-1.8125 1.0 -0.125" hidden="0" template="basic"/>
+	<obstacle pos="0.0 1.00617 -0.5" hidden="0" template="basic_glass" type="bar" mode="2"/>
+	<obstacle pos="0.0 1.00617 -0.5" hidden="0" template="basic_glass" type="bar" param1="blocker=true" mode="4"/>
+	<box size="0.5 0.0625 0.5" pos="0.5 0.0625 -0.5" hidden="0" template="basic"/>
+	<box size="0.125 0.5 0.5" pos="1.875 3.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.25 0.5 0.5" pos="1.75 4.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.25 0.5 0.5" pos="-1.75 4.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.0625 0.5 0.5" pos="-1.9375 3.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.125 0.5 0.5" pos="-1.875 2.5 -0.5" hidden="1" template="basic"/>
+	<box size="0.5 0.125 0.5" pos="-0.5 0.125 -0.5" hidden="0" template="basic"/>
+	<box size="0.3125 0.1875 0.5" pos="-1.3125 0.1875 -0.5" hidden="0" template="basic"/>
+	<box size="0.5 2.5 0.5" pos="2.5 2.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.5 2.5 0.5" pos="-2.5 2.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.1875 1.0 0.125" pos="1.8125 1.0 -0.875" hidden="0" template="basic"/>
+	<box size="0.1875 1.0 0.125" pos="-1.8125 1.0 -0.875" hidden="0" template="basic"/>
+	<box size="0.3125 0.125 0.5" pos="1.3125 0.125 -0.5" hidden="0" template="basic"/>
+	<box size="0.1875 0.5 0.5" pos="-1.8125 2.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.1875 0.5 0.5" pos="1.8125 2.5 -0.5" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.5" pos="2.5 0.125 -8.5" hidden="0" template="basic"/>
+	<obstacle pos="1.5 0.2381 -11.5" hidden="0" type="scoretop" template="basic_st" mode="6"/>
+	<obstacle pos="-1.5 0.2381 -11.5" hidden="0" type="scoretop" template="basic_st" mode="6"/>
+	<box size="0.5 0.125 0.5" pos="1.5 0.125 -11.5" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 0.125 -11.5" hidden="0" template="basic"/>
+	<box size="0.5 0.5 0.125" pos="1.0 -1.0 -12.875" hidden="0" template="basic_darker" reflection="1"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 0.0625 -13.5" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.25" pos="-1.5 0.125 -14.25" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.25" pos="1.5 0.125 -14.25" hidden="0" template="basic"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 4.8125 -14.5" hidden="0" template="basic"/>
+	<box size="0.5 1.0 0.25" pos="-1.5 1.0 -14.75" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.5" pos="0.5 4.875 -14.5" hidden="0" template="basic"/>
+	<box size="2.0 0.5 0.25" pos="0.0 2.5 -14.75" hidden="0" template="basic"/>
+	<box size="0.5 0.1875 0.5" pos="2.5 0.1875 -14.5" hidden="0" template="basic"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 0.25 -14.5" hidden="0" template="basic"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 4.9375 -14.5" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 4.875 -14.5" hidden="0" template="basic"/>
+	<box size="0.5 1.0 0.25" pos="1.5 1.0 -14.75" hidden="0" template="basic"/>
+	<box size="0.5 0.1875 0.5" pos="1.5 4.8125 -14.5" hidden="0" template="basic"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 0.5 -14.9375" hidden="0" template="basic"/>
+	<box size="0.5 0.125 0.5" pos="2.5 4.875 -14.5" hidden="0" template="basic"/>
+	<decal pos="0.0 1.0 -15.0" hidden="0" tile="-1" color=".8 .91 .96"/>
+	<obstacle pos="0.0 0.0 -15.25" hidden="0" type="doors/basic" param0="buttons=1"/>
+	<box size="1.0 2.5 0.25" pos="2.0 2.5 -15.25" hidden="0" template="basic"/>
+	<box size="1.0 1.5 0.25" pos="0.0 3.5 -15.25" hidden="0" template="basic"/>
+	<box size="1.0 2.5 0.25" pos="-2.0 2.5 -15.25" hidden="0" template="basic"/>
+	<box size="0.5 2.5 8.0" pos="-3.5 2.5 -8.0" hidden="0" template="basic"/>
+	<box size="0.5 2.5 8.0" pos="3.5 2.5 -8.0" hidden="0" template="basic"/>
+	<box size="4.0 0.5 8.0" pos="0.0 -0.5 -8.0" hidden="0" template="basic" reflection="1"/>
+	<box size="4.0 0.5 8.0" pos="0.0 5.5 -8.0" hidden="1" template="basic"/>
+</segment>
+

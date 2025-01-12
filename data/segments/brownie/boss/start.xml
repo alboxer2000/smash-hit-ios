@@ -1,0 +1,105 @@
+<segment size="12 10 32" template="brownie_s">
+	<box size="0.5 0.5 0.125" pos="-2.75 2.0 -0.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.25" pos="-2.75 1.0 -0.75" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="-2.75 6.5 -0.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="-2.75 3.0 -0.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="-2.75 5.5 -0.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="2.75 5.5 -0.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="2.75 3.0 -0.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="2.75 6.5 -0.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.25" pos="2.75 1.0 -0.75" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="2.75 2.0 -0.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.25 0.5" pos="-3.75 6.75 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="-5.75 6.9375 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="5.75 6.9375 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.1875 0.5" pos="4.75 6.8125 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="1.75 6.9375 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.75 0.5" pos="2.75 4.25 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.1875 0.5" pos="-4.75 6.8125 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.5" pos="2.75 1.0 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.25 0.5" pos="3.75 6.75 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.5" pos="-2.75 1.0 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="-1.75 6.9375 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.75 0.5" pos="-2.75 4.25 -1.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.1875 0.5" pos="-3.75 3.8125 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0625 0.5" pos="-7.75 3.9375 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.8125 0.5" pos="-4.75 4.1875 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.1875 0.5" pos="3.75 3.8125 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0625 0.5" pos="7.75 3.9375 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0 0.5" pos="5.75 4.0 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.125 0.5" pos="6.75 3.875 -2.5" hidden="1" template="brownie"/>
+	<box size="7.5 3.25 0.5" pos="15.75 3.75 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.8125 0.5" pos="4.75 4.1875 -2.5" hidden="1" template="brownie"/>
+	<box size="7.5 3.25 0.5" pos="-15.75 3.75 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.125 0.5" pos="-6.75 3.875 -2.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0 0.5" pos="-5.75 4.0 -2.5" hidden="1" template="brownie"/>
+	<box size="26.0 0.5 3.0" pos="0.0 -6.5 -3.0" hidden="0" template="brownie_floor"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 -2.5 -10.9375" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="0.5 -2.5 -10.9375" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="1.5 -2.5 -10.875" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="1.5 -3.5 -10.9375" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="-1.5 -4.5 -10.9375" hidden="0" template="brownie"/>
+	<obstacle pos="-1.5 -2.0 -11.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<obstacle pos="1.5 -2.0 -11.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<box size="0.5 2.5 0.5" pos="1.5 -4.5 -11.5" hidden="0" template="brownie"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -2.5 -11.5" hidden="0" template="brownie"/>
+	<box size="8.5 0.5 3.0" pos="17.5 -6.5 -9.0" hidden="0" template="brownie_floor"/>
+	<box size="0.5 2.5 0.5" pos="-1.5 -4.5 -11.5" hidden="0" template="brownie"/>
+	<obstacle pos="0.0 -3.0 -15.0" hidden="0" template="basic_st2" type="scorestar"/>
+	<box size="0.5 0.5 3.0" pos="-1.5 -2.5 -15.0" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 3.0" pos="1.5 -2.5 -15.0" hidden="0" template="brownie"/>
+	<obstacle pos="-1.5 -2.0 -18.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<obstacle pos="1.5 -2.0 -18.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<box size="0.5 2.5 0.5" pos="1.5 -4.5 -18.5" hidden="0" template="brownie"/>
+	<box size="0.5 2.5 0.5" pos="-1.5 -4.5 -18.5" hidden="0" template="brownie"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -2.5 -18.5" hidden="0" template="brownie"/>
+	<obstacle pos="0.0 -3.0 -22.0" hidden="0" template="basic_st2" type="scorestar"/>
+	<box size="6.0 0.5 8.5" pos="-20.0 -6.5 -14.5" hidden="0" template="brownie_floor"/>
+	<box size="8.5 0.5 7.0" pos="-2.5 -6.5 -16.0" hidden="0" template="brownie_floor"/>
+	<box size="0.5 0.5 3.0" pos="1.5 -2.5 -22.0" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 3.0" pos="-1.5 -2.5 -22.0" hidden="0" template="brownie"/>
+	<obstacle pos="1.5 -2.0 -25.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<obstacle pos="-1.5 -2.0 -25.5" hidden="0" template="basic_st2" type="scorediamond"/>
+	<box size="1.0 0.5 0.5" pos="0.0 -2.5 -25.5" hidden="0" template="brownie"/>
+	<box size="0.5 2.5 0.5" pos="-1.5 -4.5 -25.5" hidden="0" template="brownie"/>
+	<box size="7.0 0.5 1.5" pos="-1.0 -6.5 -24.5" hidden="0" template="brownie_floor"/>
+	<box size="0.5 2.5 0.5" pos="1.5 -4.5 -25.5" hidden="0" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="-2.75 6.5 -27.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="-2.75 5.5 -27.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="2.75 5.5 -27.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="2.75 3.0 -27.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="2.75 6.5 -27.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="2.75 2.0 -27.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.125" pos="-2.75 2.0 -27.875" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.25" pos="-2.75 1.0 -27.75" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.0625" pos="-2.75 3.0 -27.9375" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.25" pos="2.75 1.0 -27.75" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="5.75 6.9375 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="1.75 6.9375 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.75 0.5" pos="2.75 4.25 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.1875 0.5" pos="-4.75 6.8125 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.5" pos="2.75 1.0 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.25 0.5" pos="3.75 6.75 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.5 0.5" pos="-2.75 1.0 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="-1.75 6.9375 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.25 0.5" pos="-3.75 6.75 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.0625 0.5" pos="-5.75 6.9375 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 0.1875 0.5" pos="4.75 6.8125 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.75 0.5" pos="-2.75 4.25 -28.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.8125 0.5" pos="-4.75 4.1875 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0625 0.5" pos="7.75 3.9375 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0 0.5" pos="5.75 4.0 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.125 0.5" pos="6.75 3.875 -29.5" hidden="1" template="brownie"/>
+	<box size="7.5 3.25 0.5" pos="15.75 3.75 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 2.8125 0.5" pos="4.75 4.1875 -29.5" hidden="1" template="brownie"/>
+	<box size="7.5 3.25 0.5" pos="-15.75 3.75 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.125 0.5" pos="-6.75 3.875 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.1875 0.5" pos="-3.75 3.8125 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0625 0.5" pos="-7.75 3.9375 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.1875 0.5" pos="3.75 3.8125 -29.5" hidden="1" template="brownie"/>
+	<box size="0.5 3.0 0.5" pos="-5.75 4.0 -29.5" hidden="1" template="brownie"/>
+	<box size="16.0 0.5 3.0" pos="-10.0 -6.5 -29.0" hidden="0" template="brownie_floor"/>
+	<box size="26.0 0.5 16.0" pos="0.0 7.5 -16.0" hidden="1" template="brownie_ceiling"/>
+	<box size="10.0 0.5 8.5" pos="16.0 -6.5 -23.5" hidden="0" template="brownie_floor"/>
+</segment>
+

@@ -1,0 +1,67 @@
+<segment size="12 10 16" template="brownie_s2">
+	<box size="1.0 7.0 0.5" pos="-6.0 9.0 -2.5" hidden="0" template="brownie2"/>
+	<box size="1.0 2.5 0.5" pos="-6.0 -0.5 -2.5" hidden="0" template="brownie2_gradient"/>
+	<box size="1.0 7.0 0.5" pos="6.0 9.0 -2.5" hidden="0" template="brownie2"/>
+	<box size="1.0 2.5 0.5" pos="6.0 -0.5 -2.5" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 4.5 0.5" pos="-1.25 -7.5 -3.25" hidden="0" template="brownie_floor"/>
+	<box size="0.5 4.5 0.5" pos="1.5 -7.5 -3.5" hidden="0" template="brownie_floor"/>
+	<box size="2.5 4.5 1.5" pos="4.5 -7.5 -2.5" hidden="0" template="brownie_floor"/>
+	<box size="2.5 4.5 1.0" pos="-4.5 -7.5 -3.0" hidden="0" template="brownie_floor"/>
+	<box size="1.0 2.5 0.5" pos="4.0 -0.5 -3.5" hidden="0" template="brownie2_gradient"/>
+	<box size="1.0 2.5 0.5" pos="-4.0 -0.5 -3.5" hidden="0" template="brownie2_gradient"/>
+	<box size="1.0 7.0 0.5" pos="4.0 9.0 -3.5" hidden="0" template="brownie2"/>
+	<box size="1.0 7.0 0.5" pos="-4.0 9.0 -3.5" hidden="0" template="brownie2"/>
+	<obstacle pos="0.0 1.50456 -5.0" hidden="0" template="brownie_glass" type="babytoy" param1="radius=1" param2="bars=2" param3="thickness=.2" param4="width=6" rot="0 0 3.14" param5="barthickness=.025"/>
+	<box size="0.5 2.5 1.0" pos="-4.5 -0.5 -5.0" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 7.0 1.0" pos="4.5 9.0 -5.0" hidden="0" template="brownie2"/>
+	<box size="0.5 7.0 1.0" pos="-4.5 9.0 -5.0" hidden="0" template="brownie2"/>
+	<box size="0.5 2.5 1.0" pos="4.5 -0.5 -5.0" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -2.9375 -5.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -2.9375 -5.5" hidden="0" template="brownie3"/>
+	<box size="1.0 2.5 0.5" pos="4.0 -0.5 -6.5" hidden="0" template="brownie2_gradient"/>
+	<box size="1.0 7.0 0.5" pos="4.0 9.0 -6.5" hidden="0" template="brownie2"/>
+	<box size="1.0 7.0 0.5" pos="-4.0 9.0 -6.5" hidden="0" template="brownie2"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 -2.875 -6.5" hidden="0" template="brownie3"/>
+	<box size="1.0 2.5 0.5" pos="-4.0 -0.5 -6.5" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 0.125 0.5" pos="1.5 -2.875 -6.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.125 0.5" pos="0.5 -2.875 -7.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.25 0.5" pos="1.5 -2.75 -7.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -2.9375 -7.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.1875 0.5" pos="-1.5 -2.8125 -7.5" hidden="0" template="brownie3"/>
+	<obstacle pos="-1.5 -1.5 -8.5" hidden="0" type="scoretop" template="brownie_st"/>
+	<obstacle pos="1.5 -1.5 -8.5" hidden="0" type="scoretop" template="brownie_st"/>
+	<box size="0.5 0.25 0.5" pos="-1.5 -1.75 -8.5" hidden="0" template="brownie3"/>
+	<box size="2.0 0.5 0.5" pos="0.0 -2.5 -8.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.25 0.5" pos="1.5 -1.75 -8.5" hidden="0" template="brownie3"/>
+	<box size="0.5 2.5 1.5" pos="5.5 -0.5 -8.5" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 7.0 1.5" pos="-5.5 9.0 -8.5" hidden="0" template="brownie2"/>
+	<box size="0.5 2.5 1.5" pos="-5.5 -0.5 -8.5" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 7.0 1.5" pos="5.5 9.0 -8.5" hidden="0" template="brownie2"/>
+	<box size="0.5 0.125 0.5" pos="-2.5 -2.875 -10.5" hidden="0" template="brownie3"/>
+	<box size="1.0 2.5 0.5" pos="4.0 -0.5 -10.5" hidden="0" template="brownie2_gradient"/>
+	<box size="1.0 7.0 0.5" pos="-4.0 9.0 -10.5" hidden="0" template="brownie2"/>
+	<box size="1.0 2.5 0.5" pos="-4.0 -0.5 -10.5" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 0.125 0.5" pos="2.5 -2.875 -10.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.0625 0.5" pos="1.5 -2.9375 -10.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.0625 0.5" pos="-1.5 -2.9375 -10.5" hidden="0" template="brownie3"/>
+	<box size="1.0 7.0 0.5" pos="4.0 9.0 -10.5" hidden="0" template="brownie2"/>
+	<obstacle pos="0.0 0.25456 -12.0" hidden="0" template="brownie_glass" type="babytoy" param1="radius=1" param2="bars=2" param3="thickness=.2" param4="width=6" param5="barthickness=.025"/>
+	<box size="0.5 7.0 1.0" pos="-4.5 9.0 -12.0" hidden="0" template="brownie2"/>
+	<box size="0.5 2.5 1.0" pos="-4.5 -0.5 -12.0" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 2.5 1.0" pos="4.5 -0.5 -12.0" hidden="0" template="brownie2_gradient"/>
+	<box size="0.5 7.0 1.0" pos="4.5 9.0 -12.0" hidden="0" template="brownie2"/>
+	<box size="1.0 7.0 0.5" pos="4.0 9.0 -13.5" hidden="0" template="brownie2"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 -2.875 -13.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 -2.75 -13.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.3125 0.5" pos="2.5 -2.6875 -13.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.25 0.5" pos="1.5 -2.75 -13.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.1875 0.5" pos="0.5 -2.8125 -13.5" hidden="0" template="brownie3"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 -2.9375 -13.5" hidden="0" template="brownie3"/>
+	<box size="1.0 2.5 0.5" pos="4.0 -0.5 -13.5" hidden="0" template="brownie2_gradient"/>
+	<box size="1.0 7.0 0.5" pos="-4.0 9.0 -13.5" hidden="0" template="brownie2"/>
+	<box size="7.0 4.5 5.0" pos="0.0 -7.5 -9.0" hidden="0" template="brownie_floor"/>
+	<box size="1.0 2.5 0.5" pos="-4.0 -0.5 -13.5" hidden="0" template="brownie2_gradient"/>
+	<decal pos="2.6875 -2.59796 -14.5625" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+	<decal pos="-2.6875 -2.47296 -14.5625" hidden="0" tile="11" size="2.5 2" color="1 1 1 .9" blend=".25"/>
+</segment>
+

@@ -1,0 +1,36 @@
+<segment size="12 10 16" template="basic_dark_s">
+	<box size="4.0 11.0 0.5" pos="7.0 6.0 -0.5" hidden="0" template="basic_dark"/>
+	<box size="4.0 11.0 0.5" pos="-7.0 6.0 -0.5" hidden="0" template="basic_dark"/>
+	<obstacle pos="-3.5 1.9881 -6.5" hidden="0" type="scoretop" template="basic_st" mode="6"/>
+	<box size="0.5 0.5 0.125" pos="-3.5 0.5 -6.875" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.5 0.125" pos="3.5 -0.5 -6.875" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.5 0.5" pos="-3.5 1.5 -6.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 11.0 0.125" pos="2.5 6.0 -7.125" hidden="0" template="basic_dark"/>
+	<box size="0.5 11.0 0.125" pos="-2.5 6.0 -7.125" hidden="0" template="basic_dark"/>
+	<obstacle pos="0.0 1.00617 -7.5" hidden="0" template="basic_glass" type="bar" mode="2"/>
+	<obstacle pos="0.0 1.25617 -7.5" hidden="0" template="basic_glass" type="bar" mode="4" param1="move=.5" param2="blocker=true" param3="speed=.5"/>
+	<box size="0.5 11.0 0.125" pos="2.5 6.0 -7.875" hidden="0" template="basic_dark"/>
+	<box size="0.5 11.0 0.125" pos="-2.5 6.0 -7.875" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.5 0.0625" pos="1.5 9.25 -14.9375" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 6.25 -14.9375" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.0625 0.5" pos="-0.5 0.0625 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 2.5 0.5" pos="-1.5 -2.5 -15.5" hidden="0" template="basic_dark"/>
+	<box size="4.0 11.0 4.5" pos="-7.0 6.0 -11.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.125 0.5" pos="0.5 0.125 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 2.5 0.5" pos="-2.5 -2.5 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.25 0.5" pos="2.5 0.25 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.1875 0.5" pos="1.5 0.1875 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.125 0.5" pos="-1.5 0.125 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 6.0625 0.5" pos="-0.5 10.9375 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 6.125 0.5" pos="0.5 10.875 -15.5" hidden="0" template="basic_dark"/>
+	<box size="1.0 2.5 8.0" pos="0.0 -2.5 -8.0" hidden="0" template="basic_dark"/>
+	<box size="0.5 0.25 0.5" pos="-2.5 0.25 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 6.125 0.5" pos="-1.5 10.875 -15.5" hidden="0" template="basic_dark"/>
+	<box size="4.0 11.0 4.5" pos="7.0 6.0 -11.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 6.1875 0.5" pos="-2.5 10.8125 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 6.0625 0.5" pos="1.5 10.9375 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 2.5 0.5" pos="2.5 -2.5 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 6.125 0.5" pos="2.5 10.875 -15.5" hidden="0" template="basic_dark"/>
+	<box size="0.5 2.5 0.5" pos="1.5 -2.5 -15.5" hidden="0" template="basic_dark"/>
+</segment>
+
