@@ -1,0 +1,20 @@
+<segment size="12 10 16" template="city_s">
+	<box size="2.0 11.0 0.5" pos="2.5 1.0 -2.5" hidden="0" template="city"/>
+	<box size="2.0 11.0 0.5" pos="-2.5 1.0 -2.5" hidden="0" template="city"/>
+	<obstacle pos="0.75 0.55 -3.5" hidden="0" template="city_glass" type="sweeper" param3="speed=.25" param2="height=1.5" rot="0 0 1.57" mode="6"/>
+	<decal pos="1.0 0.05833 -3.75" hidden="0" tile="28" size="3 2" rot="0 0 1.57" blend="0"/>
+	<decal pos="-1.0 0.05833 -3.75" hidden="0" tile="28" size="3 2" rot="0 0 -1.57" blend="0"/>
+	<box size="1.5 11.0 0.5" pos="-2.0 1.0 -4.5" hidden="0" template="city"/>
+	<box size="1.5 11.0 0.5" pos="2.0 1.0 -4.5" hidden="0" template="city"/>
+	<obstacle pos="0.0 -0.5 -8.0" hidden="0" type="3dcross" template="city_glass" param1="size=2.5" param2="radius=.25" param3="vx=1.5" param4="vy=.1" param5="vz=.2"/>
+	<box size="1.5 11.0 0.5" pos="-2.0 1.0 -11.5" hidden="0" template="city"/>
+	<box size="0.5 11.0 4.0" pos="-4.0 1.0 -8.0" hidden="0" template="city"/>
+	<box size="1.5 11.0 0.5" pos="2.0 1.0 -11.5" hidden="0" template="city"/>
+	<box size="0.5 11.0 4.0" pos="4.0 1.0 -8.0" hidden="0" template="city"/>
+	<obstacle pos="0.75 0.55 -12.5" hidden="0" template="city_glass" type="sweeper" param3="speed=.25" param2="height=1.5" rot="0 0 1.57"/>
+	<decal pos="-1.0 0.05833 -12.75" hidden="0" tile="28" size="3 2" rot="0 0 -1.57" blend="0"/>
+	<decal pos="1.0 0.05833 -12.75" hidden="0" tile="28" size="3 2" rot="0 0 1.57" blend="0"/>
+	<box size="2.0 11.0 0.5" pos="2.5 1.0 -13.5" hidden="0" template="city"/>
+	<box size="2.0 11.0 0.5" pos="-2.5 1.0 -13.5" hidden="0" template="city"/>
+</segment>
+

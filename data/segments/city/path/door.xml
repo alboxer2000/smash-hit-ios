@@ -1,0 +1,30 @@
+<segment size="12 10 8" template="city_s">
+	<box size="0.5 12.0 0.25" pos="-1.0 -14.0 -1.75" hidden="0" template="city"/>
+	<box size="0.5 11.75 0.5" pos="0.0 -14.75 -1.5" hidden="0" template="city"/>
+	<box size="0.5 11.75 0.25" pos="1.0 -14.25 -1.75" hidden="0" template="city"/>
+	<box size="0.5 12.0 0.5" pos="1.0 16.0 -1.5" hidden="0" template="city"/>
+	<box size="0.5 11.5 0.25" pos="0.0 16.5 -1.75" hidden="0" template="city"/>
+	<box size="0.5 11.75 0.5" pos="-1.0 16.25 -1.5" hidden="0" template="city"/>
+	<box size="0.5 0.375 0.125" pos="0.0 -2.625 -1.875" hidden="0" template="city"/>
+	<box size="0.5 0.375 0.125" pos="0.0 4.625 -1.875" hidden="0" template="city"/>
+	<box size="1.5 12.5 0.5" pos="0.0 -13.5 -2.5" hidden="0" template="city"/>
+	<box size="0.5 0.25 0.5" pos="1.0 -0.75 -2.5" hidden="0" template="city"/>
+	<box size="0.5 0.25 0.5" pos="-1.0 -0.75 -2.5" hidden="0" template="city"/>
+	<box size="1.5 12.5 0.5" pos="0.0 15.5 -2.5" hidden="0" template="city"/>
+	<box size="0.5 0.25 0.25" pos="1.0 -0.25 -2.75" hidden="0" template="city"/>
+	<box size="0.5 0.25 0.25" pos="-1.0 2.25 -2.75" hidden="0" template="city"/>
+	<box size="0.25 0.25 0.25" pos="0.75 2.25 -2.75" hidden="0" template="city"/>
+	<box size="0.25 0.25 0.25" pos="-1.25 -0.25 -2.75" hidden="0" template="city"/>
+	<box size="0.5 0.25 0.5" pos="1.0 2.75 -2.5" hidden="0" template="city"/>
+	<box size="0.5 0.25 0.5" pos="-1.0 2.75 -2.5" hidden="0" template="city"/>
+	<decal pos="0.125 3.38132 -3.25" hidden="0" tile="18" blend="0" color="1 .7 .7 .25" size=".6 .9"/>
+	<decal pos="-0.125 -1.36868 -3.25" hidden="0" tile="18" blend="0" color="1 .7 .7 .25" size=".6 .9"/>
+	<box size="0.5 24.0 0.5" pos="1.0 4.0 -3.5" hidden="0" template="city"/>
+	<box size="0.5 24.0 0.5" pos="-1.0 4.0 -3.5" hidden="0" template="city"/>
+	<box size="1.5 14.5 1.25" pos="-13.5 4.5 -3.75" hidden="0" template="city"/>
+	<box size="1.5 14.5 1.25" pos="-8.5 4.5 -3.75" hidden="0" template="city"/>
+	<box size="1.5 14.5 1.25" pos="9.5 4.5 -4.75" hidden="0" template="city"/>
+	<box size="1.5 14.5 1.25" pos="-12.5 4.5 -5.75" hidden="0" template="city"/>
+	<box size="1.5 14.5 1.25" pos="7.5 4.5 -6.75" hidden="0" template="city"/>
+</segment>
+

@@ -1,0 +1,67 @@
+<segment size="12 10 32" template="city_s">
+	<box size="0.5 0.5 0.125" pos="-3.5 0.5 -5.875" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.0625" pos="-2.5 1.5 -5.9375" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.25" pos="-3.5 1.5 -5.75" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.0625" pos="2.5 1.5 -5.9375" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.25" pos="3.5 0.5 -5.75" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.125" pos="3.5 1.5 -5.875" hidden="0" template="city"/>
+	<box size="0.5 0.0625 0.5" pos="2.5 -0.9375 -10.5" hidden="0" template="city"/>
+	<box size="0.5 0.1875 0.5" pos="2.5 -0.8125 -11.5" hidden="0" template="city"/>
+	<box size="0.5 0.125 0.5" pos="2.5 -0.875 -12.5" hidden="0" template="city"/>
+	<box size="0.5 0.0625 0.5" pos="-2.5 -0.9375 -15.5" hidden="0" template="city"/>
+	<box size="0.5 0.1875 0.5" pos="-2.5 -0.8125 -16.5" hidden="0" template="city"/>
+	<box size="0.5 0.125 0.5" pos="-2.5 -0.875 -17.5" hidden="0" template="city"/>
+	<obstacle pos="0.625 3.75109 -18.0" hidden="0" template="city_glass" type="hitblock" param1="distance=35" param6="depth=.15" param3="ay=-.22" param4="ax=-2.2" param2="speed=4" mode="6"/>
+	<box size="1.0 1.0 8.5" pos="3.0 1.0 -14.5" hidden="0" template="city"/>
+	<box size="1.0 1.0 1.0" pos="3.0 1.0 -24.0" hidden="0" template="city_light"/>
+	<decal pos="1.5 1.0 -25.0" hidden="0" tile="7" size=".5 .5" blend="0" color="1 1 1 .25" rot="0 0 1.57"/>
+	<obstacle pos="2.625 1.00165 -26.0" hidden="0" template="city_st" rot="0 0 1.57" type="scoremulti"/>
+	<box size="1.0 0.25 1.0" pos="3.0 0.25 -26.0" hidden="0" template="city_light"/>
+	<box size="1.0 0.25 1.0" pos="3.0 1.75 -26.0" hidden="0" template="city_light"/>
+	<decal pos="1.5 1.0 -27.0" hidden="0" tile="7" size=".5 .5" blend="0" color="1 1 1 .25" rot="0 0 1.57"/>
+	<obstacle pos="-0.75 -5.24891 -28.0" hidden="0" template="city_glass" type="hitblock" param1="distance=35" param6="depth=.15" param3="ay=.3" param4="ax=2" param5="vx=-.3" param2="speed=6" mode="6"/>
+	<box size="1.0 1.0 12.0" pos="3.0 10.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.5" pos="-6.0 1.0 -17.5" hidden="0" template="city"/>
+	<box size="1.0 1.0 14.0" pos="3.0 -2.0 -17.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.5" pos="-6.0 -2.0 -18.5" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.5" pos="6.0 4.0 -18.5" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.5" pos="-3.0 1.0 -18.5" hidden="0" template="city"/>
+	<box size="1.0 1.0 11.0" pos="-6.0 4.0 -20.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="-3.0 4.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="3.0 4.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="3.0 -8.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="-3.0 -8.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 14.0" pos="-3.0 -2.0 -17.0" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.25" pos="0.5 -1.5 -30.75" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.125" pos="0.5 -2.5 -30.875" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.1875" pos="0.5 -0.5 -30.8125" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.125" pos="-0.5 -1.5 -30.875" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.25" pos="-0.5 -0.5 -30.75" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.1875" pos="-0.5 2.5 -30.8125" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.25" pos="0.5 2.5 -30.75" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.0625" pos="-0.5 4.5 -30.9375" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.125" pos="-0.5 3.5 -30.875" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.0625" pos="0.5 6.5 -30.9375" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="-3.0 -5.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="3.0 7.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 14.0" pos="6.0 -2.0 -17.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="-3.0 7.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="3.0 -5.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="-3.0 10.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.5" pos="6.0 1.0 -17.5" hidden="0" template="city"/>
+	<box size="1.0 1.0 2.0" pos="3.0 1.0 -29.0" hidden="0" template="city_light"/>
+	<box size="1.0 1.0 12.0" pos="6.0 10.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="6.0 7.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="-6.0 10.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="-6.0 7.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="6.0 -5.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="-6.0 -8.0 -19.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 13.0" pos="-6.0 -5.0 -18.0" hidden="0" template="city"/>
+	<box size="1.0 1.0 12.0" pos="6.0 -8.0 -19.0" hidden="0" template="city"/>
+	<box size="0.5 0.5 0.0625" pos="0.5 3.5 -31.0625" hidden="0" template="city"/>
+	<box size="1.0 11.0 0.5" pos="0.0 -11.0 -31.5" hidden="0" template="city"/>
+	<box size="16.5 23.0 0.5" pos="-17.5 1.0 -31.5" hidden="0" template="city"/>
+	<box size="1.0 11.0 0.5" pos="0.0 13.0 -31.5" hidden="0" template="city"/>
+	<box size="16.5 23.0 0.5" pos="17.5 1.0 -31.5" hidden="0" template="city"/>
+</segment>
+

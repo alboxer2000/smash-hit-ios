@@ -1,0 +1,45 @@
+<segment size="12 10 16" template="city_s">
+	<box size="1.5 3.5 0.5" pos="0.0 -3.0 -1.5" hidden="0" template="city"/>
+	<box size="0.5 0.6875 0.5" pos="-1.0 1.1875 -1.5" hidden="0" template="city"/>
+	<box size="0.5 0.9375 0.5" pos="1.0 1.4375 -1.5" hidden="0" template="city"/>
+	<box size="0.5 0.9375 0.5" pos="1.0 1.4375 -3.5" hidden="0" template="city"/>
+	<box size="0.5 0.6875 0.5" pos="-1.0 1.1875 -3.5" hidden="0" template="city"/>
+	<box size="1.5 3.5 0.5" pos="0.0 -3.0 -3.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="2.0 5.0 -4.5" hidden="0" template="city"/>
+	<box size="2.5 3.0 0.5" pos="0.0 -3.5 -4.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="-2.0 5.0 -4.5" hidden="0" template="city"/>
+	<box size="1.5 3.5 0.5" pos="0.0 7.0 -4.5" hidden="1" template="city"/>
+	<box size="1.5 0.5 0.5" pos="0.0 10.0 -4.5" hidden="0" template="city"/>
+	<decal pos="0.8125 0.40204 -5.4375" hidden="0" tile="11" size="1.5 1.5" color="1 .7 .7 .5" blend="0.25"/>
+	<decal pos="-0.375 0.13132 -5.75" hidden="0" tile="18" blend="0" color="1 .7 .7 .25" size=".6 .9"/>
+	<box size="0.5 5.5 0.5" pos="-2.0 5.0 -6.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="2.0 5.0 -6.5" hidden="0" template="city"/>
+	<box size="1.5 0.5 0.5" pos="0.0 10.0 -6.5" hidden="0" template="city"/>
+	<box size="2.5 0.5 0.5" pos="0.0 -1.0 -6.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="2.0 5.0 -8.5" hidden="0" template="city"/>
+	<box size="1.5 0.5 0.5" pos="0.0 10.0 -8.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="-2.0 5.0 -8.5" hidden="0" template="city"/>
+	<box size="2.5 0.5 0.5" pos="0.0 -1.0 -8.5" hidden="0" template="city"/>
+	<box size="2.5 0.5 0.5" pos="0.0 -1.0 -10.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="2.0 5.0 -10.5" hidden="0" template="city"/>
+	<box size="1.5 0.5 0.5" pos="0.0 10.0 -10.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="-2.0 5.0 -10.5" hidden="0" template="city"/>
+	<decal pos="0.0 -0.74368 -11.25" hidden="0" tile="18" blend="0.5" color="1 .7 .7 .5" size="1.5 1.1"/>
+	<obstacle pos="0.0 2.0 -11.5" hidden="0" type="laser" rot="0 0 -1.57" param1="beams=3" param0="raycast=true" param2="move=1" param3="speed=.25"/>
+	<obstacle pos="0.0 5.125 -11.5" hidden="0" type="elevator" param0="thickness=6" param1="color=.3 0 0" rot="0 0 3.14" param2="width=3" param3="amplitude=.4"/>
+	<decal pos="0.375 -0.74368 -11.625" hidden="0" tile="18" blend="0.5" color="1 .7 .7 .5" size=".8 1.1"/>
+	<box size="0.5 5.5 0.5" pos="2.0 5.0 -12.5" hidden="0" template="city"/>
+	<box size="1.5 0.5 0.5" pos="0.0 10.0 -12.5" hidden="0" template="city"/>
+	<box size="0.5 0.0625 0.5" pos="1.0 -0.4375 -12.5" hidden="0" template="city"/>
+	<box size="0.5 5.5 0.5" pos="-2.0 5.0 -12.5" hidden="0" template="city"/>
+	<box size="2.5 0.5 0.5" pos="0.0 -1.0 -12.5" hidden="0" template="city"/>
+	<box size="0.5 0.0625 0.5" pos="-1.0 -0.4375 -12.5" hidden="0" template="city"/>
+	<box size="1.5 3.5 0.5" pos="0.0 -3.0 -13.5" hidden="0" template="city"/>
+	<box size="0.5 0.9375 0.5" pos="1.0 1.4375 -13.5" hidden="0" template="city"/>
+	<box size="0.5 0.6875 0.5" pos="-1.0 1.1875 -13.5" hidden="0" template="city"/>
+	<decal pos="-1.0625 0.40204 -14.5625" hidden="0" tile="11" size="1.5 1.5" color="1 .7 .7 .5" blend="0.25"/>
+	<box size="0.5 0.6875 0.5" pos="-1.0 1.1875 -15.5" hidden="0" template="city"/>
+	<box size="1.5 3.5 0.5" pos="0.0 -3.0 -15.5" hidden="0" template="city"/>
+	<box size="0.5 0.9375 0.5" pos="1.0 1.4375 -15.5" hidden="0" template="city"/>
+</segment>
+
