@@ -199,31 +199,41 @@ function loadRanks()
 	end
 end
 
-function createCrossPromo_Default()
-	crossPromoBannerVisible = false
 
-	crossPromoBanner = mgCreateUi("crosspromo_default/crosspromo_banner.xml")
-	mgSetOrigo(crossPromoBanner, "topleft")
-	mgSetPos(crossPromoBanner, left + 20, top + 32)
-	mgSetScale(crossPromoBanner, .75*uiScale, .75*uiScale)	
-
+function createCrossPromo_Shared()
 	crossPromoCanvas = mgCreateCanvas(1, 1)
 	mgSetAlpha(crossPromoCanvas, 0)
 	mgSetOrigo(crossPromoCanvas, "center")
 	mgSetPos(crossPromoCanvas, centerX, centerY)
-	mgSetScale(crossPromoCanvas, crossPromoAspectMultiplier, crossPromoAspectMultiplier)
+	mgSetScale(crossPromoCanvas, crossPromoAspectMultiplier, crossPromoAspectMultiplier)	
+end
+
+
+function createCrossPromo_Default()
+	crossPromoBannerVisible = false
+
+	crossPromoBanner = mgCreateUi("crosspromo_popup/crosspromo_banner.xml")
+	mgSetOrigo(crossPromoBanner, "topleft")
+	mgSetPos(crossPromoBanner, left + 20, top + 32)
+	mgSetScale(crossPromoBanner, .75*uiScale, .75*uiScale)	
 	
-	crossPromoPopup = mgCreateImage("crosspromo_default/crosspromo_popup.png")
+	crossPromoPopup = mgCreateImage("crosspromo_popup/crosspromo_popup.png")
 	mgSetOrigo(crossPromoPopup, "center")
 
-	crossPromoButton = mgCreateUi("crosspromo_default/crosspromo_button.xml")
+	crossPromoButton = mgCreateUi("crosspromo_popup/crosspromo_button.xml")
 	mgSetOrigo(crossPromoButton, "center")
-	mgSetPos(crossPromoButton, 0, 375)
+	mgSetPos(crossPromoButton, 0, 250)
 	mgSetScale(crossPromoButton, 0.8)
 
-	crossPromoNowOnMobile = mgCreateImage("crosspromo_default/crosspromo_now_on_mobile.png")
-	mgSetOrigo(crossPromoNowOnMobile, "center")
-	mgSetPos(crossPromoNowOnMobile, 0, 257)
+	crossPromoInfo = mgCreateImage("crosspromo_popup/crosspromo_info.png")
+	mgSetOrigo(crossPromoInfo, "center")
+	mgSetPos(crossPromoInfo, 0, 330)
+	mgSetScale(crossPromoInfo, 1.33)
+
+	crossPromoSticker = mgCreateImage("crosspromo_popup/crosspromo_arcade_sticker.png")
+	mgSetOrigo(crossPromoSticker, "topleft")
+	mgSetPos(crossPromoSticker, -910, -290)
+	mgSetScale(crossPromoSticker, 1.0)
 end
 
 
@@ -235,6 +245,15 @@ function createCrossPromo_Optional()
 
 	crossPromoPopup_Optional = mgCreateImage("crosspromo_optional/crosspromo_popup.png")
 	mgSetOrigo(crossPromoPopup_Optional, "center")
+
+	crossPromoButton_Optional = mgCreateUi("crosspromo_optional/crosspromo_button.xml")
+	mgSetOrigo(crossPromoButton_Optional, "center")
+	mgSetPos(crossPromoButton_Optional, 0, 375)
+	mgSetScale(crossPromoButton_Optional, 0.8)
+
+	crossPromoInfo_Optional = mgCreateImage("crosspromo_optional/crosspromo_info.png")
+	mgSetOrigo(crossPromoInfo_Optional, "center")
+	mgSetPos(crossPromoInfo_Optional, 0, 257)
 end
 
 
@@ -242,12 +261,16 @@ function setCrossPromo(cpId)
 	if cpId == "optional" then
 		crossPromoBanner = crossPromoBanner_Optional
 		crossPromoPopup = crossPromoPopup_Optional
+		crossPromoButton = crossPromoButton_Optional;
+		crossPromoInfo = crossPromoInfo_Optional;
+		crossPromoSticker = nil
 	end
 	-- default is already set, so doing nothing gets us the default
 end
 
 
 function createCrossPromos()
+	createCrossPromo_Shared()
 	createCrossPromo_Default()
 	createCrossPromo_Optional()
 end
@@ -1050,7 +1073,10 @@ function drawWorld()
 		mgPushCanvas(crossPromoCanvas)
 		mgDraw(crossPromoPopup)
 		mgDraw(crossPromoButton)
-		mgDraw(crossPromoNowOnMobile)
+		mgDraw(crossPromoInfo)
+		if crossPromoSticker ~= nil then
+			mgDraw(crossPromoSticker)
+		end
 		mgPopCanvas()
 	end
 

@@ -11,7 +11,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.mediocre.smashhit</string>
 	<key>DTXcodeBuild</key>
-	<string>15E204a</string>
+	<string>16B40</string>
 	<key>UIStatusBarHidden</key>
 	<true/>
 	<key>LSRequiresIPhoneOS</key>
@@ -23,7 +23,7 @@
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>BuildMachineOSBuild</key>
-	<string>23E224</string>
+	<string>24B91</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>CFBundleIcons~ipad</key>
@@ -152,7 +152,7 @@
 	<key>ITSDRMScheme</key>
 	<string>v2</string>
 	<key>DTPlatformBuild</key>
-	<string>21E210</string>
+	<string>22B74</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UISceneConfigurations</key>
@@ -184,13 +184,13 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>DTSDKBuild</key>
-	<string>21E210</string>
+	<string>22B74</string>
 	<key>DTXcode</key>
-	<string>1530</string>
+	<string>1610</string>
 	<key>DTSDKName</key>
-	<string>iphoneos17.4</string>
+	<string>iphoneos18.1</string>
 	<key>CFBundleVersion</key>
-	<string>20</string>
+	<string>7</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIDeviceFamily</key>
@@ -199,9 +199,9 @@
 		<integer>2</integer>
 	</array>
 	<key>DTPlatformVersion</key>
-	<string>17.4</string>
+	<string>18.1</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.5.3</string>
+	<string>1.5.4</string>
 	<key>UIRequiresFullScreen</key>
 	<true/>
 	<key>CFBundleIcons</key>

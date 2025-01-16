@@ -1,4 +1,4 @@
-<ui texture="crosspromo_default/crosspromo_button.png" shade="true">	
+<ui texture="crosspromo_popup/crosspromo_button.png" shade="true">	
 	<rect coords="0 0 586 256" cmd="script:hidecrosspromo ; game.showCrossPromoFromPopup" />
 	<outside cmd="script:hidecrosspromo"/>
 </ui>
